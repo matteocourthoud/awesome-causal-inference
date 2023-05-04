@@ -34,7 +34,7 @@ The following is a list of applications of causal inference in the industry, sor
 - 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
-  - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://www.kdd.org/kdd2017/papers/view/detecting-network-effects-randomizing-over-randomized-experiments) - LinkedIn (2017)
+  - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf) - LinkedIn (2017)
 
 - [Spreading the Love in the LinkedIn Feed with Creator-Side Optimization](https://engineering.linkedin.com/blog/2018/10/linkedin-feed-with-creator-side-optimization) - LinkedIn (2018)
   - 📝 [Using Ego-Clusters to Measure Network Effects at LinkedIn](https://arxiv.org/pdf/1903.08755.pdf) - LinkedIn (2018)
@@ -42,6 +42,8 @@ The following is a list of applications of causal inference in the industry, sor
 - [A/B testing in a long-distance carpooling marketplace](https://medium.com/blablacar/a-b-testing-in-a-long-distance-carpooling-marketplace-35a67737f4b) - BlaBlaCar (2018)
 
 - [Interference Across a Network](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e) - Lyft (2016)
+
+- [Design and analysis of experiments in networks: Reducing bias from interference](https://arxiv.org/pdf/1404.7530.pdf) - Facebook (2014)
 
 ## Continuous Testing
 
