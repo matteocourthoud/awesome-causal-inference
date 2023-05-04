@@ -26,14 +26,11 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Interference
 
-- [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests)
-  - LinkedIn (2019)
+- [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019) [blog]
 
-- [A/B testing in a long-distance carpooling marketplace](https://medium.com/blablacar/a-b-testing-in-a-long-distance-carpooling-marketplace-35a67737f4b)
-  - BlaBlaCar (2018)
+- [A/B testing in a long-distance carpooling marketplace](https://medium.com/blablacar/a-b-testing-in-a-long-distance-carpooling-marketplace-35a67737f4b) - BlaBlaCar (2018) [blog]
 
-- [Interference Across a Network](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e)
-  - Lyft (2016)
+- [Interference Across a Network](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e) - Lyft (2016) [blog]
 
 ## Continuous Testing
 
