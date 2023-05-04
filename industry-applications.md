@@ -8,6 +8,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Interference](#interference)
 - [Continuous Testing](#continuous-testing)
 - [Ranking](#ranking)
+- [Quasi-experiments](#quasi-experiments)
 - [Misc](#misc)
 
 
@@ -101,11 +102,22 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Customer Lifetime Value
 
+- [Estimating long-term effects when only short-run experiments are available](https://research.atspotify.com/2023/04/estimating-long-term-effects-when-only-short-run-experiments-are-available/) - Spotify (2023)
+
 - 📝 [Beyond Customer Lifetime Valuation: Measuring the Value of Acquisition and Retention for Subscription Services](http://allentran.github.io/static/bellmania.pdf) - Netflix (2022)
 
 
 
+## Quasi-Experiments
+
+- [Gaining confidence in synthetic control causal inference with sensitivity analysis](https://research.atspotify.com/2023/04/gaining-confidence-in-synthetic-control-causal-inference-with-sensitivity-analysis/) - Spotify (2023)
+
+
+
 ## Misc
+
+- [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
+  - 📝 [Estimating categorical counterfactuals via deep twin networks](https://arxiv.org/pdf/2109.01904.pdf) - Spotify (2021) 
 
 - 📝 [Science of price experimentation at Amazon](https://assets.amazon.science/ba/f5/f761c2a04652a798704b5208cc60/science-of-price-experimentation-at-amazon.pdf) - Amazon (2023)
 
