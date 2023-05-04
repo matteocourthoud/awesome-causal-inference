@@ -123,6 +123,10 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Measuring Success with Experimentation](https://tech.ebayinc.com/research/measuring-success-with-experimentation/) - Ebay (2019)
 
+- [Analyzing Switchback Experiments by Cluster Robust Standard Error to Prevent False Positive Results](https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/) - Doordash (2019)
+
+- [Experiment Rigor for Switchback Experiment Analysis](https://doordash.engineering/2019/02/20/experiment-rigor-for-switchback-experiment-analysis/) - Doordash (2019)
+
 - [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://doordash.engineering/2018/02/13/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash/) - Doordash (2018)
 
 - [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2) - Lyft (2016)
