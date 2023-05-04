@@ -25,7 +25,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Conditional Average Treatment Effects
 
-- [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results/)
+- [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results)
   - Doordash (2020)
 
 ## Interference
