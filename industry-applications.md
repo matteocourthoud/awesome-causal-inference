@@ -16,9 +16,9 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Variance Reduction
 
-- [blog] Booking.com (2020): [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255)
+- [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255) - Booking.com (2020) [blog]
 
-- [blog] Booking.com (2018): [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
+- [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d) - Booking.com (2018) [blog]
 
 ## Conditional Average Treatment Effects
 
