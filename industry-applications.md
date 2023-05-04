@@ -12,8 +12,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Experimentation Platform
 
-- [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/)
-  - Uber (2018)
+- [blog] Uber (2018): [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/)
 
 ## Variance Reduction
 
