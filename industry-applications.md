@@ -73,6 +73,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Design and analysis of experiments in networks: Reducing bias from interference](https://arxiv.org/pdf/1404.7530.pdf) - Facebook (2014)
 
+- [Why Marketplace Experimentation Is Harder than it Seems: The Role of Test-Control Interference](https://dominiccoey.github.io/assets/papers/marketplace_experiments.pdf) - Ebay (2014)
+
 
 
 ## Continuous Testing
