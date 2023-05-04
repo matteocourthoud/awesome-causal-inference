@@ -58,6 +58,9 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Ranking
 
+- [Partial Blockout Experiments for a Two Sided Marketplace](https://booking.ai/partial-blockout-experiments-for-a-two-sided-marketplace-a573dfe32696)
+  - Booking (2022) 
+
 - [Beyond A/B Test : Speeding up Airbnb Search Ranking Experimentation through Interleaving](https://medium.com/airbnb-engineering/beyond-a-b-test-speeding-up-airbnb-search-ranking-experimentation-through-interleaving-7087afa09c8e)
   - **Company**: Airbnb
   - **Year**: 2022 
