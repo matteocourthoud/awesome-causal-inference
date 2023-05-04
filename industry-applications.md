@@ -4,7 +4,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Variance Reduction](#variance-reduction)
 - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
-- [Quantiles Testing](#quatiles-testing)
+- [Quantile Testing](#quatile-testing)
 - [Interference](#interference)
 - [Continuous Testing](#continuous-testing)
 - [Ranking](#ranking)
@@ -38,7 +38,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Quantiles Testing
+## Quantile Testing
 
 - [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
   - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
