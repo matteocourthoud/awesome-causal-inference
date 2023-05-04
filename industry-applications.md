@@ -43,6 +43,8 @@ The following is a list of applications of causal inference in the industry, sor
 - [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
   - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
 
+- [How Wish A/B tests percentiles](https://towardsdatascience.com/how-wish-a-b-tests-percentiles-35ee3e4589e7) - Wish (2021)
+
 - 📝 [Large-Scale Online Experimentation with Quantile Metrics](https://arxiv.org/pdf/1903.08762.pdf) - LinkedIn (2019)
 
 - 📝 [Applying the Delta Method in Metric Analytics: A Practical Guide with Novel Ideas](https://arxiv.org/pdf/1803.06336.pdf) - Microsoft (2018)
@@ -73,7 +75,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Design and analysis of experiments in networks: Reducing bias from interference](https://arxiv.org/pdf/1404.7530.pdf) - Facebook (2014)
 
-- [Why Marketplace Experimentation Is Harder than it Seems: The Role of Test-Control Interference](https://dominiccoey.github.io/assets/papers/marketplace_experiments.pdf) - Ebay (2014)
+- 📝 [Why Marketplace Experimentation Is Harder than it Seems: The Role of Test-Control Interference](https://dominiccoey.github.io/assets/papers/marketplace_experiments.pdf) - Ebay (2014)
 
 
 
@@ -114,8 +116,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2022)
-
-- [How Wish A/B tests percentiles](https://towardsdatascience.com/how-wish-a-b-tests-percentiles-35ee3e4589e7) - Wish (2021)
 
 - [Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
 
