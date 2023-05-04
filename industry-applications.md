@@ -29,12 +29,29 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Conditional Average Treatment Effects
 
-
+- [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results/)
+  - **Company**: Doordash
+  - **Year**: 2020
 
 ## Interference
 
+- [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests)
+  - **Company**: LinkedIn
+  - **Year**: 2019
+
+- [A/B testing in a long-distance carpooling marketplace](https://medium.com/blablacar/a-b-testing-in-a-long-distance-carpooling-marketplace-35a67737f4b)
+  - **Company**: BlaBlaCar
+  - **Year**: 2018
+
+- [Interference Across a Network](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e)
+  - **Company**: Lyft
+  - **Year**: 2016
 
 ## Continuous Testing
+
+- [Choosing Sequential Testing Framework — Comparisons and Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
+  - **Company**: Spotify
+  - **Year**: 2023
 
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be)
   - **Company**: Netflix
@@ -42,7 +59,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Ranking
 
+- [Beyond A/B Test : Speeding up Airbnb Search Ranking Experimentation through Interleaving](https://medium.com/airbnb-engineering/beyond-a-b-test-speeding-up-airbnb-search-ranking-experimentation-through-interleaving-7087afa09c8e)
+  - **Company**: Airbnb
+  - **Year**: 2022 
 
+- [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
+  - **Company**: Netflix 
+  - **Year**: 2017
 
 ## Misc
 
@@ -53,7 +76,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Quantifying Efficiency in Ridesharing Marketplaces](https://eng.lyft.com/quantifying-efficiency-in-ridesharing-marketplaces-affd53043db2)
   - **Company**: Uber
   - **Year**: 
-  - **Paper**: [Graph-Based Equilibrium Metrics for Dynamic Supply-Demand Systems with Applications to Ride-sourcing Platforms](https://arxiv.org/abs/2102.05805)
+  - **Paper**: https://arxiv.org/abs/2102.05805
 
 - [How Wish A/B tests percentiles](https://towardsdatascience.com/how-wish-a-b-tests-percentiles-35ee3e4589e7)
   - **Company**: Wish
