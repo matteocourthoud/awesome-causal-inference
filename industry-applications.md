@@ -2,6 +2,7 @@
 
 The following is a list of applications of causal inference in the industry, sorted by topic and date.
 
+- [Experimentation Platform](#experimentation-platform)
 - [Variance Reduction](#variance-reduction)
 - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
 - [Quantile Testing](#quatile-testing)
@@ -9,6 +10,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Continuous Testing](#continuous-testing)
 - [Ranking](#ranking)
 - [Quasi-experiments](#quasi-experiments)
+- [Trustworthy Experiments](#trustworthy-experiments)
 - [Misc](#misc)
 
 
@@ -130,6 +132,21 @@ The following is a list of applications of causal inference in the industry, sor
 ## Mediation Analysis
 
 - 📝 [Mediation Analysis in Online Experiments at Booking.com: Disentangling Direct and Indirect Effects](https://arxiv.org/abs/1810.12718) - Booking (2018)
+
+
+
+## Trustworthy Experiments
+
+- [Patterns of Trustworthy Experimentation: During-Experiment Stage](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-during-experiment-stage/) - Microsoft (2021)
+
+- [More Trustworthy A/B Analysis: Less Data Sampling and More Data Reducing](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/more-trustworthy-a-b-analysis-less-data-sampling-and-more-data-reducing/) - Microsoft (2021)
+
+- [Data Quality: Fundamental Building Blocks for Trustworthy A/B testing Analysis](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/data-quality-fundamental-building-blocks-for-trustworthy-a-b-testing-analysis/) - Microsoft (2021)
+
+- [Patterns of Trustworthy Experimentation: Post-Experiment Stage](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-post-experiment-stage/) - Microsoft (2021)
+
+- [Patterns of Trustworthy Experimentation: Pre-Experiment Stage](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-pre-experiment-stage/) - Microsoft (2020)
+
 
 
 ## Misc
