@@ -14,18 +14,17 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/)
   - **Company**: Uber
-  - **Year**:  
+  - **Year**: 2018
 
 ## Variance Reduction
 
-- [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
-  - **Company**: Booking.com
-  - **Year**: 
-
 - [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255)
   - **Company**: Booking.com
-  - **Year**: 
+  - **Year**: 2020
 
+- [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
+  - **Company**: Booking.com
+  - **Year**: 2018
 
 ## Conditional Average Treatment Effects
 
@@ -55,7 +54,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be)
   - **Company**: Netflix
-  - **Year**: 
+  - **Year**: 2019
 
 ## Ranking
 
@@ -69,21 +68,34 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Misc
 
-- [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b)
-  - **Company**: Meta
-  - **Year**:
-
 - [Quantifying Efficiency in Ridesharing Marketplaces](https://eng.lyft.com/quantifying-efficiency-in-ridesharing-marketplaces-affd53043db2)
   - **Company**: Uber
-  - **Year**: 
-  - **Paper**: https://arxiv.org/abs/2102.05805
+  - **Year**: 2023
+
+- [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b)
+  - **Company**: Meta
+  - **Year**: 2022
+
+- [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/)
+  - **Company**: Spotify 
+  - **Year**: 2022
+
+- [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c)
+  - **Company**: Meta
+  - **Year**: 2022
+
+- [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be)
+  - **Company**: Netflix
+  - **Year**: 2022
 
 - [How Wish A/B tests percentiles](https://towardsdatascience.com/how-wish-a-b-tests-percentiles-35ee3e4589e7)
   - **Company**: Wish
-  - **Year**: `
+  - **Year**: 2021
 
 - [Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0)
   - **Company**: Pinterest
-  - **Year**: 
+  - **Year**: 2019
 
-
+- [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2)
+  - **Company**: Lyft
+  - **Year**: 2016
