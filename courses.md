@@ -41,15 +41,14 @@ The following is a list of free courses in Causal Inference, sortedy by level an
 
 ## Undergraduate
 
-- [Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
-  - **Author**: Brady Neal (Mila — Quebec AI Institute)
-  - **Year**: 2020
-  - **Lectures**: 15 x 0h:45
-  - **Topics**:
-
 - [Causality Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11SiNLE2BNNg59MGcTCpbQx)
   - **Author**: various professors at the Simons’ Institute (Berkeley).
   - **Year**: 2022
   - **Lectures**: 15 x 1h:05
   - **Topics**:
- 
+
+- [Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+  - **Author**: Brady Neal (Mila — Quebec AI Institute)
+  - **Year**: 2020
+  - **Lectures**: 15 x 0h:45
+  - **Topics**:
