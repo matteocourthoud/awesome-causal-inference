@@ -26,9 +26,12 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Interference
 
+- 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
+
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
 
-- 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
+- [Spreading the Love in the LinkedIn Feed with Creator-Side Optimization](https://engineering.linkedin.com/blog/2018/10/linkedin-feed-with-creator-side-optimization) - LinkedIn (2018)
+  - 📝 [Using Ego-Clusters to Measure Network Effects at LinkedIn](https://arxiv.org/pdf/1903.08755.pdf) - LinkedIn (2018)
 
 - [A/B testing in a long-distance carpooling marketplace](https://medium.com/blablacar/a-b-testing-in-a-long-distance-carpooling-marketplace-35a67737f4b) - BlaBlaCar (2018)
 
