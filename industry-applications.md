@@ -21,6 +21,10 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d) - Booking.com (2018)
 
+- [Improving the Sensitivity of Online Controlled Experiments: Case Studies at Netflix](https://www.kdd.org/kdd2016/papers/files/adp0945-xieA.pdf) - Neflix (2016)
+
+- [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data](https://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf) - Microsoft (2013)
+
 ## Conditional Average Treatment Effects
 
 - [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results) - Doordash (2020)
@@ -83,3 +87,5 @@ The following is a list of applications of causal inference in the industry, sor
 - [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2) - Lyft (2016)
 
 - [Significance Testing for Ratio Metrics in Experiments](https://tech.ebayinc.com/engineering/significance-testing-for-ratio-metrics-in-experiments/) - Ebay (2016)
+
+- [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
