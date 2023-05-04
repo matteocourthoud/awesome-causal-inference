@@ -4,6 +4,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Variance Reduction](#variance-reduction)
 - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
+- [Quantiles Testing](#quatiles-testing)
 - [Interference](#interference)
 - [Continuous Testing](#continuous-testing)
 - [Ranking](#ranking)
