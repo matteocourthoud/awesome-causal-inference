@@ -15,11 +15,19 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Experimentation Platform
 
+- [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481) - Netflix (2021)
+
+- [Spotify’s New Experimentation Platform](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/) - Spotify (2020)
+
 - [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/) - Uber (2018)
+
+- [Democratizing online controlled experiments at Booking.com](https://arxiv.org/pdf/1710.08217.pdf) - Booking (2017)
 
 
 
 ## Variance Reduction
+
+- [Deep Dive Into Variance Reduction](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/deep-dive-into-variance-reduction/) - Microsoft (2022)
 
 - [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255) - Booking.com (2020)
 
@@ -37,6 +45,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results) - Doordash (2020)
 
+- [Free Lunch! Retrospective Uplift Modeling for Dynamic Promotions Recommendation within ROI Constraints](https://arxiv.org/pdf/2008.06293.pdf) - Booking (2020)
 
 
 ## Quantile Testing
@@ -114,6 +123,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Gaining confidence in synthetic control causal inference with sensitivity analysis](https://research.atspotify.com/2023/04/gaining-confidence-in-synthetic-control-causal-inference-with-sensitivity-analysis/) - Spotify (2023)
 
+- [There’s more to experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
+
+
+
+## Mediation Analysis
+
+- 📝 [Mediation Analysis in Online Experiments at Booking.com: Disentangling Direct and Indirect Effects](https://arxiv.org/abs/1810.12718) - Booking (2018)
 
 
 ## Misc
@@ -127,9 +143,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Increase A/B Testing Power by Combining Experiments](https://tech.ebayinc.com/engineering/increase-a-b-testing-power-by-combining-experiments/) - Ebay (2022)
 
+- [Overtracking and trigger analysis: reducing sample sizes while INCREASING the sensitivity of experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
+
 - [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2022)
+
+- [Leveraging proxy variables for causal inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb) - Booking (2021)
 
 - [Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
 
