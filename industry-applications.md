@@ -40,6 +40,8 @@ The following is a list of applications of causal inference in the industry, sor
 - [Spreading the Love in the LinkedIn Feed with Creator-Side Optimization](https://engineering.linkedin.com/blog/2018/10/linkedin-feed-with-creator-side-optimization) - LinkedIn (2018)
   - 📝 [Using Ego-Clusters to Measure Network Effects at LinkedIn](https://arxiv.org/pdf/1903.08755.pdf) - LinkedIn (2018)
 
+- [The Design of A/B Tests in an Online Marketplace](https://tech.ebayinc.com/research/the-design-of-a-b-tests-in-an-online-marketplace/) - Ebay (2018)
+
 - [A/B testing in a long-distance carpooling marketplace](https://medium.com/blablacar/a-b-testing-in-a-long-distance-carpooling-marketplace-35a67737f4b) - BlaBlaCar (2018)
 
 - [Interference Across a Network](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e) - Lyft (2016)
@@ -66,6 +68,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
 
+- [Increase A/B Testing Power by Combining Experiments](https://tech.ebayinc.com/engineering/increase-a-b-testing-power-by-combining-experiments/) - Ebay (2022)
+
 - [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2022)
@@ -74,4 +78,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
 
+- [Measuring Success with Experimentation](https://tech.ebayinc.com/research/measuring-success-with-experimentation/) - Ebay (2019)
+
 - [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2) - Lyft (2016)
+
+- [Significance Testing for Ratio Metrics in Experiments](https://tech.ebayinc.com/engineering/significance-testing-for-ratio-metrics-in-experiments/) - Ebay (2016)
