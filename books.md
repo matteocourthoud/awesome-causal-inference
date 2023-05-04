@@ -43,7 +43,7 @@ The following is a list of books in Causal Inference.
   - **Author**: Paul R. Rosenbaum
   - **Year**: 2010 
 
-- [Mostly Harmless Econometrics: An Empiricist's Companion]([https://theeffectbook.net/](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics))
+- [Mostly Harmless Econometrics: An Empiricist's Companion](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)
   - **Author**: Joshua D. Angrist, Jörn-Steffen Pischke
   - **Year**: 2009
 
