@@ -24,11 +24,17 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results) - Doordash (2020)
 
+## Quantiles Testing
+
+- [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
+  - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
+
 ## Interference
 
 - 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
+  - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://www.kdd.org/kdd2017/papers/view/detecting-network-effects-randomizing-over-randomized-experiments) - LinkedIn (2017)
 
 - [Spreading the Love in the LinkedIn Feed with Creator-Side Optimization](https://engineering.linkedin.com/blog/2018/10/linkedin-feed-with-creator-side-optimization) - LinkedIn (2018)
   - 📝 [Using Ego-Clusters to Measure Network Effects at LinkedIn](https://arxiv.org/pdf/1903.08755.pdf) - LinkedIn (2018)
@@ -56,8 +62,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Quantifying Efficiency in Ridesharing Marketplaces](https://eng.lyft.com/quantifying-efficiency-in-ridesharing-marketplaces-affd53043db2) - Uber (2023)
 
 - [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
-
-- [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
 
 - [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
