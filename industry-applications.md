@@ -11,6 +11,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Misc](#misc)
 
 
+
 ## Experimentation Platform
 
 - [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/) - Uber (2018)
@@ -25,6 +26,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data](https://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf) - Microsoft (2013)
 
+
+
 ## Conditional Average Treatment Effects
 
 - [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results) - Doordash (2020)
@@ -34,9 +37,13 @@ The following is a list of applications of causal inference in the industry, sor
 - [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
   - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
 
+
+
 ## Interference
 
 - 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
+
+- [Unbiased Experiments in Congested Networks](https://drive.google.com/file/d/15bBBsNjiCyO_IDILE5taxXcw9E1XDUgs/view) - Netflix (2021)
 
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
   - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf) - LinkedIn (2017)
@@ -52,11 +59,15 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Design and analysis of experiments in networks: Reducing bias from interference](https://arxiv.org/pdf/1404.7530.pdf) - Facebook (2014)
 
+
+
 ## Continuous Testing
 
 - [Choosing Sequential Testing Framework — Comparisons and Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/) - Spotify (2023)
 
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2019)
+
+
 
 ## Ranking
 
@@ -66,9 +77,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55) - Netflix (2017)
 
+
+
 ## Customer Lifetime Value
 
 - 📝 [Beyond Customer Lifetime Valuation: Measuring the Value of Acquisition and Retention for Subscription Services](http://allentran.github.io/static/bellmania.pdf) - Netflix (2022)
+
+
 
 ## Misc
 
