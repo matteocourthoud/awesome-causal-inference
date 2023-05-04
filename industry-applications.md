@@ -21,9 +21,9 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d) - Booking.com (2018)
 
-- [Improving the Sensitivity of Online Controlled Experiments: Case Studies at Netflix](https://www.kdd.org/kdd2016/papers/files/adp0945-xieA.pdf) - Neflix (2016)
+- 📝 [Improving the Sensitivity of Online Controlled Experiments: Case Studies at Netflix](https://www.kdd.org/kdd2016/papers/files/adp0945-xieA.pdf) - Neflix (2016)
 
-- [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data](https://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf) - Microsoft (2013)
+- 📝 [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data](https://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf) - Microsoft (2013)
 
 ## Conditional Average Treatment Effects
 
@@ -50,7 +50,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Interference Across a Network](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e) - Lyft (2016)
 
-- [Design and analysis of experiments in networks: Reducing bias from interference](https://arxiv.org/pdf/1404.7530.pdf) - Facebook (2014)
+- 📝 [Design and analysis of experiments in networks: Reducing bias from interference](https://arxiv.org/pdf/1404.7530.pdf) - Facebook (2014)
 
 ## Continuous Testing
 
@@ -65,6 +65,10 @@ The following is a list of applications of causal inference in the industry, sor
 - [Beyond A/B Test : Speeding up Airbnb Search Ranking Experimentation through Interleaving](https://medium.com/airbnb-engineering/beyond-a-b-test-speeding-up-airbnb-search-ranking-experimentation-through-interleaving-7087afa09c8e) - Airbnb (2022)
 
 - [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55) - Netflix (2017)
+
+## Customer Lifetime Value
+
+- 📝 [Beyond Customer Lifetime Valuation: Measuring the Value of Acquisition and Retention for Subscription Services](http://allentran.github.io/static/bellmania.pdf) - Netflix (2022)
 
 ## Misc
 
