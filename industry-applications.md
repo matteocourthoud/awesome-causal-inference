@@ -61,6 +61,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Unbiased Experiments in Congested Networks](https://drive.google.com/file/d/15bBBsNjiCyO_IDILE5taxXcw9E1XDUgs/view) - Netflix (2021)
 
+- [Budget-split testing: A trustworthy and powerful approach to marketplace A/B testing](https://engineering.linkedin.com/blog/2021/budget-split-testing) - Linkedin (2021)
+
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
   - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf) - LinkedIn (2017)
 
@@ -120,6 +122,8 @@ The following is a list of applications of causal inference in the industry, sor
 - [Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
 
 - [Measuring Success with Experimentation](https://tech.ebayinc.com/research/measuring-success-with-experimentation/) - Ebay (2019)
+
+- [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://doordash.engineering/2018/02/13/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash/) - Doordash (2018)
 
 - [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2) - Lyft (2016)
 
