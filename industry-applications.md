@@ -16,9 +16,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/) - Uber (2018)
 
+
+
 ## Variance Reduction
 
 - [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255) - Booking.com (2020)
+
+- [Improving Experimental Power through Control Using Predictions as Covariate (CUPAC)](https://doordash.engineering/2020/06/08/improving-experimental-power-through-control-using-predictions-as-covariate-cupac/) - Doordash (2020)
 
 - [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d) - Booking.com (2018)
 
@@ -32,10 +36,20 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Leveraging Causal Modeling to Get More Value from Flat Experiment Results](https://doordash.engineering/2020/09/18/causal-modeling-to-get-more-value-from-flat-experiment-results) - Doordash (2020)
 
+
+
 ## Quantiles Testing
 
 - [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
   - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
+
+- 📝 [Large-Scale Online Experimentation with Quantile Metrics](https://arxiv.org/pdf/1903.08762.pdf) - LinkedIn (2019)
+
+- 📝 [Applying the Delta Method in Metric Analytics: A Practical Guide with Novel Ideas](https://arxiv.org/pdf/1803.06336.pdf) - Microsoft (2018)
+
+- [Analyzing Experiment Outcomes: Beyond Average Treatment Effects](https://www.uber.com/en-CH/blog/analyzing-experiment-outcomes/) - Uber (2018)
+
+- [Streaming Video Experimentation at Netflix: Visualizing Practical and Statistical Significance](https://netflixtechblog.com/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a) - Netflix (2018)
 
 
 
@@ -86,6 +100,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 ## Misc
+
+- 📝 [Science of price experimentation at Amazon](https://assets.amazon.science/ba/f5/f761c2a04652a798704b5208cc60/science-of-price-experimentation-at-amazon.pdf) - Amazon (2023)
 
 - [Quantifying Efficiency in Ridesharing Marketplaces](https://eng.lyft.com/quantifying-efficiency-in-ridesharing-marketplaces-affd53043db2) - Uber (2023)
 
