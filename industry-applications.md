@@ -106,6 +106,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Beyond Customer Lifetime Valuation: Measuring the Value of Acquisition and Retention for Subscription Services](http://allentran.github.io/static/bellmania.pdf) - Netflix (2022)
 
+- [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
+
 
 
 ## Quasi-Experiments
@@ -123,8 +125,6 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Quantifying Efficiency in Ridesharing Marketplaces](https://eng.lyft.com/quantifying-efficiency-in-ridesharing-marketplaces-affd53043db2) - Uber (2023)
 
-- [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
-
 - [Increase A/B Testing Power by Combining Experiments](https://tech.ebayinc.com/engineering/increase-a-b-testing-power-by-combining-experiments/) - Ebay (2022)
 
 - [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
@@ -138,6 +138,8 @@ The following is a list of applications of causal inference in the industry, sor
 - [Analyzing Switchback Experiments by Cluster Robust Standard Error to Prevent False Positive Results](https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/) - Doordash (2019)
 
 - [Experiment Rigor for Switchback Experiment Analysis](https://doordash.engineering/2019/02/20/experiment-rigor-for-switchback-experiment-analysis/) - Doordash (2019)
+
+- [Using Causal Inference to Improve the Uber User Experience](https://www.uber.com/en-CH/blog/causal-inference-at-uber/) - Uber (2019)
 
 - [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://doordash.engineering/2018/02/13/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash/) - Doordash (2018)
 
