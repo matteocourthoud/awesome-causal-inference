@@ -1,4 +1,4 @@
-Causal Inference Academic Research
+# Causal Inference Academic Research
 
 The following is a list of academic research papers in Causal Inference, sorted by topic and date. The list is not exhaustive, but only convers established research.
 
