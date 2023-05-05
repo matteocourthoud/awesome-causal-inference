@@ -18,7 +18,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ## Potential Outcomes
 
-- [Causal Inference Using Potential Outcomes](https://www.tandfonline.com/doi/abs/10.1198/016214504000001880) - Rubin(2005)
+- [Causal Inference Using Potential Outcomes](https://www.tandfonline.com/doi/abs/10.1198/016214504000001880) - Rubin (2005)
 
 - [Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies](http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf) - Rubin (1974)
 
