@@ -19,7 +19,7 @@ The following is a list of books in Causal Inference.
 
 - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
   - **Author**: Miguel Hernan (Harvard University)
-  - **Year**: 2022
+  - **Year**: 2020
 
 ## Paid
 
