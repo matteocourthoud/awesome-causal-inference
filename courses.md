@@ -57,6 +57,4 @@ The following is a list of free courses in Causal Inference, sortedy by level an
 
 ## Slides and Notes
 
-- [Applied Econometrics](https://about.peterhull.net/metrix)
-  - Peter Hull (Brown University)
-  - 2023
+- [Applied Econometrics](https://about.peterhull.net/metrix) - Peter Hull (2023)
