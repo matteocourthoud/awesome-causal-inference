@@ -4,12 +4,15 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Potential Outcomes](#potential-outcomes)
 - [Dyrected Acyclic Graphs](#dyrected-acyclic-graphs)
-- [Randomized Experiments](#randomized-experiments)
-- [Difference-in-Differences](#difference-in-differences)
-- [Synthetic Control](#synthetic-control)
-- [Instrumental Variables](#instrumental-variables)
-- [Regression Discontinuity](#regression-discontinuity)
-- [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
+- [Experimental Methods](#experimental-methods)
+  - [Interference](#interference)
+  - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
+- [Quasi-Experimental Methods](#quasi-experimental-methods)
+  - [Difference-in-Differences](#difference-in-differences)
+  - [Synthetic Control](#synthetic-control)
+  - [Instrumental Variables](#instrumental-variables)
+  - [Regression Discontinuity](#regression-discontinuity)
+  
 - [Causal Bandits](#causal-bandits)
 
 
