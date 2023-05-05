@@ -1,4 +1,4 @@
-# Causal Inference Courses
+# Causal Inference Books
 
 The following is a list of books in Causal Inference.
 
