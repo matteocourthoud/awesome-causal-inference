@@ -2,10 +2,12 @@
 
 The following is a list of free courses in Causal Inference, sortedy by level and date.
 
-- [Graduate](#graduate)
-- [Undergraduate](#undergraduate)
+- [Video Lectures](#video-lectures)
+- [Slides and Notes](#slides-and-notes)
 
-## Graduate
+
+
+## Video Lectures
 
 - [Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
   - **Author**: Susan Athey, Jann Spiess, and Stephan Wager (Stanford University)
@@ -39,8 +41,6 @@ The following is a list of free courses in Causal Inference, sortedy by level an
   - **Lectures**: 32 x 0h:30
   - **Topics**:
 
-## Undergraduate
-
 - [Causality Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11SiNLE2BNNg59MGcTCpbQx)
   - **Author**: various professors at the Simons’ Institute (Berkeley).
   - **Year**: 2022
@@ -52,3 +52,11 @@ The following is a list of free courses in Causal Inference, sortedy by level an
   - **Year**: 2020
   - **Lectures**: 15 x 0h:45
   - **Topics**:
+
+
+
+## Slides and Notes
+
+- [Applied Econometrics](https://about.peterhull.net/metrix)
+  - Peter Hull (Brown University)
+  - 2023
