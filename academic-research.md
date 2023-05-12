@@ -26,7 +26,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ## Dyrected Acyclic Graphs
 
-
+- [A Crash Course in Good and Bad Controls](https://journals.sagepub.com/doi/full/10.1177/00491241221099552) - Cinelli, Forney, Pearl (2022)
 
 ## Experimental Methods
 
@@ -43,6 +43,10 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 
 ### Causal Bandits
+
+- [Causal Bandits: Learning Good Interventions via Causal Inference](https://arxiv.org/pdf/1606.03203.pdf) - Lattimore, Lattimore, Reid (2016)
+
+- [Estimation Considerations in Contextual Bandits](https://arxiv.org/pdf/1711.07077.pdf) - Dimakopoulou, Zhou, Athey, Imbens (2018)
 
 
 
