@@ -45,7 +45,7 @@ The following is a list of free courses in Causal Inference, sortedy by date.
   - **Lectures**: 32 x 0h:30
 
 - [Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
-  - **Author**: Brady Neal (Mila — Quebec AI Institute)
+  - **Author**: Brady Neal (Quebec AI Institute)
   - **Year**: 2020
   - **Lectures**: 15 x 0h:45
 
