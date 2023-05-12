@@ -14,6 +14,8 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [CausalML](https://github.com/uber/causalml)
 
+- [CausalNex](https://github.com/quantumblacklabs/causalnex/)
+
 - [DeepIV](https://github.com/jhartford/DeepIV) - Deep learning for instrumental variables estimation
 
 - [GLuM](https://github.com/Quantco/glum/) - Fast generalized linear models
