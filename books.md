@@ -39,15 +39,15 @@ The following is a list of books in Causal Inference.
   - **Author**: Stephen L. Morgan (Johns Hopkins University), Christopher Winship (Harvard University)
   - **Year**: 2014
 
-- [Design of Observational Studies](https://link.springer.com/book/10.1007/978-1-4419-1213-8)
+- [Design of Observational Studies](https://link.springer.com/book/10.1007/978-1-4419-1213-8)<img align="right" width="60" src="img/design_observational_studies.jpeg">
   - **Author**: Paul R. Rosenbaum
   - **Year**: 2010 
 
-- [Mostly Harmless Econometrics: An Empiricist's Companion](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)
+- [Mostly Harmless Econometrics: An Empiricist's Companion](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)<img align="right" width="60" src="img/mostly_harmless_econometrics.jpeg">
   - **Author**: Joshua D. Angrist, Jörn-Steffen Pischke
   - **Year**: 2009
 
-- [Causality](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B)
+- [Causality](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B)<img align="right" width="60" src="img/causality.jpeg">
   - **Author**: Judea Pearl (University of California, Los Angeles)
   - **Year**: 2009
 
