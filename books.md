@@ -12,7 +12,7 @@ The following is a list of books in Causal Inference.
   - **Author**: Scott Cunningham (Baylor University)
   - **Year**: 2021
 
-- [The Effect](https://theeffectbook.net/)
+- [The Effect](https://theeffectbook.net/)<img align="right" height="100" src="img/book_the_effect.png">
   - **Author**: Nick C. Huntington-Klein (Seattle University)
   - **Year**: 2021
   - **Bonus**: [recordings on Youtube](https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8)
