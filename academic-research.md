@@ -7,13 +7,14 @@ The following is a list of academic research papers in Causal Inference, sorted 
 - [Experimental Methods](#experimental-methods)
   - [Interference](#interference)
   - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
+  - [Causal Bandits](#causal-bandits)
 - [Quasi-Experimental Methods](#quasi-experimental-methods)
+  - [Matching](#matching)
   - [Difference-in-Differences](#difference-in-differences)
   - [Synthetic Control](#synthetic-control)
   - [Instrumental Variables](#instrumental-variables)
   - [Regression Discontinuity](#regression-discontinuity)
-  
-- [Causal Bandits](#causal-bandits)
+
 
 
 ## Potential Outcomes
