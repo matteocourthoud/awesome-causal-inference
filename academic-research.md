@@ -72,6 +72,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://par.nsf.gov/servlets/purl/10331930) - Abadie (2021)
 
+- [Synthetic Difference In Differences Estimation](https://arxiv.org/pdf/2301.11859) - Clarke, Pailañir, Athey, Imbens (2023) [[Video](https://www.youtube.com/watch?v=r2DzGAigTl4)]
+
 
 
 ### Instrumental Variables
