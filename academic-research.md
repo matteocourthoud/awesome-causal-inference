@@ -36,6 +36,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
 
+- [Towards optimal doubly robust estimation of heterogeneous causal effects](https://arxiv.org/pdf/2004.14497) - Kennedy (2022) [[Video](https://www.youtube.com/watch?v=AUOnAfUjDVE)]
+
 
 
 ### Interference
