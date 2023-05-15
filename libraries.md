@@ -22,6 +22,8 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [pyhdfe](https://github.com/jeffgortmaker/pyhdfe) - Fast high-dimensional fixed effect orthogonalization algorithm
 
+- [DoubleML](https://github.com/DoubleML/doubleml-for-py) - [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
+
 
 
 ## R
@@ -33,6 +35,8 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [GRF](https://github.com/grf-labs/grf/) - Generalized random forests 
 
 - [alpaca](https://github.com/amrei-stammann/alpaca) - Generalized linear models with high-dimensional fixed effects
+
+- [DAGitty](https://github.com/jtextor/dagitty) - [[Video](https://www.youtube.com/watch?v=LCC4BkLZo-g)]
 
 
 
