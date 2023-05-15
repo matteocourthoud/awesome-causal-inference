@@ -35,7 +35,7 @@ The following is a list of books in Causal Inference.
   - **Author**: Guido W. Imbens (Stanford University), Donald B. Rubin (Harvard University)
   - **Year**: 2015
 
-- [Counterfactuals and Causal Inference](https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7)
+- [Counterfactuals and Causal Inference](https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7)<img align="right" width="60" src="img/counterfactuals_causal_inference.jpg">
   - **Author**: Stephen L. Morgan (Johns Hopkins University), Christopher Winship (Harvard University)
   - **Year**: 2014
 
