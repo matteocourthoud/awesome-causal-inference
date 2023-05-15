@@ -9,7 +9,7 @@ The following is a list of free courses in Causal Inference, sortedy by date.
 
 ## Video Lectures
 
-- [Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<img align="right" width="90" src="img/lectures/machine_learning_causal_inference.jpeg">
+- [Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<img align="right" width="90" src="img/courses/machine_learning_causal_inference.jpeg">
   - **Author**: Susan Athey, Jann Spiess, and Stephan Wager (Stanford University)
   - **Year**: 2022
   - **Lectures**: 19 x 0h:30
