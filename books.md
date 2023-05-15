@@ -31,7 +31,7 @@ The following is a list of books in Causal Inference.
   - **Author**: Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
   - **Year**: 2016
 
-- [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)<img align="right" width="60" src="img/books/causal_inference_statistics.jpeg">
+- [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB)<img align="right" width="60" src="img/books/causal_inference_statistics_medical_sciences.jpeg">
   - **Author**: Guido W. Imbens (Stanford University), Donald B. Rubin (Harvard University)
   - **Year**: 2015
 
