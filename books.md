@@ -1,6 +1,9 @@
 # Causal Inference Books
 
-The following is a list of books in Causal Inference.
+The following is a list of books in Causal Inference, sorted by publication year.
+
+- [Free](#free)
+- [Paid](#paid)
 
 ## Free
 
