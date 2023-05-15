@@ -17,7 +17,7 @@ The following is a list of books in Causal Inference.
   - **Year**: 2021
   - **Bonus**: [recordings on Youtube](https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8)
 
-- [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)<img align="right" width="50" src="img/book_what_if.jpeg">
   - **Author**: Miguel Hernan (Harvard University)
   - **Year**: 2020
 
