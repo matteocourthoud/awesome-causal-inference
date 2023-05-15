@@ -22,7 +22,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [pyhdfe](https://github.com/jeffgortmaker/pyhdfe) - Fast high-dimensional fixed effect orthogonalization algorithm
 
-- [DoubleML](https://github.com/DoubleML/doubleml-for-py) - [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
+- [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Double/debiased machine learning [[Paper](https://arxiv.org/pdf/1608.00060)] [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
 
 
 
