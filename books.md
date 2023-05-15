@@ -8,11 +8,11 @@ The following is a list of books in Causal Inference.
   - **Author**: Matheus Facure (Nubank)
   - **Year**: regularly updated
 
-[Causal Inference: The Mixtape](https://mixtape.scunning.com/)<img align="left" height="100" src="img/book_causal_inference_the_mixtape.jpeg">
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/)<img align="right" width="50" src="img/book_causal_inference_the_mixtape.jpeg">
     - **Author**: Scott Cunningham (Baylor University)
     - **Year**: 2021
 
-- [The Effect](https://theeffectbook.net/)<img align="right" height="100" src="img/book_the_effect.png">
+- [The Effect](https://theeffectbook.net/)<img align="right" width="50" src="img/book_the_effect.png">
   - **Author**: Nick C. Huntington-Klein (Seattle University)
   - **Year**: 2021
   - **Bonus**: [recordings on Youtube](https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8)
