@@ -2,7 +2,9 @@
 
 The following is a list of causal inference lectures.
 
-- [Empirical Bayes Applications](https://www.youtube.com/watch?v=SdWt8xAAF_4) - Christopher Walters (2002)
+- [Empirical Bayes Applications](https://www.youtube.com/watch?v=SdWt8xAAF_4) - Christopher Walters (2022)
+
+- [A tutorial on Bayesian causal inference](https://www.youtube.com/watch?v=9pZtsVA6o4o) - Fan Li (2022)
 
 - [Synthetic Controls: Methods and Practice](https://www.youtube.com/watch?v=oDNaOpNK6G4) - Alberto Abadie (2021)
 
