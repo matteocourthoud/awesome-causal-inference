@@ -24,27 +24,27 @@ The following is a list of free courses in Causal Inference, sortedy by date.
   - **Year**: 2022
   - **Lectures**: 15 x 1h:05
 
-- [Applied Methods](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)
+- [Applied Methods](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)<img align="right" width="150" src="img/courses/applied_methods.jpeg">
   - **Author**: Paul Goldsmith-Pinkham (Yale University)
   - **Year**: 2021
   - **Lectures**: 21 x 1h:00
 
-- [Difference-in-Differences Reading Group](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)
+- [Difference-in-Differences Reading Group](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)<img align="right" width="150" src="img/courses/did_reading_group.jpeg">
   - **Author**: multiple researchers
   - **Year**: 2021
   - **Lectures**: 9 x 1h:20
 
-- [Causal Inference with Panel Data](https://www.youtube.com/playlist?list=PLo0lw6BstMGZQqx_r1GnOETkFYihCgve9)
+- [Causal Inference with Panel Data](https://www.youtube.com/playlist?list=PLo0lw6BstMGZQqx_r1GnOETkFYihCgve9)<img align="right" width="150" src="img/courses/causal_inference_panel_data.jpeg">
   - **Author**: Yiqing Xu (Stanford University)
   - **Year**: 2021
   - **Lectures**: 6 x 0h:50
 
-- [Econometrics](https://www.youtube.com/playlist?list=PL_vQFUgojoerLH1AfiBylg_UvbAaRncKx)
+- [Econometrics](https://www.youtube.com/playlist?list=PL_vQFUgojoerLH1AfiBylg_UvbAaRncKx)<img align="right" width="150" src="img/courses/econometrics.jpeg">
   - **Author**: Chris Conlon (New York University)
   - **Year**: 2020
   - **Lectures**: 32 x 0h:30
 
-- [Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)
+- [Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)<img align="right" width="150" src="img/courses/causal_inference.jpeg">
   - **Author**: Brady Neal (Quebec AI Institute)
   - **Year**: 2020
   - **Lectures**: 15 x 0h:45
