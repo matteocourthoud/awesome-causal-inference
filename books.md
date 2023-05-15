@@ -8,7 +8,7 @@ The following is a list of books in Causal Inference.
   - **Author**: Matheus Facure (Nubank)
   - **Year**: regularly updated
 
-- [Causal Inference: The Mixtape](https://mixtape.scunning.com/)<img align="right" heigyh="100" src="img/book_causal_inference_the_mixtape.jpeg">
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/)<img align="right" height="100" src="img/book_causal_inference_the_mixtape.jpeg">
   - **Author**: Scott Cunningham (Baylor University)
   - **Year**: 2021
 
