@@ -67,7 +67,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Matching
 
-- [The central role of the propensity score in observational studies for causal effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum, Rubin (1983)
+- [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum, Rubin (1983)
 
 
 
