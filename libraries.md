@@ -14,7 +14,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double Machine Learning
   - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly Robust Learning
   - [forest](https://econml.azurewebsites.net/spec/estimation/forest.html) - Doubly Robust Learning
-  - [metalearners](https://econml.azurewebsites.net/spec/estimation/metalearners.html) - Meta Learners [[Paper]((https://arxiv.org/pdf/1706.03461.pdf))]
+  - [metalearners](https://econml.azurewebsites.net/spec/estimation/metalearners.html) - Meta Learners [[Paper](https://arxiv.org/pdf/1706.03461.pdf)]
   - [iv.dml]() - Double Machine Learning with Instrumental Variables
   - [iv.nnet](https://econml.azurewebsites.net/spec/estimation/deepiv.html) - Deep Instrumental Variables
   - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic Double Machine Learning
