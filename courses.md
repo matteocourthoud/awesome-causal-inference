@@ -64,7 +64,7 @@ The following is a list of free courses in Causal Inference, sortedy by date.
 
 ## Slides
 
-- [Causal Inference and Machine Learning](https://apoorvalal.github.io/talks/2021-GraduateSequenceTeaching/) - Lal (2023)
+- [Causal Inference and Machine Learning](https://apoorvalal.github.io/talks/2021-GraduateSequenceTeaching/) - Aaporva Lal (2023)
 
 - [Applied Econometrics](https://about.peterhull.net/metrix) - Peter Hull (2023)
 
