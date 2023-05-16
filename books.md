@@ -30,7 +30,7 @@ The following is a list of books in Causal Inference, sorted by publication year
   - **Author**: Jonas Peters, Dominik Janzing, Bernhard Schölkopf
   - **Year**: 2017
 
-- [Statistical Causal Inferences and Their Applications in Public Health Research](https://link.springer.com/chapter/10.1007/978-3-319-41259-7_8)<img align="right" width="60" src="img/books/statistical_causal_inferences.jpeg">
+- [Statistical Causal Inferences and Their Applications in Public Health Research](https://link.springer.com/chapter/10.1007/978-3-319-41259-7_8)<img align="right" width="60" src="img/books/statistical_causal_inferences.png">
   - **Author**: multiple
   - **Year**: 2016
 
