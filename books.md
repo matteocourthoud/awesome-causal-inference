@@ -30,6 +30,10 @@ The following is a list of books in Causal Inference, sorted by publication year
   - **Author**: Jonas Peters, Dominik Janzing, Bernhard Schölkopf
   - **Year**: 2017
 
+- [Statistical Causal Inferences and Their Applications in Public Health Research](https://link.springer.com/chapter/10.1007/978-3-319-41259-7_8)<img align="right" width="60" src="img/books/statistical_causal_inferences.jpeg">
+  - **Author**: multiple
+  - **Year**: 2016
+
 - [Causal Inference in Statistics: A Primer](https://www.wiley.com/en-us/Causal+Inference+in+Statistics%3A+A+Primer-p-9781119186847)<img align="right" width="60" src="img/books/causal_inference_statistics.jpg">
   - **Author**: Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
   - **Year**: 2016
