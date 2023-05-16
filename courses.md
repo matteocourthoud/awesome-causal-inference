@@ -63,4 +63,10 @@ The following is a list of free courses in Causal Inference, sortedy by date.
 
 ## Slides and Notes
 
+- [Notes](https://apoorvalal.github.io/methods/tex/notes.pdf) - Lal (2023)
+
 - [Applied Econometrics](https://about.peterhull.net/metrix) - Peter Hull (2023)
+
+- [Causal Inference](https://web.stanford.edu/~swager/stats361.pdf) - Stefan Wager (2020)
+
+
