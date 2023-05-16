@@ -6,7 +6,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 ## Python
 
-- [Statsmodels](https://github.com/statsmodels/statsmodels)
+- [Statsmodels](https://github.com/statsmodels/statsmodels) - Linear models and time series analysis
 
 - [DoWhy](https://github.com/py-why/dowhy)
 
