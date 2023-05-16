@@ -38,6 +38,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [DAGitty](https://github.com/jtextor/dagitty) - [[Video](https://www.youtube.com/watch?v=LCC4BkLZo-g)]
 
+- [synthdid](https://github.com/synth-inference/synthdid) - Synthetic difference in differences [[Paper](https://arxiv.org/pdf/2301.11859.pdf)]
 
 
 ## Julia
