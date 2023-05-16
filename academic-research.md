@@ -35,11 +35,15 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Conditional Average Treatment Effects
 
-- [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
-
 - [Towards optimal doubly robust estimation of heterogeneous causal effects](https://arxiv.org/pdf/2004.14497.pdf) - Kennedy (2022) [[Video](https://www.youtube.com/watch?v=AUOnAfUjDVE)]
 
+- [Quasi-Oracle Estimation of Heterogeneous Treatment Effects](https://arxiv.org/pdf/1712.04912.pdf) - Nie, Wager (2020)
+
+- [Adapting Neural Networks for the Estimation of Treatment Effects](https://arxiv.org/pdf/1906.02120.pdf) - Shi, Blei, Veitch (2019)
+
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/pdf/1706.03461.pdf) - Künzel, Sekhon, Bickel, Yu (2017)
+
+- [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
 
 
 
