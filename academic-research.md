@@ -63,17 +63,17 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 
 
-### Difference-in-Differences
+### Panel Methods
 
 - [What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature](https://arxiv.org/pdf/2201.01194.pdf) - Roth, Sant'Anna, Bilinski, Poe (2023)
 
+- [Synthetic Difference In Differences Estimation](https://arxiv.org/pdf/2301.11859.pdf) - Clarke, Pailañir, Athey, Imbens (2023) [[Video](https://www.youtube.com/watch?v=r2DzGAigTl4)]
 
-
-### Synthetic Control
+- [Matrix Completion Methods for Causal Panel Data Models](https://arxiv.org/pdf/1710.10251.pdf) - Athey, Bayati, Doudchenko, Imbens, Khosravi (2022)
 
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://par.nsf.gov/servlets/purl/10331930) - Abadie (2021)
 
-- [Synthetic Difference In Differences Estimation](https://arxiv.org/pdf/2301.11859) - Clarke, Pailañir, Athey, Imbens (2023) [[Video](https://www.youtube.com/watch?v=r2DzGAigTl4)]
+- [Panel Data Models With Interactive Fixed Effects](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6135) - Bai (2009)
 
 
 
