@@ -66,6 +66,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Unconfoundedness
 
+- [Nonparametric Estimation of Average Treatment Effects Under Exogeneity: A Review](https://direct.mit.edu/rest/article/86/1/4/57476/Nonparametric-Estimation-of-Average-Treatment) - Imbens (2004)
+
 - [Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00442) - Hirano, Imbens, Ridder (2003)
 
 - [Reducing Bias in Observational Studies Using Subclassification on the Propensity Score](https://www.tandfonline.com/doi/abs/10.1080/01621459.1984.10478078) - Rosenbaum, Rubin (1984)
