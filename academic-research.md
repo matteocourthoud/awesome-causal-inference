@@ -68,6 +68,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Matching on the Estimated Propensity Score](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA11293) - Abadie, Imbens (2016)
 
+- [Large Sample Properties of Matching Estimators for Average Treatment Effects](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2006.00655.x) - Abadie, Imbens (2006)
+
 - [Nonparametric Estimation of Average Treatment Effects Under Exogeneity: A Review](https://direct.mit.edu/rest/article/86/1/4/57476/Nonparametric-Estimation-of-Average-Treatment) - Imbens (2004)
 
 - [Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00442) - Hirano, Imbens, Ridder (2003)
