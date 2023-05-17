@@ -93,7 +93,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Regression Discontinuity
 
-- [Identification and estimation of treatment effects with a regression-discontinuity design](https://www.jstor.org/stable/pdf/2692190.pdf) - Hahn, Todd, Van der Klaauw (2001)
+- [Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design](https://www.jstor.org/stable/pdf/2692190.pdf) - Hahn, Todd, Van der Klaauw (2001)
 
 
 
