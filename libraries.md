@@ -11,13 +11,13 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [DoWhy](https://github.com/py-why/dowhy)
 
 - [econml](https://github.com/py-why/EconML)
-  - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double Machine Learning
-  - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly Robust Learning
-  - [forest](https://econml.azurewebsites.net/spec/estimation/forest.html) - Causal Forests
-  - [metalearners](https://econml.azurewebsites.net/spec/estimation/metalearners.html) - Meta Learners [[Paper](https://arxiv.org/pdf/1706.03461.pdf)]
-  - [iv.dml]() - Double Machine Learning with Instrumental Variables
-  - [iv.nnet](https://econml.azurewebsites.net/spec/estimation/deepiv.html) - Deep Instrumental Variables
-  - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic Double Machine Learning
+  - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
+  - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly robust learning
+  - [forest](https://econml.azurewebsites.net/spec/estimation/forest.html) - Causal forests
+  - [metalearners](https://econml.azurewebsites.net/spec/estimation/metalearners.html) - Meta learners [[Paper](https://arxiv.org/pdf/1706.03461.pdf)]
+  - [iv.dml]() - Double machine learning with instrumental variables
+  - [iv.nnet](https://econml.azurewebsites.net/spec/estimation/deepiv.html) - Deep instrumental variables
+  - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic double machine learning
 
 - [CausalML](https://github.com/uber/causalml)
 
