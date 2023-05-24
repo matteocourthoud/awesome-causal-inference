@@ -113,6 +113,10 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Regression Discontinuity
 
+- [Inference in Regression Discontinuity Designs with a Discrete Running Variable](https://arxiv.org/pdf/1606.04086.pdf) - Kolesár, Rothe (2018)
+
+- [Optimized Regression Discontinuity Designs](https://arxiv.org/pdf/1705.01677.pdf) - Imbens, Wager (2018)
+
 - [Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design](https://www.jstor.org/stable/pdf/2692190.pdf) - Hahn, Todd, Van der Klaauw (2001)
 
 
