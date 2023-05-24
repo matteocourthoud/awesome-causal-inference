@@ -7,7 +7,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 - [Experimental Methods](#experimental-methods)
   - [Interference](#interference)
   - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
-  - [Causal Bandits](#causal-bandits)
+  - [Adaptive Experiments](#adaptive-experiments)
 - [Quasi-Experimental Methods](#quasi-experimental-methods)
   - [Unconfoundedness](#unconfoundedness)
   - [Panel Methods](#panel-methods)
@@ -56,11 +56,13 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 
 
-### Causal Bandits
+### Adaptive Experiments
+
+- [Estimation Considerations in Contextual Bandits](https://arxiv.org/pdf/1711.07077.pdf) - Dimakopoulou, Zhou, Athey, Imbens (2018)
 
 - [Causal Bandits: Learning Good Interventions via Causal Inference](https://arxiv.org/pdf/1606.03203.pdf) - Lattimore, Lattimore, Reid (2016)
 
-- [Estimation Considerations in Contextual Bandits](https://arxiv.org/pdf/1711.07077.pdf) - Dimakopoulou, Zhou, Athey, Imbens (2018)
+- [Asymptotically Efficient Adaptive Allocation Rules](https://www.sciencedirect.com/science/article/pii/0196885885900028) - Lai, Robbins (1985)
 
 
 
