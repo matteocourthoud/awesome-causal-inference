@@ -123,3 +123,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ## Misc
 
+- [Policy Learning with Observational Data](https://arxiv.org/pdf/1702.02896.pdf) - Athey, Wager (2020)
+
+
+
+
