@@ -1,6 +1,10 @@
-## Causal Inference Lectures
+# Causal Inference Lectures
 
 The following is a list of causal inference lectures.
+
+
+
+## Academic
 
 - [Empirical Bayes Applications](https://www.youtube.com/watch?v=SdWt8xAAF_4) - Christopher Walters (2022)
 
@@ -9,3 +13,10 @@ The following is a list of causal inference lectures.
 - [Synthetic Controls: Methods and Practice](https://www.youtube.com/watch?v=oDNaOpNK6G4) - Alberto Abadie (2021)
 
 - [Regression Discontinuity Designs: Practice and Topics](https://www.youtube.com/watch?v=bFNUeTXOnQ4) - Matias Cattaneo (2021)
+
+
+
+## Industryy
+
+- [An Industry Perspective on Bandit Feedback](https://www.youtube.com/watch?v=NkVWwZKdMac)
+
