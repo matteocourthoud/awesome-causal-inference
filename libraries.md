@@ -31,6 +31,8 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [DeepIV](https://github.com/jhartford/DeepIV) - Deep learning for instrumental variables estimation [[Paper](https://proceedings.mlr.press/v70/hartford17a/hartford17a.pdf)]
 
+- [ananke](https://ananke.readthedocs.io/en/latest/) - Causal inference with DAGs
+
 
 
 ## R
@@ -46,6 +48,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [DAGitty](https://github.com/jtextor/dagitty) - [[Video](https://www.youtube.com/watch?v=LCC4BkLZo-g)]
 
 - [synthdid](https://github.com/synth-inference/synthdid) - Synthetic difference in differences [[Paper](https://arxiv.org/pdf/2301.11859.pdf)]
+
+- [ggdag](https://github.com/r-causal/ggdag) - Visualizing and analyzing causal DAGs
+
+- [pcalg](https://cran.r-project.org/web/packages/pcalg/index.html) - Causal structure learning and causal inference using DAGs
 
 
 ## Julia
