@@ -18,5 +18,5 @@ The following is a list of causal inference lectures.
 
 ## Industryy
 
-- [An Industry Perspective on Bandit Feedback](https://www.youtube.com/watch?v=NkVWwZKdMac)
+- [An Industry Perspective on Bandit Feedback](https://www.youtube.com/watch?v=NkVWwZKdMac) - Booking, Sharechat, Amazon, Spotify, Netflix (2023)
 
