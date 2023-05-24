@@ -70,14 +70,14 @@ The following is a list of free courses in Causal Inference, sortedy by date.
 
 - [Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html) - Fan Li (2022)
 
-
+- [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html) - David Childers (2022)
 
 
 
 
 ## Notes
 
-- [Notes](https://apoorvalal.github.io/methods/tex/notes.pdf) - Lal (2023)
+- [Notes](https://apoorvalal.github.io/methods/tex/notes.pdf) - Aaporva Lal (2023)
 
 - [Causal Inference](https://web.stanford.edu/~swager/stats361.pdf) - Stefan Wager (2020)
 
