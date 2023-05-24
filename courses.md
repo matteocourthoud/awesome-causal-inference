@@ -1,6 +1,6 @@
 # Causal Inference Courses
 
-The following is a list of free courses in Causal Inference, sortedy by date.
+The following is a list of free courses in Causal Inference, sortedy by format and date.
 
 - [Video Lectures](#video-lectures)
 - [Slides](#slides)
