@@ -6,7 +6,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 - [Dyrected Acyclic Graphs](#dyrected-acyclic-graphs)
 - [Experimental Methods](#experimental-methods)
   - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
-  - [Policy Learnig](#policy-learning)
+  - [Policy Learning](#policy-learning)
   - [Adaptive Experiments](#adaptive-experiments)
   - [Optimal Stopping](#optimal-stopping)
   - [Interference](#interference)
