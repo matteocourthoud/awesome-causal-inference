@@ -143,5 +143,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ## Misc
 
+- [Design and Analysis of Switchback Experiments](https://arxiv.org/pdf/2009.00148.pdf) - Bojinov, Simchi-Levi, Zhao (2022)
+
 
 
