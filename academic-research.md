@@ -78,6 +78,18 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Interference
 
+- [Exact P-values for Network Interference](https://arxiv.org/pdf/1506.02084.pdf) - Athey, Eckles, Imbens (2018)
+  <details>
+  <summary>Abstract</summary>
+  We study the calculation of exact p-values for a large class of nonsharp null hypotheses about treatment effects in a setting with data from experiments involving members of a single connected network. The class includes null hypotheses that limit the effect of one unit’s treatment status on another according to the distance between units, for example, the hypothesis might specify that the treatment status of immediate neighbors has no effect, or that units more than two edges away have no effect. We also consider hypotheses concerning the validity of sparsification of a network (e.g., based on the strength of ties) and hypotheses restricting heterogeneity in peer effects (so that, e.g., only the number or fraction treated among neighboring units matters). Our general approach is to define an artificial experiment, such that the null hypothesis that was not sharp for the original experiment is sharp for the artificial experiment, and such that the randomization analysis for the artificial experiment is validated by the design of the original experiment.
+  </details>
+
+- [Estimating Average Causal Effects Under General Interference, with Application to a Social Network Experiment](https://arxiv.org/pdf/1305.6156.pdf) - Aronow, Samii (2018)
+  <details>
+  <summary>Abstract</summary>
+  This paper presents a randomization-based framework for estimating causal effects under interference between units, motivated by challenges that arise in analyzing experiments on social networks. The framework integrates three components: (i) an experimental design that defines the probability distribution of treatment assignments, (ii) a mapping that relates experimental treatment assignments to exposures received by units in the experiment, and (iii) estimands that make use of the experiment to answer questions of substantive interest. We develop the case of estimating average unit-level causal effects from a randomized experiment with interference of arbitrary but known form. The resulting estimators are based on inverse probability weighting. We provide randomization-based variance estimators that account for the complex clustering that can occur when interference is present. We also establish consistency and asymptotic normality under local dependence assumptions. We discuss refinements including covariate-adjusted effect estimators and ratio estimation. We evaluate empirical performance in realistic settings with a naturalistic simulation using social network data from American schools. We then present results from a field experiment on the spread of anti-conflict norms and behavior among school students.
+  </details>
+
 - [Toward Causal Inference With Interference]() - Hudgens, Halloran (2012)
   <details>
   <summary>Abstract</summary>
