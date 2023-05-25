@@ -20,10 +20,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ## Potential Outcomes
 
-- [Causal Inference Using Potential Outcomes](https://www.tandfonline.com/doi/abs/10.1198/016214504000001880) - Rubin (2005) <details>
-  <summary>Abstract</summary>
-  This paper examines the reflection problem that arises when a researcher observing the distribution of behaviour in a population tries to infer whether the average behaviour in some group influences the behaviour of the individuals that comprise the group. It is found that inference is not possible unless the researcher has prior information specifying the compisition of reference groups. If this information is available, the prospects for inference depend critically on the population relationship between the variables defining reference groups and those directly affecting outcomes. Inference is difficult to implossible if these variables are functionally dependent or are statistically independent. The prospects are better if the variables defining reference groups and those directly affecting outcomes are moderately related in the population.
-  </details>
+- [Causal Inference Using Potential Outcomes](https://www.tandfonline.com/doi/abs/10.1198/016214504000001880) - Rubin (2005)
 
 - [Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies](http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf) - Rubin (1974)
 
@@ -80,6 +77,18 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 
 ### Interference
+
+- [Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)
+
+<details>
+  <summary>Abstract</summary>
+  This paper examines the reflection problem that arises when a researcher observing the distribution of behaviour in a population tries to infer whether the average behaviour in some group influences the behaviour of the individuals that comprise the group. It is found that inference is not possible unless the researcher has prior information specifying the compisition of reference groups. If this information is available, the prospects for inference depend critically on the population relationship between the variables defining reference groups and those directly affecting outcomes. Inference is difficult to implossible if these variables are functionally dependent or are statistically independent. The prospects are better if the variables defining reference groups and those directly affecting outcomes are moderately related in the population.
+  </details>
+
+<details>
+  <summary>[Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)</summary>
+  This paper examines the reflection problem that arises when a researcher observing the distribution of behaviour in a population tries to infer whether the average behaviour in some group influences the behaviour of the individuals that comprise the group. It is found that inference is not possible unless the researcher has prior information specifying the compisition of reference groups. If this information is available, the prospects for inference depend critically on the population relationship between the variables defining reference groups and those directly affecting outcomes. Inference is difficult to implossible if these variables are functionally dependent or are statistically independent. The prospects are better if the variables defining reference groups and those directly affecting outcomes are moderately related in the population.
+  </details>
 
 
 
