@@ -80,7 +80,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Toward Causal Inference With Interference]() - Hudgens, Halloran (2012)
   <details>
-  <summary>[Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)</summary>
+  <summary>Abstract</summary>
   A fundamental assumption usually made in causal inference is that of no interference between individuals (or units); that is, the potential outcomes of one individual are assumed to be unaffected by the treatment assignment of other individuals. However, in many settings, this assumption obviously does not hold. For example, in the dependent happenings of infectious diseases, whether one person becomes infected depends on who else in the population is vaccinated. In this article, we consider a population of groups of individuals where interference is possible between individuals within the same group. We propose estimands for direct, indirect, total, and overall causal effects of treatment strategies in this setting. Relations among the estimands are established; for example, the total causal effect is shown to equal the sum of direct and indirect causal effects. Using an experimental design with a two-stage randomization procedure (first at the group level, then at the individual level within groups), unbiased estimators of the proposed estimands are presented. Variances of the estimators are also developed. The methodology is illustrated in two different settings where interference is likely: assessing causal effects of housing vouchers and of vaccines.
   </details>
 
