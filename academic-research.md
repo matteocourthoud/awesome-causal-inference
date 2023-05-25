@@ -79,28 +79,12 @@ The following is a list of academic research papers in Causal Inference, sorted 
 ### Interference
 
 - [Exact P-values for Network Interference](https://arxiv.org/pdf/1506.02084.pdf) - Athey, Eckles, Imbens (2018)
-  <details>
-  <summary>Abstract</summary>
-  We study the calculation of exact p-values for a large class of nonsharp null hypotheses about treatment effects in a setting with data from experiments involving members of a single connected network. The class includes null hypotheses that limit the effect of one unit’s treatment status on another according to the distance between units, for example, the hypothesis might specify that the treatment status of immediate neighbors has no effect, or that units more than two edges away have no effect. We also consider hypotheses concerning the validity of sparsification of a network (e.g., based on the strength of ties) and hypotheses restricting heterogeneity in peer effects (so that, e.g., only the number or fraction treated among neighboring units matters). Our general approach is to define an artificial experiment, such that the null hypothesis that was not sharp for the original experiment is sharp for the artificial experiment, and such that the randomization analysis for the artificial experiment is validated by the design of the original experiment.
-  </details>
 
 - [Estimating Average Causal Effects Under General Interference, with Application to a Social Network Experiment](https://arxiv.org/pdf/1305.6156.pdf) - Aronow, Samii (2018)
-  <details>
-  <summary>Abstract</summary>
-  This paper presents a randomization-based framework for estimating causal effects under interference between units, motivated by challenges that arise in analyzing experiments on social networks. The framework integrates three components: (i) an experimental design that defines the probability distribution of treatment assignments, (ii) a mapping that relates experimental treatment assignments to exposures received by units in the experiment, and (iii) estimands that make use of the experiment to answer questions of substantive interest. We develop the case of estimating average unit-level causal effects from a randomized experiment with interference of arbitrary but known form. The resulting estimators are based on inverse probability weighting. We provide randomization-based variance estimators that account for the complex clustering that can occur when interference is present. We also establish consistency and asymptotic normality under local dependence assumptions. We discuss refinements including covariate-adjusted effect estimators and ratio estimation. We evaluate empirical performance in realistic settings with a naturalistic simulation using social network data from American schools. We then present results from a field experiment on the spread of anti-conflict norms and behavior among school students.
-  </details>
 
-- [Toward Causal Inference With Interference]() - Hudgens, Halloran (2012)
-  <details>
-  <summary>Abstract</summary>
-  A fundamental assumption usually made in causal inference is that of no interference between individuals (or units); that is, the potential outcomes of one individual are assumed to be unaffected by the treatment assignment of other individuals. However, in many settings, this assumption obviously does not hold. For example, in the dependent happenings of infectious diseases, whether one person becomes infected depends on who else in the population is vaccinated. In this article, we consider a population of groups of individuals where interference is possible between individuals within the same group. We propose estimands for direct, indirect, total, and overall causal effects of treatment strategies in this setting. Relations among the estimands are established; for example, the total causal effect is shown to equal the sum of direct and indirect causal effects. Using an experimental design with a two-stage randomization procedure (first at the group level, then at the individual level within groups), unbiased estimators of the proposed estimands are presented. Variances of the estimators are also developed. The methodology is illustrated in two different settings where interference is likely: assessing causal effects of housing vouchers and of vaccines.
-  </details>
+- [Toward Causal Inference With Interference](https://www.tandfonline.com/doi/abs/10.1198/016214508000000292) - Hudgens, Halloran (2012)
 
 - [Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)
-  <details>
-  <summary>Abstract</summary>
-  This paper examines the reflection problem that arises when a researcher observing the distribution of behaviour in a population tries to infer whether the average behaviour in some group influences the behaviour of the individuals that comprise the group. It is found that inference is not possible unless the researcher has prior information specifying the compisition of reference groups. If this information is available, the prospects for inference depend critically on the population relationship between the variables defining reference groups and those directly affecting outcomes. Inference is difficult to implossible if these variables are functionally dependent or are statistically independent. The prospects are better if the variables defining reference groups and those directly affecting outcomes are moderately related in the population.
-  </details>
 
 
 
