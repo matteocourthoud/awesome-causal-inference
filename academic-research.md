@@ -40,7 +40,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Conditional Average Treatment Effects
 
-- [Towards optimal doubly robust estimation of heterogeneous causal effects](https://arxiv.org/pdf/2004.14497.pdf) - Kennedy (2022) [[Video](https://www.youtube.com/watch?v=AUOnAfUjDVE)]
+- [Towards Optimal Doubly Robust Estimation of Heterogeneous Causal Effects](https://arxiv.org/pdf/2004.14497.pdf) - Kennedy (2022) [[Video](https://www.youtube.com/watch?v=AUOnAfUjDVE)]
 
 - [Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://arxiv.org/pdf/1810.13237.pdf) - Knaus, Lechner, Strittmatter (2021)
 
