@@ -78,16 +78,19 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Interference
 
+- [Toward Causal Inference With Interference]() - Hudgens, Halloran (2012)
+  <details>
+  <summary>[Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)</summary>
+  A fundamental assumption usually made in causal inference is that of no interference between individuals (or units); that is, the potential outcomes of one individual are assumed to be unaffected by the treatment assignment of other individuals. However, in many settings, this assumption obviously does not hold. For example, in the dependent happenings of infectious diseases, whether one person becomes infected depends on who else in the population is vaccinated. In this article, we consider a population of groups of individuals where interference is possible between individuals within the same group. We propose estimands for direct, indirect, total, and overall causal effects of treatment strategies in this setting. Relations among the estimands are established; for example, the total causal effect is shown to equal the sum of direct and indirect causal effects. Using an experimental design with a two-stage randomization procedure (first at the group level, then at the individual level within groups), unbiased estimators of the proposed estimands are presented. Variances of the estimators are also developed. The methodology is illustrated in two different settings where interference is likely: assessing causal effects of housing vouchers and of vaccines.
+  </details>
+
 - [Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)
   <details>
   <summary>Abstract</summary>
   This paper examines the reflection problem that arises when a researcher observing the distribution of behaviour in a population tries to infer whether the average behaviour in some group influences the behaviour of the individuals that comprise the group. It is found that inference is not possible unless the researcher has prior information specifying the compisition of reference groups. If this information is available, the prospects for inference depend critically on the population relationship between the variables defining reference groups and those directly affecting outcomes. Inference is difficult to implossible if these variables are functionally dependent or are statistically independent. The prospects are better if the variables defining reference groups and those directly affecting outcomes are moderately related in the population.
   </details>
 
-<details>
-  <summary>[Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)</summary>
-  This paper examines the reflection problem that arises when a researcher observing the distribution of behaviour in a population tries to infer whether the average behaviour in some group influences the behaviour of the individuals that comprise the group. It is found that inference is not possible unless the researcher has prior information specifying the compisition of reference groups. If this information is available, the prospects for inference depend critically on the population relationship between the variables defining reference groups and those directly affecting outcomes. Inference is difficult to implossible if these variables are functionally dependent or are statistically independent. The prospects are better if the variables defining reference groups and those directly affecting outcomes are moderately related in the population.
-  </details>
+
 
 
 
