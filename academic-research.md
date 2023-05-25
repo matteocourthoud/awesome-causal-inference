@@ -30,7 +30,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [A Crash Course in Good and Bad Controls](https://journals.sagepub.com/doi/full/10.1177/00491241221099552) - Cinelli, Forney, Pearl (2022)
 
-- [Causal diagrams for empirical research](https://academic.oup.com/biomet/article/82/4/669/251647) - Pearl (1995)
+- [Causal Diagrams for Empirical Research](https://academic.oup.com/biomet/article/82/4/669/251647) - Pearl (1995)
 
 
 
