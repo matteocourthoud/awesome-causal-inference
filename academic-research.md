@@ -75,6 +75,9 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Optimal Stopping
 
+- [Optimum Character of the Sequential Probability Ratio Test](https://www.jstor.org/stable/2235638) - Wald, Wolfowitz (1948)
+
+- [Sequential Tests of Statistical Hypotheses](https://www.jstor.org/stable/2235829) - Wald (1945)
 
 
 
