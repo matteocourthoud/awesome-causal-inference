@@ -75,6 +75,10 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Optimal Stopping
 
+- [Time-uniform, Nonparametric, Nonasymptotic Confidence Sequences](https://arxiv.org/abs/1810.08240.pdf) Howard, Ramdas, McAuliffe, Sekhon - (2020)
+
+- [Discrete Sequential Boundaries for Clinical Trials](https://www.jstor.org/stable/2336502) - Lan, DeMets (1993)
+
 - [Optimum Character of the Sequential Probability Ratio Test](https://www.jstor.org/stable/2235638) - Wald, Wolfowitz (1948)
 
 - [Sequential Tests of Statistical Hypotheses](https://www.jstor.org/stable/2235829) - Wald (1945)
