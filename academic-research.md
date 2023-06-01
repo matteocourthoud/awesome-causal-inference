@@ -170,6 +170,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies](https://academic.oup.com/aje/article/185/1/65/2662306) - Schuler, Rose (2017)
 
+- [Targeted Maximum Likelihood Learning](https://www.degruyter.com/document/doi/10.2202/1557-4679.1043/html) - van der Laan, Rubin (2006)
+
 - [Identifiability and Exchangeability for Direct and Indirect Effects](https://journals.lww.com/epidem/abstract/1992/03000/identifiability_and_exchangeability_for_direct_and.13.aspx) - Robins, Greenland (1993)
 
 
