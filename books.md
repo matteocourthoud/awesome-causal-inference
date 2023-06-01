@@ -49,7 +49,7 @@ The following is a list of books in Causal Inference, sorted by publication year
   - **Year**: 2014
 
 - [Targeted Learning - Causal Inference for Observational and Experimental Data](https://link.springer.com/book/10.1007/978-1-4419-9782-1)<img align="right" width="60" src="img/books/targeted_learning.png">
-  - **Author**: Mark J. van der Laan , Sherri Rose
+  - **Author**: Mark J. van der Laan, Sherri Rose
   - **Year**: 2011
 
 - [Design of Observational Studies](https://link.springer.com/book/10.1007/978-1-4419-1213-8)<img align="right" width="60" src="img/books/design_observational_studies.jpeg">
@@ -63,4 +63,8 @@ The following is a list of books in Causal Inference, sorted by publication year
 - [Causality](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B)<img align="right" width="60" src="img/books/causality.jpeg">
   - **Author**: Judea Pearl (University of California, Los Angeles)
   - **Year**: 2009
+
+- [Unified Methods for Censored Longitudinal Data and Causality](https://link.springer.com/book/10.1007/978-0-387-21700-0)<img align="right" width="60" src="img/books/unified_methods.png">
+  - **Authors**: Mark J. van der Laan, James M. Robins   
+  - **Year**: 2003
 
