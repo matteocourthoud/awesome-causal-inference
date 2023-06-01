@@ -28,7 +28,7 @@ The following is a list of books in Causal Inference, sorted by publication year
 
 ## Paid
 
-- [Targeted Learning in Data Science - Causal Inference for Complex Longitudinal Studies](https://link.springer.com/book/10.1007/978-3-319-65304-4)<img align="right" width="60" src="img/books/targeted_learning.png">
+- [Targeted Learning in Data Science - Causal Inference for Complex Longitudinal Studies](https://link.springer.com/book/10.1007/978-3-319-65304-4)<img align="right" width="60" src="img/books/targeted_learning_data_science.png">
   - **Author**: Mark J. van der Laan, Sherri Rose
   - **Year**: 2018
 
