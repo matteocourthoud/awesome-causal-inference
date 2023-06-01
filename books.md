@@ -46,6 +46,10 @@ The following is a list of books in Causal Inference, sorted by publication year
   - **Author**: Stephen L. Morgan (Johns Hopkins University), Christopher Winship (Harvard University)
   - **Year**: 2014
 
+- [Targeted Learning - Causal Inference for Observational and Experimental Data](https://link.springer.com/book/10.1007/978-1-4419-9782-1)<img align="right" width="60" src="img/books/targeted_learning.png">
+  - **Author**: Mark J. van der Laan , Sherri Rose
+  - **Year**: 2011
+
 - [Design of Observational Studies](https://link.springer.com/book/10.1007/978-1-4419-1213-8)<img align="right" width="60" src="img/books/design_observational_studies.jpeg">
   - **Author**: Paul R. Rosenbaum
   - **Year**: 2010 
