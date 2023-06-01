@@ -1,6 +1,6 @@
 # Causal Inference Academic Research
 
-The following is a list of academic research papers in Causal Inference, sorted by topic and date. The list is not exhaustive, but only convers established research.
+The following is a list of academic research papers in Causal Inference, sorted by topic and date. 
 
 - [Potential Outcomes](#potential-outcomes)
 - [Dyrected Acyclic Graphs](#dyrected-acyclic-graphs)
@@ -15,6 +15,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
   - [Panel Methods](#panel-methods)
   - [Instrumental Variables](#instrumental-variables)
   - [Regression Discontinuity](#regression-discontinuity)
+
+**Note for curators**: differently from most other sections, the aim of this list is *not* to be axhaustive, but to cover most of the *established* research. Occasionally, I might include working papers, if deemed particularly worth of attention.
 
 
 
