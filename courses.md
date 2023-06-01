@@ -83,6 +83,7 @@ The following is a list of free courses in Causal Inference, sortedy by format a
 
 - [Causal Inference](https://web.stanford.edu/~swager/stats361.pdf) - Stefan Wager (2020)
 
+- [Introduction to Modern Causal Inference](https://alejandroschuler.github.io/mci/) - Alejandro Schuler, Mark van der Laan (20??)
 
 
 
