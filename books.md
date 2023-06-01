@@ -5,6 +5,8 @@ The following is a list of books in Causal Inference, sorted by publication year
 - [Free](#free)
 - [Paid](#paid)
 
+**Note for curators**: so far I have included only books whose main focus is causal inference. I might add in the future books that cover causal inference only partially, or books that cover tools required for causal inference (statistics, econometrics, ...).
+
 ## Free
 
 - [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
