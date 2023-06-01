@@ -28,6 +28,10 @@ The following is a list of books in Causal Inference, sorted by publication year
 
 ## Paid
 
+- [Targeted Learning in Data Science - Causal Inference for Complex Longitudinal Studies](https://link.springer.com/book/10.1007/978-3-319-65304-4)<img align="right" width="60" src="img/books/targeted_learning.png">
+  - **Author**: Mark J. van der Laan, Sherri Rose
+  - **Year**: 2018
+
 - [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)<img align="right" width="60" src="img/books/elements_of_causal_inference.jpeg">
   - **Author**: Jonas Peters, Dominik Janzing, Bernhard Schölkopf
   - **Year**: 2017
