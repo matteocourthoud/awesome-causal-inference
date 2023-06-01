@@ -168,6 +168,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Design and Analysis of Switchback Experiments](https://arxiv.org/pdf/2009.00148.pdf) - Bojinov, Simchi-Levi, Zhao (2022)
 
+- [Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies](https://academic.oup.com/aje/article/185/1/65/2662306) - Schuler, Rose (2017)
+
 - [Identifiability and Exchangeability for Direct and Indirect Effects](https://journals.lww.com/epidem/abstract/1992/03000/identifiability_and_exchangeability_for_direct_and.13.aspx) - Robins, Greenland (1993)
 
 
