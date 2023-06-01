@@ -16,7 +16,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
   - [Instrumental Variables](#instrumental-variables)
   - [Regression Discontinuity](#regression-discontinuity)
 
-**Note for curators**: differently from most other sections, the aim of this list is *not* to be axhaustive, but to cover most of the *established* research. Occasionally, I might include working papers, if deemed particularly worth of attention.
+**Note for curators**: differently from most other sections, the aim of this list is *not* to be exhaustive, but to cover most of the *established* research. Occasionally, I might include working papers, if deemed particularly worth of attention.
 
 
 
