@@ -61,10 +61,15 @@ The following is a list of free courses in Causal Inference, sortedy by format a
   - **Lectures**: 9 x 1h:15
 
 
+## Notes
 
-## Slides
+- [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793.pdf) - Peng Ding (2023)
 
 - [Causal Inference and Machine Learning](https://apoorvalal.github.io/talks/2021-GraduateSequenceTeaching/) - Aaporva Lal (2023)
+
+
+
+## Slides
 
 - [Applied Econometrics](https://about.peterhull.net/metrix) - Peter Hull (2023)
 
