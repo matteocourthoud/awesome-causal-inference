@@ -15,6 +15,11 @@ The following is a list of free courses in Causal Inference, sortedy by format a
   - **Year**: 2022
   - **Lectures**: 19 x 0h:30
 
+- [Modern Topics in Uncertainty Quantification ](https://www.youtube.com/playlist?list=PLlIlhe_rS4U0D3jRXfwTfq3aDngb3w-hU)<img align="right" width="150" src="img/courses/uncertainty_quantification.jpeg">
+  - **Author**: Aaron Roth (University of Pennsylvania)
+  - **Year**: 2022
+  - **Lectures**: 12 x 2h:15
+
 - [Modern Sampling Methods: Design and Inference](https://www.aeaweb.org/conference/cont-ed/2022-webcasts)
   - **Author**: Keisuke Hirano (Yale University), Jack Porter (UW Madison)
   - **Year**: 2022
