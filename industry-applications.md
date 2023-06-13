@@ -95,9 +95,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Continuous Testing
 
+- [Sequential Testing at Booking.com](https://booking.ai/sequential-testing-at-booking-com-650954a569c7) - Booking (2023)
+
 - [Choosing Sequential Testing Framework — Comparisons and Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/) - Spotify (2023)
 
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2019)
+
+- 📝 [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf) - Optimizely (2017)
 
 
 
