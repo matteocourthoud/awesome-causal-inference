@@ -33,6 +33,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [ananke](https://ananke.readthedocs.io/en/latest/) - Causal inference with DAGs
 
+- [sklift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
 
 
 ## R
