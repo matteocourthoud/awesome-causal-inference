@@ -156,6 +156,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Misc
 
+- 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
+
 - [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
   - 📝 [Estimating categorical counterfactuals via deep twin networks](https://arxiv.org/pdf/2109.01904.pdf) - Spotify (2021) 
 
