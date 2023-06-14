@@ -44,6 +44,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Conditional Average Treatment Effects
 
+- [Empirical Analysis of Model Selection for Heterogeneous Causal Effect Estimation](https://arxiv.org/pdf/2211.01939.pdf) - Mahajan, Mitliagkas, Neal, Syrgkanis (2022)
+
 - [Towards Optimal Doubly Robust Estimation of Heterogeneous Causal Effects](https://arxiv.org/pdf/2004.14497.pdf) - Kennedy (2022) [[Video](https://www.youtube.com/watch?v=AUOnAfUjDVE)]
 
 - [Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://arxiv.org/pdf/1810.13237.pdf) - Knaus, Lechner, Strittmatter (2021)
