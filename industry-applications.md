@@ -86,6 +86,10 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [A/B testing in a long-distance carpooling marketplace](https://medium.com/blablacar/a-b-testing-in-a-long-distance-carpooling-marketplace-35a67737f4b) - BlaBlaCar (2018)
 
+- [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://doordash.engineering/2018/02/13/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash/) - Doordash (2018)
+
+- [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2) - Lyft (2016)
+
 - [Interference Across a Network](https://eng.lyft.com/experimentation-in-a-ridesharing-marketplace-b39db027a66e) - Lyft (2016)
 
 - 📝 [Design and analysis of experiments in networks: Reducing bias from interference](https://arxiv.org/pdf/1404.7530.pdf) - Facebook (2014)
@@ -123,6 +127,7 @@ The following is a list of applications of causal inference in the industry, sor
 - 📝 [Beyond Customer Lifetime Valuation: Measuring the Value of Acquisition and Retention for Subscription Services](http://allentran.github.io/static/bellmania.pdf) - Netflix (2022)
 
 - [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
+
 
 
 ## Geo-Experiments
@@ -190,10 +195,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Experiment Rigor for Switchback Experiment Analysis](https://doordash.engineering/2019/02/20/experiment-rigor-for-switchback-experiment-analysis/) - Doordash (2019)
 
 - [Using Causal Inference to Improve the Uber User Experience](https://www.uber.com/en-CH/blog/causal-inference-at-uber/) - Uber (2019)
-
-- [Switchback Tests and Randomized Experimentation Under Network Effects at DoorDash](https://doordash.engineering/2018/02/13/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash/) - Doordash (2018)
-
-- [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2) - Lyft (2016)
 
 - [Significance Testing for Ratio Metrics in Experiments](https://tech.ebayinc.com/engineering/significance-testing-for-ratio-metrics-in-experiments/) - Ebay (2016)
 
