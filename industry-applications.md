@@ -125,6 +125,12 @@ The following is a list of applications of causal inference in the industry, sor
 - [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
 
 
+## Geo-Experiments
+
+- [Market Segmentation for Geo-Testing at Scale](https://medium.com/expedia-group-tech/market-segmentation-for-geo-testing-at-scale-8d593e0aa755) - Expedia (2023)
+
+- [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
+
 
 ## Quasi-Experiments
 
@@ -190,7 +196,5 @@ The following is a list of applications of causal inference in the industry, sor
 - [Simulating a ridesharing marketplace](https://eng.lyft.com/https-medium-com-adamgreenhall-simulating-a-ridesharing-marketplace-36007a8a31f2) - Lyft (2016)
 
 - [Significance Testing for Ratio Metrics in Experiments](https://tech.ebayinc.com/engineering/significance-testing-for-ratio-metrics-in-experiments/) - Ebay (2016)
-
-- [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
 
 - 📝 [Automatic Detection and Diagnosis of Biased Online Experiments](https://arxiv.org/pdf/1808.00114.pdf) - Linkedin (2011)
