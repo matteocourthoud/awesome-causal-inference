@@ -182,8 +182,6 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
-- [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2022)
-
 - [Leveraging proxy variables for causal inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb) - Booking (2021)
 
 - [Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
