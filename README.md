@@ -10,7 +10,7 @@ A curated list of causal inference libraries, resources, and applications.
 
 - 🎓 [Conferences](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/conferences.md)
 
-- 📺 [Courses](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/courses.md)
+- 🧑‍🏫 [Courses](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/courses.md)
 
 - 🏭 [Industry Applications](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/industry-applications.md)
 
