@@ -130,6 +130,10 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://par.nsf.gov/servlets/purl/10331930) - Abadie (2021)
 
+- [Difference-in-Differences with Variation in Treatment Timing](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445) - Goodman-Bacon (2021)
+
+- [Difference-in-differences with Multiple Time Periods](https://arxiv.org/abs/1803.09015) - Callaway, Sant'Anna (2021)
+
 - [Panel Data Models With Interactive Fixed Effects](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6135) - Bai (2009)
 
 
