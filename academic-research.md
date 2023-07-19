@@ -115,9 +115,12 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00442) - Hirano, Imbens, Ridder (2003)
 
+- [Matching As An Econometric Evaluation Estimator](https://academic.oup.com/restud/article-abstract/65/2/261/1580756) - Heckman, Ichimura, Todd (1998)
+
 - [Reducing Bias in Observational Studies Using Subclassification on the Propensity Score](https://www.tandfonline.com/doi/abs/10.1080/01621459.1984.10478078) - Rosenbaum, Rubin (1984)
 
 - [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum, Rubin (1983)
+
 
 
 ### Panel Methods
