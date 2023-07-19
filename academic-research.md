@@ -148,7 +148,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Instrumental Variables
 
-- [Locally Robust Semiparametric Estimation](https://arxiv.org/pdf/1608.0003.pdf) - Chernozhukov, Escanciano, Ichimura, Newey, Robins (2022)
+- [Locally Robust Semiparametric Estimation](https://arxiv.org/pdf/1608.00033.pdf) - Chernozhukov, Escanciano, Ichimura, Newey, Robins (2022)
 
 - [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) - Angrist, Imbens (1994) 
 
