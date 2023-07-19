@@ -6,7 +6,6 @@ The following is a list of academic research papers in Causal Inference, sorted 
 - [Dyrected Acyclic Graphs](#dyrected-acyclic-graphs)
 - [Experimental Methods](#experimental-methods)
   - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
-  - [Policy Learning](#policy-learning)
   - [Adaptive Experiments](#adaptive-experiments)
   - [Optimal Stopping](#optimal-stopping)
   - [Interference](#interference)
@@ -58,11 +57,6 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
 
-
-
-### Policy Learning
-
-- [Policy Learning with Observational Data](https://arxiv.org/pdf/1702.02896.pdf) - Athey, Wager (2020)
 
 
 
@@ -169,6 +163,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 ## Misc
 
 - [Design and Analysis of Switchback Experiments](https://arxiv.org/pdf/2009.00148.pdf) - Bojinov, Simchi-Levi, Zhao (2022)
+
+- [Policy Learning with Observational Data](https://arxiv.org/pdf/1702.02896.pdf) - Athey, Wager (2020)
 
 - [Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies](https://academic.oup.com/aje/article/185/1/65/2662306) - Schuler, Rose (2017)
 
