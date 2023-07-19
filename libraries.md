@@ -8,7 +8,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [Statsmodels](https://github.com/statsmodels/statsmodels) - Linear models and time series analysis
 
-- [DoWhy](https://github.com/py-why/dowhy)
+- [DoWhy](https://github.com/py-why/dowhy) 
 
 - [econml](https://github.com/py-why/EconML)
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
@@ -34,6 +34,9 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [ananke](https://ananke.readthedocs.io/en/latest/) - Causal inference with DAGs
 
 - [scikit-uplift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
+
+- [CausalPy](https://github.com/pymc-labs/CausalPy) - Causal inference in quasi-experimental settings
+
 
 
 ## R
