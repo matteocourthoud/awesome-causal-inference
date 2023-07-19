@@ -140,6 +140,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Difference-in-differences with Multiple Time Periods](https://arxiv.org/abs/1803.09015) - Callaway, Sant'Anna (2021)
 
+- [Two-way Fixed Effects Estimators with Heterogeneous Treatment Effects](https://arxiv.org/abs/1803.08807) - de Chaisemartin, D'Haultfœuille (2020)
+
 - [Panel Data Models With Interactive Fixed Effects](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6135) - Bai (2009)
 
 
