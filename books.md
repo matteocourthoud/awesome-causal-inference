@@ -28,8 +28,8 @@ The following is a list of books in Causal Inference, sorted by publication year
 
 ## Paid
 
-- [Causal Inference in Python](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/)<img align="right" width="60" src="img/books/causal_inference_python.png">
-  - **Author**: M. Facure
+- [Causal Inference in Python](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/)<img align="right" width="60" src="img/books/causal_inference_python.jpg">
+  - **Author**: Matheus Facure
   - **Year**: 2023
  
 - [The Book of Why](http://bayes.cs.ucla.edu/WHY/)<img align="right" width="60" src="img/books/book_of_why.jpeg">
