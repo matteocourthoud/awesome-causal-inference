@@ -174,6 +174,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [When Should You Adjust Standard Errors for Clustering?](https://academic.oup.com/qje/article/138/1/1/6750017) - Abadie, Athey, Imbens, Wooldridge (2023)
 
+- [Sampling-Based versus Design-Based Uncertainty in Regression Analysis](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA12675) -  Abadie, Athey, Imbens, Wooldridge (2020)
+
 - [Robust Standard Errors in Small Samples: Some Practical Advice](https://direct.mit.edu/rest/article-abstract/98/4/701/58336/Robust-Standard-Errors-in-Small-Samples-Some) - Imbens, Kolesár (2016)
 
 
