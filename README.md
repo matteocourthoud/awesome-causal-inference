@@ -14,6 +14,6 @@ A curated list of causal inference libraries, resources, and applications.
 
 - 🏭 [Industry Applications](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/industry-applications.md)
 
-- 📝 [Lectures](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/lectures.md)
-
 - 🛠️ [Libraries](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/libraries.md)
+
+- 💬 [Talks](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/talks.md)
