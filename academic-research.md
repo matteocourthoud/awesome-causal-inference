@@ -14,6 +14,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
   - [Panel Methods](#panel-methods)
   - [Instrumental Variables](#instrumental-variables)
   - [Regression Discontinuity](#regression-discontinuity)
+- [Inference](#inference)
 
 **Note for curators**: differently from other sections, the aim of this list is *not* to be exhaustive but rather to cover most of the *established* research. Occasionally, I might include working papers if particularly relevant. If some areas are underrepresented (e.g. DAGs) is not by choice, but because of my background. Contributions are very welcome!
 
@@ -166,6 +167,15 @@ The following is a list of academic research papers in Causal Inference, sorted 
 - [Optimized Regression Discontinuity Designs](https://arxiv.org/pdf/1705.01677.pdf) - Imbens, Wager (2018)
 
 - [Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design](https://www.jstor.org/stable/pdf/2692190.pdf) - Hahn, Todd, Van der Klaauw (2001)
+
+
+
+## Inference
+
+- [When Should You Adjust Standard Errors for Clustering?](https://academic.oup.com/qje/article/138/1/1/6750017) - Abadie, Athey, Imbens, Wooldridge (2023)
+
+- [Robust Standard Errors in Small Samples: Some Practical Advice](https://direct.mit.edu/rest/article-abstract/98/4/701/58336/Robust-Standard-Errors-in-Small-Samples-Some) - Imbens, Kolesár (2016)
+
 
 
 
