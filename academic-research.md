@@ -89,6 +89,8 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 - [Estimating Average Causal Effects Under General Interference, with Application to a Social Network Experiment](https://arxiv.org/pdf/1305.6156.pdf) - Aronow, Samii (2018)
 
+- [Estimating Peer Effects in Networks with Peer Encouragement Designs](https://www.pnas.org/doi/abs/10.1073/pnas.1511201113) - Eckles, Kizilcec, Bakshy (2016)
+
 - [On causal Inference in the Presence of Interference](https://journals.sagepub.com/doi/pdf/10.1177/0962280210386779) - Tchetgen Tchetgen, VanderWeele (2012)
 
 - [Toward Causal Inference With Interference](https://www.tandfonline.com/doi/abs/10.1198/016214508000000292) - Hudgens, Halloran (2012)
