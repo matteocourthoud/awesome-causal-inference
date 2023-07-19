@@ -1,7 +1,10 @@
 # Causal Inference Lectures
 
-The following is a list of causal inference lectures.
+The following is a list of causal inference talks.
 
+- [Academic](#academic)
+
+- [Industry](#industry)
 
 
 ## Academic
