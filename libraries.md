@@ -52,7 +52,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/py-why/causal-learn)
   - Causal discovery
 
-- [causal-tune](https://github.com/py-why/causaltune) - AutoML for causal inference
+- [causal-tune](https://github.com/py-why/causaltune)
+![downloads](https://img.shields.io/pypi/dm/causaltune)
+![stars](https://img.shields.io/github/stars/py-why/causaltune)
+  - AutoML for causal inference
 
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
 
