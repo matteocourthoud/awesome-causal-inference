@@ -16,12 +16,17 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
   - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly robust learning
   - [forest](https://econml.azurewebsites.net/spec/estimation/forest.html) - Causal forests
-  - [metalearners](https://econml.azurewebsites.net/spec/estimation/metalearners.html) - Meta learners [[Paper](https://arxiv.org/pdf/1706.03461.pdf)]
+  - [metalearners](https://econml.azurewebsites.net/spec/estimation/metalearners.html) - S-, T-, X-learners [[Paper](https://arxiv.org/pdf/1706.03461.pdf)]
   - [iv.dml]() - Double machine learning with instrumental variables
   - [iv.nnet](https://econml.azurewebsites.net/spec/estimation/deepiv.html) - Deep instrumental variables
   - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic double machine learning
 
 - [CausalML](https://github.com/uber/causalml)
+  - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
+  - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
+  - [inference.iv](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.iv) - Doubly-robust instrumental variables [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#doubly-robust-instrumental-variable-driv-learner)]
+  - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
+  - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
 
