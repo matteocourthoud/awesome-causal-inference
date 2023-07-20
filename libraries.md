@@ -83,10 +83,14 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ## R
 
 - [FixEst](https://github.com/lrberge/fixest)
+![downloads](https://cranlogs.r-pkg.org/badges/fixest)
 ![stars](https://img.shields.io/github/stars/lrberge/fixest)
   - Fast high-dimensional fixed effect regression [[Doc](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html)]
 
 - [CausalImpact](https://github.com/google/CausalImpact)
+![downloads](https://cranlogs.r-pkg.org/badges/CausalImpact)
+![stars](https://img.shields.io/github/stars/google/CausalImpact)
+  - Bayesian structural time-series models [[Docs](https://google.github.io/CausalImpact/CausalImpact.html)]
 
 - [GRF](https://github.com/grf-labs/grf/) - Generalized random forests 
 
