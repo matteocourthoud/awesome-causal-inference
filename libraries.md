@@ -103,7 +103,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [scikit-uplift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
 
 
-## R
+## <img width="24" src="img/icon/r.png"> R
 
 - [CausalImpact](https://github.com/google/CausalImpact)
 ![downloads](https://cranlogs.r-pkg.org/badges/CausalImpact)
@@ -131,7 +131,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [pcalg](https://cran.r-project.org/web/packages/pcalg/index.html) - Causal structure learning and causal inference using DAGs
 
 
-## Julia
+## <img width="24" src="img/icon/julia.png"> Julia
 
 - [Causalinference](https://github.com/mschauer/CausalInference.jl) 
 
