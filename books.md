@@ -39,7 +39,11 @@ The following is a list of books in Causal Inference, sorted by publication year
 - [Quasi-Experimentation: A Guide to Design and Analysis](https://www.guilford.com/books/Quasi-Experimentation/Charles-Reichardt/9781462540204)<img align="right" width="60" src="img/books/quasi_experimentation.jpeg">
   - **Author**: Charles S. Reichardt
   - **Year**: 2019
-  
+ 
+- [Impact Evaluation: Treatment Effects and Causal Analysis](https://www.cambridge.org/ch/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/impact-evaluation-treatment-effects-and-causal-analysis?format=AR&isbn=9781108617772)<img align="right" width="60" src="img/books/impact_evaluation.png">
+  - **Author**: Markus Frölich, Stefan Sperlich
+  - **Year**: 2019
+
 - [The Book of Why](http://bayes.cs.ucla.edu/WHY/)<img align="right" width="60" src="img/books/book_of_why.jpeg">
   - **Author**: D. Mackenzie, J. Pearl
   - **Year**: 2018
