@@ -23,7 +23,9 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [panel](https://bashtage.github.io/linearmodels/panel/index.html) - Panel data models
   - [system](https://bashtage.github.io/linearmodels/system/index.html) - System regression models (e.g. seemingly unrelated regressions)
 
-- [DoWhy](https://github.com/py-why/dowhy) <a href="https://pypistats.org/packages/dowhy"><img src="https://pepy.tech/badge/dowhy"></a>
+- [DoWhy](https://github.com/py-why/dowhy)
+![downloads](https://static.pepy.tech/badge/dowhy)
+![stars](https://img.shields.io/github/stars/dowhy)
 
 - [EconML](https://github.com/py-why/EconML) <a href="https://pypistats.org/packages/econml"><img src="https://pepy.tech/badge/econml"></a>
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
