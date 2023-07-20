@@ -95,13 +95,21 @@ The following is a list of free courses in Causal Inference, sorted by format an
 
 ## Notes
 
-- [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793.pdf) - Peng Ding (2023)
+- [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793.pdf)
+  - **Author**: Peng Ding (University of California, Berkeley)
+  - **Year**: 2023
 
-- [Notes](https://apoorvalal.github.io/methods/tex/notes.pdf) - Aaporva Lal (2023)
+- [Notes](https://apoorvalal.github.io/methods/tex/notes.pdf)
+  - **Author**: Aaporva Lal (Stanford University)
+ 
+- [Causal Inference](https://web.stanford.edu/~swager/stats361.pdf)
+  - **Author**: Stefan Wager (Stanford University)
 
-- [Causal Inference](https://web.stanford.edu/~swager/stats361.pdf) - Stefan Wager (2020)
-
-- [Introduction to Modern Causal Inference](https://alejandroschuler.github.io/mci/) - Alejandro Schuler, Mark van der Laan (20??)
+- [Introduction to Modern Causal Inference](https://alejandroschuler.github.io/mci/)
+  - **Author**: Alejandro Schuler, Mark van der Laan (University of California, Berkeley)
+ 
+- [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
+  - Matthew Blackwell (Harvard University)
 
 
 
