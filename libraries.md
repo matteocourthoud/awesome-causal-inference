@@ -41,9 +41,9 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [CausalML](https://github.com/uber/causalml)
 ![downloads](https://img.shields.io/pypi/dm/causalml)
 ![stars](https://img.shields.io/github/stars/uber/causalml)
-  - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
-  - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
-  - [inference.iv](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.iv) - Doubly-robust instrumental variables [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#doubly-robust-instrumental-variable-driv-learner)]
+  - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Doc](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
+  - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Doc](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
+  - [inference.iv](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.iv) - Doubly-robust instrumental variables [[Doc](https://causalml.readthedocs.io/en/latest/methodology.html#doubly-robust-instrumental-variable-driv-learner)]
   - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
   - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
@@ -55,7 +55,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [GLuM](https://github.com/Quantco/glum/)
 ![downloads](https://img.shields.io/pypi/dm/glum)
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
-  - Fast generalized linear models
+  - Fast generalized linear models [[Doc](https://glum.readthedocs.io/en/latest/index.html)]
  
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
 ![downloads](https://img.shields.io/pypi/dm/causalnex)
