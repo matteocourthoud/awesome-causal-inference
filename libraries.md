@@ -2,9 +2,9 @@
 
 The following is a list of causal inference libraries, ordered by (open source) language.
 
-- <img width="18" src="img/icon/python.png"> [Python](#python)
-- <img width="18" src="img/icon/r.png"> [R](#r)
-- <img width="18" src="img/icon/julia.png"> [Julia](#julia)
+- <img width="18" src="img/icon/python.png"> [Python](#-python)
+- <img width="18" src="img/icon/r.png"> [R](#-r)
+- <img width="18" src="img/icon/julia.png"> [Julia](#-julia)
 
 ## <img width="24" src="img/icon/python.png"> Python
 
