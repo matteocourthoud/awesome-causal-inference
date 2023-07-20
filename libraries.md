@@ -6,8 +6,14 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 ## Python
 
-- [Statsmodels](https://github.com/statsmodels/statsmodels) - Linear models and time series analysis
-
+- [Statsmodels](https://github.com/statsmodels/statsmodels)
+  - [regression](https://www.statsmodels.org/stable/regression.html) - Linear regression models
+  - [tsa](https://www.statsmodels.org/stable/tsa.html) - Time series analysis
+  - [duration](https://www.statsmodels.org/stable/duration.html) - Survival and duration models
+  - [nonparametric](https://www.statsmodels.org/stable/nonparametric.html) - NOnparametric methods
+  - [gmm](https://www.statsmodels.org/stable/gmm.html) - Generalized method of moments
+  - [stats](https://www.statsmodels.org/stable/stats.html) - Statistical tests and tools
+  
 - [Linearmodels](https://github.com/bashtage/linearmodels/)
   - [iv](https://bashtage.github.io/linearmodels/iv/index.html) - Instrumental variables
   - [panel](https://bashtage.github.io/linearmodels/panel/index.html) - Panel data models
