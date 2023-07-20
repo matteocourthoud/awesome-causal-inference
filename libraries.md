@@ -56,7 +56,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [structure](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html) - Structure learning
   - [network](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Fitting-the-Conditional-Distribution-of-the-Bayesian-Network) - Bayesian network modeling
   - [evaluation](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Model-Probability) - Model evaluation
-  - [inference]([https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Model-Inference](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Querying-Marginals)) - Model inference
+  - [inference](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Querying-Marginals) - Model inference
 
 - [causal-learn](https://github.com/py-why/causal-learn)
 ![downloads](https://img.shields.io/pypi/dm/causal-learn)
