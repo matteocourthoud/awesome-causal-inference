@@ -16,7 +16,9 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [gmm](https://www.statsmodels.org/stable/gmm.html) - Generalized method of moments
   - [stats](https://www.statsmodels.org/stable/stats.html) - Statistical tests and tools
   
-- [Linearmodels](https://github.com/bashtage/linearmodels/) (extension of Statsmodels) <a href="https://pypistats.org/packages/linearmodels"><img src="https://pepy.tech/badge/linearmodels"></a>
+- [Linearmodels](https://github.com/bashtage/linearmodels/) (extension of Statsmodels)
+![downloads](https://static.pepy.tech/badge/linearmodels)
+![stars](https://img.shields.io/github/stars/linearmodels)
   - [iv](https://bashtage.github.io/linearmodels/iv/index.html) - Instrumental variables
   - [panel](https://bashtage.github.io/linearmodels/panel/index.html) - Panel data models
   - [system](https://bashtage.github.io/linearmodels/system/index.html) - System regression models (e.g. seemingly unrelated regressions)
