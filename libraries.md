@@ -58,6 +58,8 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - AutoML for causal inference
 
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
+![downloads](https://img.shields.io/pypi/dm/causalnex)
+![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
 
 - [GLuM](https://github.com/Quantco/glum/)
 ![downloads](https://img.shields.io/pypi/dm/glum)
