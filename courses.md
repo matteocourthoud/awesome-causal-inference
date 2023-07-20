@@ -15,12 +15,12 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Year**: 2022
   - **Lectures**: 11 x 0h:50 [[Material](https://imai.fas.harvard.edu/teaching/cause.html)]
 
-- [Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)<img align="right" width="150" src="img/courses/machine_learning_causal_inference.jpeg">
+- [Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-) [<img align="right" width="150" src="img/courses/machine_learning_causal_inference.jpeg">](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
   - **Author**: Susan Athey, Jann Spiess, and Stephan Wager (Stanford University)
   - **Year**: 2022
   - **Lectures**: 19 x 0h:30
 
-- [Modern Topics in Uncertainty Quantification ](https://www.youtube.com/playlist?list=PLlIlhe_rS4U0D3jRXfwTfq3aDngb3w-hU)<img align="right" width="150" src="img/courses/uncertainty_quantification.png">
+- [Modern Topics in Uncertainty Quantification <img align="right" width="150" src="img/courses/uncertainty_quantification.png">](https://www.youtube.com/playlist?list=PLlIlhe_rS4U0D3jRXfwTfq3aDngb3w-hU)
   - **Author**: Aaron Roth (University of Pennsylvania)
   - **Year**: 2022
   - **Lectures**: 12 x 2h:15
