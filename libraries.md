@@ -70,7 +70,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - Fast generalized linear models [[Docs](https://glum.readthedocs.io/en/latest/index.html)]
 
 - [GeoLift](https://github.com/facebookincubator/GeoLift/)
-![downloads](https://img.shields.io/pypi/dm/GeoLift)
+![downloads](https://img.shields.io/pypi/dm/geolift)
 ![stars](https://img.shields.io/github/stars/facebookincubator/GeoLift)
   - Uplift modeling for geographical experiments
 
