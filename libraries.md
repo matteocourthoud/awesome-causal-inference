@@ -2,13 +2,11 @@
 
 The following is a list of causal inference libraries, ordered by (open source) language.
 
-<img align="bottom" width="18" src="img/icon/python.png"> [Python](#python)
+- <img width="18" src="img/icon/python.png"> [Python](#python)
+- <img width="18" src="img/icon/r.png"> [R](#r)
+- <img width="18" src="img/icon/julia.png"> [Julia](#julia)
 
-<img align="bottom" width="18" src="img/icon/r.png"> [R](#r)
-
-<img align="bottom" width="18" src="img/icon/julia.png"> [Julia](#julia)
-
-## Python
+## <img width="24" src="img/icon/python.png"> Python
 
 - [Statsmodels](https://github.com/statsmodels/statsmodels)
 ![downloads](https://img.shields.io/pypi/dm/statsmodels)
