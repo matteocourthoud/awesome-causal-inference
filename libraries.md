@@ -8,6 +8,8 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [Statsmodels](https://github.com/statsmodels/statsmodels) - Linear models and time series analysis
 
+- [Linearmodels](https://github.com/bashtage/linearmodels/) - Instrumental variable and panel data models
+
 - [DoWhy](https://github.com/py-why/dowhy) 
 
 - [econml](https://github.com/py-why/EconML)
