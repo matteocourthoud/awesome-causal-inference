@@ -74,13 +74,21 @@ The following is a list of free courses in Causal Inference, sorted by format an
 
 ## Slides
 
-- [Causal Inference and Machine Learning](https://apoorvalal.github.io/talks/2021-GraduateSequenceTeaching/) - Aaporva Lal (2023)
+- [Causal Inference and Machine Learning](https://apoorvalal.github.io/talks/2021-GraduateSequenceTeaching/)
+  - **Author**: Jens Hainmueller (Stanford University)
+  - **Year**: 2023
 
-- [Applied Econometrics](https://about.peterhull.net/metrix) - Peter Hull (2023)
+- [Applied Econometrics](https://about.peterhull.net/metrix)
+  - Peter Hull (Brown University)
+  - **Year**: 2023
 
-- [Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html) - Fan Li (2022)
+- [Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html) -
+  - **Author**: Fan Li (Duke University)
+  - **Year**: 2022
 
-- [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html) - David Childers (2022)
+- [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
+- **Author**: David Childers (Carnegie Mellon University)
+- **Year**: 2022
 
 
 
