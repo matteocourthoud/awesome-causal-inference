@@ -28,6 +28,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [DoWhy](https://github.com/py-why/dowhy)
 ![downloads](https://img.shields.io/pypi/dm/dowhy)
 ![stars](https://img.shields.io/github/stars/py-why/dowhy)
+  - [gcm](https://www.pywhy.org/dowhy/v0.9.1/user_guide/gcm_based_inference/index.html) - Graphical causal model-based inference
 
 - [EconML](https://github.com/py-why/EconML)
 ![downloads](https://img.shields.io/pypi/dm/econml)
