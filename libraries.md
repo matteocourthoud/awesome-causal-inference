@@ -47,7 +47,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
   - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
-- [causal-learn](https://github.com/py-why/causal-learn) - Causal discovery
+- [causal-learn](https://github.com/py-why/causal-learn)
+![downloads](https://img.shields.io/pypi/dm/causal-learn)
+![stars](https://img.shields.io/github/stars/py-why/causal-learn)
+  - Causal discovery
 
 - [causal-tune](https://github.com/py-why/causaltune) - AutoML for causal inference
 
