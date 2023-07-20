@@ -66,7 +66,15 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/py-why/causaltune)
   - AutoML for causal inference
 
-- [pyhdfe](https://github.com/jeffgortmaker/pyhdfe) - Fast high-dimensional fixed effect orthogonalization algorithm
+- [pyhdfe](https://github.com/jeffgortmaker/pyhdfe)
+![downloads](https://img.shields.io/pypi/dm/pyhdfe)
+![stars](https://img.shields.io/github/stars/jeffgortmaker/pyhdfe)
+  - Fast high-dimensional fixed effect orthogonalization algorithm
+
+- [pyfixest](https://github.com/s3alfisc/pyfixest)
+![downloads](https://img.shields.io/pypi/dm/pyfixest)
+![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
+  - Fast high-dimensional fixed effect regression (based on [pyhdfe](https://github.com/jeffgortmaker/pyhdfe))
 
 - [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Double/debiased machine learning [[Paper](https://arxiv.org/pdf/1608.00060)] [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
 
