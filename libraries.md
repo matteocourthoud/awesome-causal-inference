@@ -22,7 +22,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [DoWhy](https://github.com/py-why/dowhy) <a href="https://pypistats.org/packages/dowhy"><img src="https://pepy.tech/badge/dowhy"></a>
 
-- [EconML](https://github.com/py-why/EconML)
+- [EconML](https://github.com/py-why/EconML) <a href="https://pypistats.org/packages/econml"><img src="https://pepy.tech/badge/econml"></a>
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
   - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly robust learning
   - [forest](https://econml.azurewebsites.net/spec/estimation/forest.html) - Causal forests
