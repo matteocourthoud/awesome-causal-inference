@@ -87,8 +87,8 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Year**: 2022
 
 - [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
-- **Author**: David Childers (Carnegie Mellon University)
-- **Year**: 2022
+  - **Author**: David Childers (Carnegie Mellon University)
+  - **Year**: 2022
 
 
 
