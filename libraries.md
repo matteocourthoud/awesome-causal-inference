@@ -47,6 +47,15 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
   - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
+- [CausalNex](https://github.com/quantumblacklabs/causalnex/)
+![downloads](https://img.shields.io/pypi/dm/causalnex)
+![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
+  - [InterruptedTimeSeries](https://causalpy.readthedocs.io/en/latest/notebooks/its_pymc.html) - Interrupted time series
+  - [SyntheticControl](https://causalpy.readthedocs.io/en/latest/notebooks/sc_pymc.html#) - Synthetic control methods
+  - [DifferenceInDifferences](https://causalpy.readthedocs.io/en/latest/notebooks/did_pymc.html) - Dfference-in-differences
+  - [RegressionDiscontinuity](https://causalpy.readthedocs.io/en/latest/notebooks/rd_pymc.html#) - Regression discontinuity
+
+
 - [causal-learn](https://github.com/py-why/causal-learn)
 ![downloads](https://img.shields.io/pypi/dm/causal-learn)
 ![stars](https://img.shields.io/github/stars/py-why/causal-learn)
@@ -60,10 +69,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![downloads](https://img.shields.io/pypi/dm/glum)
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
   - Fast generalized linear models [[Docs](https://glum.readthedocs.io/en/latest/index.html)]
- 
-- [CausalNex](https://github.com/quantumblacklabs/causalnex/)
-![downloads](https://img.shields.io/pypi/dm/causalnex)
-![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
 
 - [causal-tune](https://github.com/py-why/causaltune)
 ![downloads](https://img.shields.io/pypi/dm/causaltune)
