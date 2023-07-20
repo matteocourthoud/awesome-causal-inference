@@ -2,6 +2,11 @@
 
 The following is a list of conferences in Causal Inference.
 
+- [Pacific Causal Inference Conference (PCIC)](https://sci-info.org/annual-meeting/)
+  - **Organizer**: Xiao-Hua Zhou
+  - **When**: September 2023
+  - **Where**: Beijing, CN
+
 - [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/)
   - **Organizer**: Society for Causal Inference
   - **When**: May 2023
