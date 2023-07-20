@@ -34,16 +34,16 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly robust learning
   - [forest](https://econml.azurewebsites.net/spec/estimation/forest.html) - Causal forests
   - [metalearners](https://econml.azurewebsites.net/spec/estimation/metalearners.html) - S-, T-, X-learners [[Paper](https://arxiv.org/pdf/1706.03461.pdf)]
-  - [iv.dml]() - Double machine learning with instrumental variables
+  - [iv.dml](https://econml.azurewebsites.net/spec/estimation/orthoiv.html) - Double machine learning with instrumental variables
   - [iv.nnet](https://econml.azurewebsites.net/spec/estimation/deepiv.html) - Deep instrumental variables
   - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic double machine learning
 
 - [CausalML](https://github.com/uber/causalml)
 ![downloads](https://img.shields.io/pypi/dm/causalml)
 ![stars](https://img.shields.io/github/stars/uber/causalml)
-  - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Doc](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
-  - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Doc](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
-  - [inference.iv](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.iv) - Doubly-robust instrumental variables [[Doc](https://causalml.readthedocs.io/en/latest/methodology.html#doubly-robust-instrumental-variable-driv-learner)]
+  - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
+  - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
+  - [inference.iv](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.iv) - Doubly-robust instrumental variables [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#doubly-robust-instrumental-variable-driv-learner)]
   - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
   - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
@@ -55,7 +55,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [GLuM](https://github.com/Quantco/glum/)
 ![downloads](https://img.shields.io/pypi/dm/glum)
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
-  - Fast generalized linear models [[Doc](https://glum.readthedocs.io/en/latest/index.html)]
+  - Fast generalized linear models [[Docs](https://glum.readthedocs.io/en/latest/index.html)]
  
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
 ![downloads](https://img.shields.io/pypi/dm/causalnex)
@@ -85,17 +85,17 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [CausalImpact](https://github.com/google/CausalImpact)
 ![downloads](https://cranlogs.r-pkg.org/badges/CausalImpact)
 ![stars](https://img.shields.io/github/stars/google/CausalImpact)
-  - Bayesian structural time-series models [[Doc](https://google.github.io/CausalImpact/CausalImpact.html)]
+  - Bayesian structural time-series models [[Docs](https://google.github.io/CausalImpact/CausalImpact.html)]
 
 - [GRF](https://github.com/grf-labs/grf/)
 ![downloads](https://cranlogs.r-pkg.org/badges/grf)
 ![stars](https://img.shields.io/github/stars/grf-labs/grf)
-  - Generalized random forests [[Doc](https://grf-labs.github.io/grf/index.html)]
+  - Generalized random forests [[Docs](https://grf-labs.github.io/grf/index.html)]
 
 - [FixEst](https://github.com/lrberge/fixest)
 ![downloads](https://cranlogs.r-pkg.org/badges/fixest)
 ![stars](https://img.shields.io/github/stars/lrberge/fixest)
-  - Fast high-dimensional fixed effect regression [[Doc](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html)]
+  - Fast high-dimensional fixed effect regression [[Docs](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html)]
 
 - [alpaca](https://github.com/amrei-stammann/alpaca) - Generalized linear models with high-dimensional fixed effects
 
