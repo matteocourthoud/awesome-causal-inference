@@ -2,7 +2,7 @@
 
 The following is a list of causal inference libraries, ordered by (open source) language.
 
-- <img align="bottom" width="15" src="img/icon/python.png">[Python](#python)
+- <img align="bottom" width="20" src="img/icon/python.png">[Python](#python)
 - [R](#r)
 - [Julia](#julia)
 
