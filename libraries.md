@@ -24,12 +24,12 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [system](https://bashtage.github.io/linearmodels/system/index.html) - System regression models (e.g. seemingly unrelated regressions)
 
 - [DoWhy](https://github.com/py-why/dowhy)
-![downloads](https://static.pepy.tech/badge/dowhy)
+![downloads](https://img.shields.io/pypi/dm/dowhy)
 ![stars](https://img.shields.io/github/stars/py-why/dowhy)
 
 - [EconML](https://github.com/py-why/EconML)
-![downloads](https://static.pepy.tech/badge/EconML)
-![stars](https://img.shields.io/github/stars/py-why/EconML)
+![downloads](https://img.shields.io/pypi/dm/econml)
+![stars](https://img.shields.io/github/stars/py-why/econml)
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
   - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly robust learning
   - [forest](https://econml.azurewebsites.net/spec/estimation/forest.html) - Causal forests
@@ -39,7 +39,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic double machine learning
 
 - [CausalML](https://github.com/uber/causalml)
-![downloads](https://static.pepy.tech/badge/causalml)
+![downloads](https://img.shields.io/pypi/dm/causalml)
 ![stars](https://img.shields.io/github/stars/uber/causalml)
   - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
   - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
