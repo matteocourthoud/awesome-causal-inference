@@ -52,19 +52,19 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/py-why/causal-learn)
   - Causal discovery
 
-- [causal-tune](https://github.com/py-why/causaltune)
-![downloads](https://img.shields.io/pypi/dm/causaltune)
-![stars](https://img.shields.io/github/stars/py-why/causaltune)
-  - AutoML for causal inference
-
-- [CausalNex](https://github.com/quantumblacklabs/causalnex/)
-![downloads](https://img.shields.io/pypi/dm/causalnex)
-![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
-
 - [GLuM](https://github.com/Quantco/glum/)
 ![downloads](https://img.shields.io/pypi/dm/glum)
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
   - Fast generalized linear models
+ 
+- [CausalNex](https://github.com/quantumblacklabs/causalnex/)
+![downloads](https://img.shields.io/pypi/dm/causalnex)
+![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
+
+- [causal-tune](https://github.com/py-why/causaltune)
+![downloads](https://img.shields.io/pypi/dm/causaltune)
+![stars](https://img.shields.io/github/stars/py-why/causaltune)
+  - AutoML for causal inference
 
 - [pyhdfe](https://github.com/jeffgortmaker/pyhdfe) - Fast high-dimensional fixed effect orthogonalization algorithm
 
