@@ -59,7 +59,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
 
-- [GLuM](https://github.com/Quantco/glum/) - Fast generalized linear models
+- [GLuM](https://github.com/Quantco/glum/)
+![downloads](https://img.shields.io/pypi/dm/glum)
+![stars](https://img.shields.io/github/stars/Quantco/glum)
+  - Fast generalized linear models
 
 - [pyhdfe](https://github.com/jeffgortmaker/pyhdfe) - Fast high-dimensional fixed effect orthogonalization algorithm
 
