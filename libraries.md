@@ -72,7 +72,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [GeoLift](https://github.com/facebookincubator/GeoLift/)
 ![downloads](https://img.shields.io/pypi/dm/geolift)
 ![stars](https://img.shields.io/github/stars/facebookincubator/GeoLift)
-  - Uplift modeling for geographical experiments
+  - Uplift modeling for geographical experiments [[Docs](https://facebookincubator.github.io/GeoLift/)]
 
 - [causal-tune](https://github.com/py-why/causaltune)
 ![downloads](https://img.shields.io/pypi/dm/causaltune)
