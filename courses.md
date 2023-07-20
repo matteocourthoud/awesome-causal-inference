@@ -10,7 +10,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
 
 ## Video Lectures
 
-- [Causal Inference](https://www.youtube.com/@imaikosuke/playlists) [[Material](https://imai.fas.harvard.edu/teaching/cause.html)] <img align="right" width="150" src="img/courses/causal_inference_imai.png">
+- [Causal Inference](https://www.youtube.com/@imaikosuke/playlists) [[Material](https://imai.fas.harvard.edu/teaching/cause.html)] <img align="right" width="150" src="img/courses/causal_inference_imai.png" href="https://www.youtube.com/@imaikosuke/playlists">
   - **Author**: Kosuke Imai (Harvard University)
   - **Year**: 2022
   - **Lectures**: 11 x 0h:50
