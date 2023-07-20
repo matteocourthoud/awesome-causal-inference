@@ -8,7 +8,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 - [Statsmodels](https://github.com/statsmodels/statsmodels)
 ![downloads](https://static.pepy.tech/badge/statsmodels)
-![stars](https://img.shields.io/github/stars/statsmodels/statsmodels)
+![stars](https://img.shields.io/github/stars/statsmodels)
   - [regression](https://www.statsmodels.org/stable/regression.html) - Linear regression models
   - [tsa](https://www.statsmodels.org/stable/tsa.html) - Time series analysis
   - [duration](https://www.statsmodels.org/stable/duration.html) - Survival and duration models
