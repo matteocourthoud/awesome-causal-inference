@@ -82,7 +82,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - Peter Hull (Brown University)
   - **Year**: 2023
 
-- [Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html) -
+- [Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html)
   - **Author**: Fan Li (Duke University)
   - **Year**: 2022
 
