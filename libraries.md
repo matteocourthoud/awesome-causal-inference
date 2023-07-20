@@ -18,7 +18,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
   
 - [Linearmodels](https://github.com/bashtage/linearmodels/) (extension of Statsmodels)
 ![downloads](https://static.pepy.tech/badge/linearmodels)
-![stars](https://img.shields.io/github/stars/linearmodels)
+![stars](https://img.shields.io/github/stars/bashtage/linearmodels)
   - [iv](https://bashtage.github.io/linearmodels/iv/index.html) - Instrumental variables
   - [panel](https://bashtage.github.io/linearmodels/panel/index.html) - Panel data models
   - [system](https://bashtage.github.io/linearmodels/system/index.html) - System regression models (e.g. seemingly unrelated regressions)
