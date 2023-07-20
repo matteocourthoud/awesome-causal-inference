@@ -50,7 +50,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [causal-learn](https://github.com/py-why/causal-learn)
 ![downloads](https://img.shields.io/pypi/dm/causal-learn)
 ![stars](https://img.shields.io/github/stars/py-why/causal-learn)
-  - Causal discovery
+  - [search](https://causal-learn.readthedocs.io/en/latest/search_methods_index/index.html) - Search methods for causal discovery
 
 - [GLuM](https://github.com/Quantco/glum/)
 ![downloads](https://img.shields.io/pypi/dm/glum)
