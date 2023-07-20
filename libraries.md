@@ -133,10 +133,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
 
 ## <img width="24" src="img/icon/julia.png"> Julia
 
-- [Causalinference](https://github.com/mschauer/CausalInference.jl)
-![stars](https://img.shields.io/github/stars/mschauer/CausalInference.jl)
-  - Causal inference with directed acyclic graphs
-
 - [FixedEffectModels](https://github.com/FixedEffects/FixedEffectModels.jl)
 ![stars](https://img.shields.io/github/stars/FixedEffects/FixedEffectModels.jl)
   - Fast high-dimensional fixed effect regression
+
+- [Causalinference](https://github.com/mschauer/CausalInference.jl)
+![stars](https://img.shields.io/github/stars/mschauer/CausalInference.jl)
+  - Causal inference with directed acyclic graphs
