@@ -69,6 +69,11 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
   - Fast generalized linear models [[Docs](https://glum.readthedocs.io/en/latest/index.html)]
 
+- [GeoLift](https://github.com/facebookincubator/GeoLift/)
+![downloads](https://img.shields.io/pypi/dm/GeoLift)
+![stars](https://img.shields.io/github/stars/facebookincubator/GeoLift)
+  - Uplift modeling for geographical experiments
+
 - [causal-tune](https://github.com/py-why/causaltune)
 ![downloads](https://img.shields.io/pypi/dm/causaltune)
 ![stars](https://img.shields.io/github/stars/py-why/causaltune)
