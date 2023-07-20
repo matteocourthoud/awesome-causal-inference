@@ -37,6 +37,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
   - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
+- [causal-learn](https://github.com/py-why/causal-learn) - Causal discovery
+
+- [causal-tune](https://github.com/py-why/causaltune) - AutoML for causal inference
+
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
 
 - [GLuM](https://github.com/Quantco/glum/) - Fast generalized linear models
