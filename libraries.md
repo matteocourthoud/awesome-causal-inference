@@ -66,10 +66,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [CausalPy](https://github.com/pymc-labs/CausalPy)
 ![downloads](https://img.shields.io/pypi/dm/CausalPy)
 ![stars](https://img.shields.io/github/stars/pymc-labs/CausalPy)
-  - [pymc_experiments.InterruptedTimeSeries](https://causalpy.readthedocs.io/en/latest/notebooks/its_pymc.html) - Interrupted time series
-  - [pymc_experiments.SyntheticControl](https://causalpy.readthedocs.io/en/latest/notebooks/sc_pymc.html#) - Synthetic control methods
-  - [pymc_experiments.DifferenceInDifferences](https://causalpy.readthedocs.io/en/latest/notebooks/did_pymc.html) - Dfference-in-differences
-  - [pymc_experiments.RegressionDiscontinuity](https://causalpy.readthedocs.io/en/latest/notebooks/rd_pymc.html#) - Regression discontinuity
+  - [InterruptedTimeSeries](https://causalpy.readthedocs.io/en/latest/notebooks/its_pymc.html) - Interrupted time series
+  - [SyntheticControl](https://causalpy.readthedocs.io/en/latest/notebooks/sc_pymc.html#) - Synthetic control methods
+  - [DifferenceInDifferences](https://causalpy.readthedocs.io/en/latest/notebooks/did_pymc.html) - Dfference-in-differences
+  - [RegressionDiscontinuity](https://causalpy.readthedocs.io/en/latest/notebooks/rd_pymc.html#) - Regression discontinuity
 
 - [GLuM](https://github.com/Quantco/glum/)
 ![downloads](https://img.shields.io/pypi/dm/glum)
