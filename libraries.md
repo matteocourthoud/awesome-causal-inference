@@ -84,6 +84,11 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/jeffgortmaker/pyhdfe)
   - Fast high-dimensional fixed effect orthogonalization algorithm
 
+- [trimmed_match](https://github.com/google/trimmed_match)
+![downloads](https://img.shields.io/pypi/dm/trimmed_match)
+![stars](https://img.shields.io/github/stars/google/trimmed_match)
+  - Trimmed match estimator for aggregate geographical experiments [[Paper](https://arxiv.org/abs/2105.07060)]
+
 - [pyfixest](https://github.com/s3alfisc/pyfixest)
 ![downloads](https://img.shields.io/pypi/dm/pyfixest)
 ![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
