@@ -10,12 +10,12 @@ The following is a list of free courses in Causal Inference, sorted by format an
 
 ## Video Lectures
 
-- [Causal Inference](https://www.youtube.com/@imaikosuke/playlists) [<img align="right" width="150" src="img/courses/causal_inference_imai.png">](https://www.youtube.com/@imaikosuke/playlists)
+- [Causal Inference <img align="right" width="150" src="img/courses/causal_inference_imai.png">](https://www.youtube.com/@imaikosuke/playlists)
   - **Author**: Kosuke Imai (Harvard University)
   - **Year**: 2022
   - **Lectures**: 11 x 0h:50 [[Material](https://imai.fas.harvard.edu/teaching/cause.html)]
 
-- [Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-) [<img align="right" width="150" src="img/courses/machine_learning_causal_inference.jpeg">](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+- [Machine Learning and Causal Inference <img align="right" width="150" src="img/courses/machine_learning_causal_inference.jpeg">](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
   - **Author**: Susan Athey, Jann Spiess, and Stephan Wager (Stanford University)
   - **Year**: 2022
   - **Lectures**: 19 x 0h:30
@@ -35,27 +35,27 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Year**: 2022
   - **Lectures**: 15 x 1h:05
 
-- [Applied Methods](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)<img align="right" width="150" src="img/courses/applied_methods.jpeg">
+- [Applied Methods <img align="right" width="150" src="img/courses/applied_methods.jpeg">](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)
   - **Author**: Paul Goldsmith-Pinkham (Yale University)
   - **Year**: 2021
   - **Lectures**: 21 x 1h:00
 
-- [Difference-in-Differences Reading Group](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)<img align="right" width="150" src="img/courses/did_reading_group.jpeg">
+- [Difference-in-Differences Reading Group <img align="right" width="150" src="img/courses/did_reading_group.jpeg">](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)
   - **Author**: multiple researchers
   - **Year**: 2021
   - **Lectures**: 9 x 1h:20
 
-- [Causal Inference with Panel Data](https://www.youtube.com/playlist?list=PLo0lw6BstMGZQqx_r1GnOETkFYihCgve9)<img align="right" width="150" src="img/courses/causal_inference_panel_data.jpeg">
+- [Causal Inference with Panel Data <img align="right" width="150" src="img/courses/causal_inference_panel_data.jpeg">](https://www.youtube.com/playlist?list=PLo0lw6BstMGZQqx_r1GnOETkFYihCgve9)
   - **Author**: Yiqing Xu (Stanford University)
   - **Year**: 2021
   - **Lectures**: 6 x 0h:50
 
-- [Econometrics](https://www.youtube.com/playlist?list=PL_vQFUgojoerLH1AfiBylg_UvbAaRncKx)<img align="right" width="150" src="img/courses/econometrics.jpeg">
+- [Econometrics <img align="right" width="150" src="img/courses/econometrics.jpeg">](https://www.youtube.com/playlist?list=PL_vQFUgojoerLH1AfiBylg_UvbAaRncKx)
   - **Author**: Chris Conlon (New York University)
   - **Year**: 2020
   - **Lectures**: 32 x 0h:30
 
-- [Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)<img align="right" width="150" src="img/courses/causal_inference.jpeg">
+- [Causal Inference <img align="right" width="150" src="img/courses/causal_inference.jpeg">](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)
   - **Author**: Brady Neal (Quebec AI Institute)
   - **Year**: 2020
   - **Lectures**: 15 x 0h:45
