@@ -2,7 +2,7 @@
 
 A curated list of causal inference courses, books, libraries, conferences, blogs, research papers, and industry applications.
 
-If you want to contribute to this list (please do), send me a pull request or contact me @matteocourthoud. 
+If you want to contribute to this list (please do), send me a pull request or contact me [@matteocourthoud]((https://twitter.com/matteocourthoud). 
 
 ## Table of Contents
 
