@@ -10,7 +10,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [regression](https://www.statsmodels.org/stable/regression.html) - Linear regression models
   - [tsa](https://www.statsmodels.org/stable/tsa.html) - Time series analysis
   - [duration](https://www.statsmodels.org/stable/duration.html) - Survival and duration models
-  - [nonparametric](https://www.statsmodels.org/stable/nonparametric.html) - NOnparametric methods
+  - [nonparametric](https://www.statsmodels.org/stable/nonparametric.html) - Nonparametric methods
   - [gmm](https://www.statsmodels.org/stable/gmm.html) - Generalized method of moments
   - [stats](https://www.statsmodels.org/stable/stats.html) - Statistical tests and tools
   
