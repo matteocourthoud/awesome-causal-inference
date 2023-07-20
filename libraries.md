@@ -83,7 +83,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ## R
 
 - [FixEst](https://github.com/lrberge/fixest)
-![downloads](https://img.shields.io/pypi/dm/fixest)
 ![stars](https://img.shields.io/github/stars/lrberge/fixest)
   - Fast high-dimensional fixed effect regression [[Doc](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html)]
 
