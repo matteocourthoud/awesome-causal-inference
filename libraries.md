@@ -14,7 +14,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [gmm](https://www.statsmodels.org/stable/gmm.html) - Generalized method of moments
   - [stats](https://www.statsmodels.org/stable/stats.html) - Statistical tests and tools
   
-- [Linearmodels](https://github.com/bashtage/linearmodels/)
+- [Linearmodels](https://github.com/bashtage/linearmodels/) (extension of Statsmodels)
   - [iv](https://bashtage.github.io/linearmodels/iv/index.html) - Instrumental variables
   - [panel](https://bashtage.github.io/linearmodels/panel/index.html) - Panel data models
   - [system](https://bashtage.github.io/linearmodels/system/index.html) - System regression models (e.g. seemingly unrelated regressions)
