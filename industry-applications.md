@@ -132,6 +132,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Geo-Experiments
 
+- [Harnessing the power of Geo-experimentation: How Mercado Libre measures the effectiveness of its third-party media strategies using GeoLift](https://medium.com/mercadolibre-tech/harnessing-the-power-of-geo-experimentation-how-mercado-libre-measures-the-effectiveness-of-its-f68b38857c4b) - Mercado Libre (2023)
+
 - [Market Segmentation for Geo-Testing at Scale](https://medium.com/expedia-group-tech/market-segmentation-for-geo-testing-at-scale-8d593e0aa755) - Expedia (2023)
 
 - [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
