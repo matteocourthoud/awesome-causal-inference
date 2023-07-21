@@ -137,15 +137,14 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Market Segmentation for Geo-Testing at Scale](https://medium.com/expedia-group-tech/market-segmentation-for-geo-testing-at-scale-8d593e0aa755) - Expedia (2023)
 
+- [There’s more to experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
+
 - [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
 
 
 ## Quasi-Experiments
 
 - [Gaining confidence in synthetic control causal inference with sensitivity analysis](https://research.atspotify.com/2023/04/gaining-confidence-in-synthetic-control-causal-inference-with-sensitivity-analysis/) - Spotify (2023)
-
-- [There’s more to experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
-
 
 
 ## Mediation Analysis
