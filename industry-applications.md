@@ -23,6 +23,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Spotify’s New Experimentation Platform](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/) - Spotify (2020)
 
+- [A/B Testing @ MeLi](https://medium.com/mercadolibre-tech/a-b-testing-meli-3a5ad2b4594d) - Mercado Libre (2020)
+
 - [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/) - Uber (2018)
 
 - [Democratizing online controlled experiments at Booking.com](https://arxiv.org/pdf/1710.08217.pdf) - Booking (2017)
