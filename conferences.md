@@ -2,8 +2,11 @@
 
 The following is a list of conferences in Causal Inference.
 
+- [Interactive Causal Learning Conference](http://interactivecausallearning.com/2023/)
+  - **When**: December 2023
+  - **Where**: Boca Raton, US
+
 - [Pacific Causal Inference Conference (PCIC)](https://sci-info.org/annual-meeting/)
-  - **Organizer**: Xiao-Hua Zhou
   - **When**: September 2023
   - **Where**: Beijing, CN
 
