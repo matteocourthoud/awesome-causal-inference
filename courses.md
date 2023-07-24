@@ -35,6 +35,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Author**: Spencer Gordon (Caltech), Daniel Malinsky (Columbia University), Thomas Richardson (University of Washington), Chandler Squires (MIT)
   - **Year**: 2022
   - **Lectures**: 15 x 1h:05
+  - **Topics**: GCM, Causal Discovery, PO, DAGs, Experimental Design
 
 - [Applied Methods <img align="right" width="150" src="img/courses/applied_methods.jpeg">](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)
   - **Author**: Paul Goldsmith-Pinkham (Yale University)
