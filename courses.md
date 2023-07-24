@@ -31,7 +31,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Lectures**: 10 x 1h:15
 
 - [Causality Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11SiNLE2BNNg59MGcTCpbQx)
-  - **Author**: various professors at the Simons’ Institute (Berkeley).
+  - **Author**: Spencer Gordon (Caltech), Daniel Malinsky (Columbia University), Thomas Richardson (University of Washington), Chandler Squires (MIT)
   - **Year**: 2022
   - **Lectures**: 15 x 1h:05
 
@@ -43,7 +43,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
 - [Causality <img align="right" width="150" src="img/courses/causality.png">](https://stat.ethz.ch/lectures/ss21/causality.php#course_materials)
   - **Author**: Christina Heinze-Deml (ETH Zurich)
   - **Year**: 2021
-  - **Lectures**: 21 x 1h:00
+  - **Lectures**: 12 x 2h:00
 
 - [Difference-in-Differences Reading Group <img align="right" width="150" src="img/courses/did_reading_group.jpeg">](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)
   - **Author**: multiple researchers
