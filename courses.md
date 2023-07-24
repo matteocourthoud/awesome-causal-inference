@@ -95,6 +95,10 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Author**: David Childers (Carnegie Mellon University)
   - **Year**: 2022
 
+- [Introduction to Causal Inference](https://www.ucbbiostat.com/)
+  - **Author**: Maya L. Petersen, (University of California, Berkeley) Laura B. Balzer (UMass Amherst)
+  - **Year**: 2022
+
 
 
 
