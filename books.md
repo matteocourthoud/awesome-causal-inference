@@ -43,7 +43,11 @@ The following is a list of books in Causal Inference, sorted by publication year
 - [Impact Evaluation: Treatment Effects and Causal Analysis](https://www.cambridge.org/ch/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/impact-evaluation-treatment-effects-and-causal-analysis?format=AR&isbn=9781108617772)<img align="right" width="60" src="img/books/impact_evaluation.png">
   - **Author**: Markus Frölich, Stefan Sperlich
   - **Year**: 2019
-
+ 
+- [Handbook of Graphical Models](https://www.routledge.com/Handbook-of-Graphical-Models/Maathuis-Drton-Lauritzen-Wainwright/p/book/9780367732608)<img align="right" width="60" src="img/books/handbook_graphical_models.png">
+  - **Author**: Marloes Maathuis, Mathias Drton, Steffen Lauritzen, Martin Wainwright
+  - **Year**: 2019
+ 
 - [The Book of Why](http://bayes.cs.ucla.edu/WHY/)<img align="right" width="60" src="img/books/book_of_why.jpeg">
   - **Author**: D. Mackenzie, J. Pearl
   - **Year**: 2018
