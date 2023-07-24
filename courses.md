@@ -72,7 +72,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Year**: 2020
   - **Lectures**: 8 x 1h:15
 
-- [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
+- [Machine Learning and Econometrics <img align="right" width="150" src="img/courses/machine_learning_econometrics.png">](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
   - **Author**: Susan Athey, Guido Imbens (Stanford University)
   - **Year**: 2018
   - **Lectures**: 9 x 1h:15
