@@ -26,7 +26,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Year**: 2022
   - **Lectures**: 12 x 2h:15
 
-- [Modern Sampling Methods: Design and Inference](https://www.aeaweb.org/conference/cont-ed/2022-webcasts)
+- [Modern Sampling Methods: Design and Inference <img align="right" width="150" src="img/courses/modern_sampling_methods.png">](https://www.aeaweb.org/conference/cont-ed/2022-webcasts)
   - **Author**: Keisuke Hirano (Yale University), Jack Porter (UW Madison)
   - **Year**: 2022
   - **Lectures**: 10 x 1h:15
