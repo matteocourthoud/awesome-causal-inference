@@ -76,6 +76,10 @@ The following is a list of books in Causal Inference, sorted by publication year
   - **Author**: Stephen L. Morgan (Johns Hopkins University), Christopher Winship (Harvard University)
   - **Year**: 2014
 
+- [Statistical Methods for Dynamic Treatment Regimes](https://link.springer.com/book/10.1007/978-94-007-6094-37)<img align="right" width="60" src="img/books/statistical_methods_dynamic_treatment_regimes.png">
+  - **Author**: Bibhas Chakraborty (Columbia University), Erica E.M. Moodie (McGill University)
+  - **Year**: 2013
+
 - [Handbook of Causal Analysis for Social Research](https://link.springer.com/book/10.1007/978-94-007-6094-37)<img align="right" width="60" src="img/books/handbook_causal_analysis.png">
   - **Author**: Stephen L. Morgan (Johns Hopkins University)
   - **Year**: 2013
