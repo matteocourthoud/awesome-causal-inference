@@ -39,6 +39,11 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Author**: Paul Goldsmith-Pinkham (Yale University)
   - **Year**: 2021
   - **Lectures**: 21 x 1h:00
+ 
+- [Causality <img align="right" width="150" src="img/courses/causality.png">](https://stat.ethz.ch/lectures/ss21/causality.php#course_materials)
+  - **Author**: Christina Heinze-Deml (ETH Zurich)
+  - **Year**: 2021
+  - **Lectures**: 21 x 1h:00
 
 - [Difference-in-Differences Reading Group <img align="right" width="150" src="img/courses/did_reading_group.jpeg">](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)
   - **Author**: multiple researchers
