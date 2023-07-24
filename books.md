@@ -13,16 +13,16 @@ The following is a list of books in Causal Inference, sorted by publication year
   - **Author**: Matheus Facure (Nubank)
   - **Year**: regularly updated
 
-- [Causal Inference: The Mixtape](https://mixtape.scunning.com/)<img align="right" width="60" src="img/books/causal_inference_the_mixtape.jpeg">
+- [Causal Inference: The Mixtape <img align="right" width="60" src="img/books/causal_inference_the_mixtape.jpeg">](https://mixtape.scunning.com/)
     - **Author**: Scott Cunningham (Baylor University)
     - **Year**: 2021
 
-- [The Effect](https://theeffectbook.net/)<img align="right" width="60" src="img/books/the_effect.png">
+- [The Effect <img align="right" width="60" src="img/books/the_effect.png">](https://theeffectbook.net/)
   - **Author**: Nick C. Huntington-Klein (Seattle University)
   - **Year**: 2021
   - **Bonus**: [recordings on Youtube](https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8)
 
-- [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)<img align="right" width="60" src="img/books/what_if.jpeg">
+- [Causal Inference: What If <img align="right" width="60" src="img/books/what_if.jpeg">](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
   - **Author**: Miguel Hernan (Harvard University)
   - **Year**: 2020
 
