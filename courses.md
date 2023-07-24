@@ -67,7 +67,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Year**: 2020
   - **Lectures**: 15 x 0h:45
 
-- [Mastering Mostly Harmless Econometrics](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
+- [Mastering Mostly Harmless Econometrics <img align="right" width="150" src="img/courses/mostly_harmless_econometrics.png">](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
   - **Author**: Alberto Abadie, Joshua Angrist, and Christopher Walters (MIT)
   - **Year**: 2020
   - **Lectures**: 8 x 1h:15
