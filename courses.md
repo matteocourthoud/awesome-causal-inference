@@ -121,7 +121,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Author**: Alejandro Schuler, Mark van der Laan (University of California, Berkeley)
  
 - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
-  - Matthew Blackwell (Harvard University)
+  - **Author**: Matthew Blackwell (Harvard University)
 
 
 
