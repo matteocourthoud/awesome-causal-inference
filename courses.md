@@ -14,6 +14,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Author**: Kosuke Imai (Harvard University)
   - **Year**: 2022
   - **Lectures**: 11 x 0h:50 [[Material](https://imai.fas.harvard.edu/teaching/cause.html)]
+  - **Topics**: PO, ATE, IV, RD, matching, IPW, FE, DiD, CATE
 
 - [Machine Learning and Causal Inference <img align="right" width="150" src="img/courses/machine_learning_causal_inference.jpeg">](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
   - **Author**: Susan Athey, Jann Spiess, and Stephan Wager (Stanford University)
