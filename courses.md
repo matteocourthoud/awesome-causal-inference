@@ -30,7 +30,7 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Year**: 2022
   - **Lectures**: 10 x 1h:15
 
-- [Causality Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11SiNLE2BNNg59MGcTCpbQx)
+- [Causality Boot Camp <img align="right" width="150" src="img/courses/causality_boot_camp.png">](https://www.youtube.com/playlist?list=PLgKuh-lKre11SiNLE2BNNg59MGcTCpbQx)
   - **Author**: Spencer Gordon (Caltech), Daniel Malinsky (Columbia University), Thomas Richardson (University of Washington), Chandler Squires (MIT)
   - **Year**: 2022
   - **Lectures**: 15 x 1h:05
