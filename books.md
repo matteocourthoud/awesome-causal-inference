@@ -18,9 +18,8 @@ The following is a list of books in Causal Inference, sorted by publication year
     - **Year**: 2021
 
 - [The Effect <img align="right" width="60" src="img/books/the_effect.png">](https://theeffectbook.net/)
-  - **Author**: Nick C. Huntington-Klein (Seattle University)
+  - **Author**: Nick C. Huntington-Klein (Seattle University) [[video](https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8)]
   - **Year**: 2021
-  - **Bonus**: [recordings on Youtube](https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8)
 
 - [Causal Inference: What If <img align="right" width="60" src="img/books/what_if.jpeg">](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
   - **Author**: Miguel Hernan (Harvard University)
