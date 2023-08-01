@@ -27,15 +27,19 @@ The following is a list of books in Causal Inference, sorted by publication year
 
 ## Paid
 
-- [Causal Inference in Python](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/)<img align="right" width="60" src="img/books/causal_inference_python.jpg">
+- [Causal Inference in Python <img align="right" width="60" src="img/books/causal_inference_python.jpg">](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/)
   - **Author**: Matheus Facure
   - **Year**: 2023
- 
-- [Causal Inference and Discovery in Python](https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989)<img align="right" width="60" src="img/books/causal_inference_discovery_python.jpg">
+
+- [Causal Analysis <img align="right" width="60" src="img/books/causal_analysis.png">](https://mitpress.mit.edu/9780262545914/causal-analysis/)
+  - **Author**:  Martin Huber (University of Fribourg)
+  - **Year**: 2023
+
+- [Causal Inference and Discovery in Python <img align="right" width="60" src="img/books/causal_inference_discovery_python.jpg">](https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989)
   - **Author**: Aleksander Molak
   - **Year**: 2023
  
-- [Quasi-Experimentation: A Guide to Design and Analysis](https://www.guilford.com/books/Quasi-Experimentation/Charles-Reichardt/9781462540204)<img align="right" width="60" src="img/books/quasi_experimentation.jpeg">
+- [Quasi-Experimentation: A Guide to Design and Analysis <img align="right" width="60" src="img/books/quasi_experimentation.jpeg">](https://www.guilford.com/books/Quasi-Experimentation/Charles-Reichardt/9781462540204)
   - **Author**: Charles S. Reichardt
   - **Year**: 2019
  
