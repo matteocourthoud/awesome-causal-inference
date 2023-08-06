@@ -27,6 +27,14 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/py-why/dowhy)
   - [gcm](https://www.pywhy.org/dowhy/v0.9.1/user_guide/gcm_based_inference/index.html) - Graphical causal model-based inference
 
+- [CausalML](https://github.com/uber/causalml)
+![stars](https://img.shields.io/github/stars/uber/causalml)
+  - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
+  - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
+  - [inference.iv](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.iv) - Doubly-robust instrumental variables [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#doubly-robust-instrumental-variable-driv-learner)]
+  - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
+  - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
+
 - [EconML](https://github.com/py-why/EconML)
 ![stars](https://img.shields.io/github/stars/py-why/econml)
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
@@ -36,14 +44,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [iv.dml](https://econml.azurewebsites.net/spec/estimation/orthoiv.html) - Double machine learning with instrumental variables
   - [iv.nnet](https://econml.azurewebsites.net/spec/estimation/deepiv.html) - Deep instrumental variables
   - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic double machine learning
-
-- [CausalML](https://github.com/uber/causalml)
-![stars](https://img.shields.io/github/stars/uber/causalml)
-  - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
-  - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
-  - [inference.iv](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.iv) - Doubly-robust instrumental variables [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#doubly-robust-instrumental-variable-driv-learner)]
-  - [match](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.match) - Matching
-  - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
 ![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
@@ -67,13 +67,13 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
   - Fast generalized linear models [[Docs](https://glum.readthedocs.io/en/latest/index.html)]
 
-- [GeoLift](https://github.com/facebookincubator/GeoLift/)
-![stars](https://img.shields.io/github/stars/facebookincubator/GeoLift)
-  - Uplift modeling for geographical experiments [[Docs](https://facebookincubator.github.io/GeoLift/)]
-
 - [causal-tune](https://github.com/py-why/causaltune)
 ![stars](https://img.shields.io/github/stars/py-why/causaltune)
   - AutoML for causal inference
+
+- [GeoLift](https://github.com/facebookincubator/GeoLift/)
+![stars](https://img.shields.io/github/stars/facebookincubator/GeoLift)
+  - Uplift modeling for geographical experiments [[Docs](https://facebookincubator.github.io/GeoLift/)]
 
 - [pyhdfe](https://github.com/jeffgortmaker/pyhdfe)
 ![stars](https://img.shields.io/github/stars/jeffgortmaker/pyhdfe)
@@ -94,6 +94,7 @@ The following is a list of causal inference libraries, ordered by (open source) 
 - [ananke](https://ananke.readthedocs.io/en/latest/) - Causal inference with DAGs
 
 - [scikit-uplift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
+
 
 
 ## <img width="24" src="img/icon/r.png"> R
