@@ -115,6 +115,11 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ![stars](https://img.shields.io/github/stars/google/CausalImpact)
   - Bayesian structural time-series models [[Docs](https://google.github.io/CausalImpact/CausalImpact.html)]
 
+- [Robyn](https://github.com/facebookexperimental/Robyn/)
+![downloads](https://cranlogs.r-pkg.org/badges/Robyn)
+![stars](https://img.shields.io/github/stars/facebookexperimental/Robyn)
+  - Generalized random forests [[Docs](https://facebookexperimental.github.io/Robyn/)]
+
 - [GRF](https://github.com/grf-labs/grf/)
 ![downloads](https://cranlogs.r-pkg.org/badges/grf)
 ![stars](https://img.shields.io/github/stars/grf-labs/grf)
