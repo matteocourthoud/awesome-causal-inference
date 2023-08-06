@@ -9,7 +9,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ## <img width="24" src="img/icon/python.png"> Python
 
 - [Statsmodels](https://github.com/statsmodels/statsmodels)
-![downloads](https://img.shields.io/pypi/dm/statsmodels)
 ![stars](https://img.shields.io/github/stars/statsmodels)
   - [regression](https://www.statsmodels.org/stable/regression.html) - Linear regression models
   - [tsa](https://www.statsmodels.org/stable/tsa.html) - Time series analysis
@@ -19,19 +18,16 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [stats](https://www.statsmodels.org/stable/stats.html) - Statistical tests and tools
   
 - [Linearmodels](https://github.com/bashtage/linearmodels/) (extension of Statsmodels)
-![downloads](https://img.shields.io/pypi/dm/linearmodels)
 ![stars](https://img.shields.io/github/stars/bashtage/linearmodels)
   - [iv](https://bashtage.github.io/linearmodels/iv/index.html) - Instrumental variables
   - [panel](https://bashtage.github.io/linearmodels/panel/index.html) - Panel data models
   - [system](https://bashtage.github.io/linearmodels/system/index.html) - System regression models (e.g. seemingly unrelated regressions)
 
 - [DoWhy](https://github.com/py-why/dowhy)
-![downloads](https://img.shields.io/pypi/dm/dowhy)
 ![stars](https://img.shields.io/github/stars/py-why/dowhy)
   - [gcm](https://www.pywhy.org/dowhy/v0.9.1/user_guide/gcm_based_inference/index.html) - Graphical causal model-based inference
 
 - [EconML](https://github.com/py-why/EconML)
-![downloads](https://img.shields.io/pypi/dm/econml)
 ![stars](https://img.shields.io/github/stars/py-why/econml)
   - [dml](https://econml.azurewebsites.net/spec/estimation/dml.html) - Double machine learning
   - [dr](https://econml.azurewebsites.net/spec/estimation/dr.html) - Doubly robust learning
@@ -42,7 +38,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic double machine learning
 
 - [CausalML](https://github.com/uber/causalml)
-![downloads](https://img.shields.io/pypi/dm/causalml)
 ![stars](https://img.shields.io/github/stars/uber/causalml)
   - [inference.tree](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.inference.tree) - Tree-based uplift models [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#tree-based-algorithms)]
   - [inference.meta](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms) - S-, T-, X-, R-, DR-, TMLE-learners [[Docs](https://causalml.readthedocs.io/en/latest/methodology.html#meta-learner-algorithms)]
@@ -51,7 +46,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [propensity](https://causalml.readthedocs.io/en/latest/causalml.html#module-causalml.propensity) - Propensity score estimation
 
 - [CausalNex](https://github.com/quantumblacklabs/causalnex/)
-![downloads](https://img.shields.io/pypi/dm/causalnex)
 ![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
   - [structure](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html) - Directed acyclic graph structure learning
   - [network](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Fitting-the-Conditional-Distribution-of-the-Bayesian-Network) - Bayesian network modeling
@@ -59,12 +53,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [inference](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Querying-Marginals) - Model inference
 
 - [causal-learn](https://github.com/py-why/causal-learn)
-![downloads](https://img.shields.io/pypi/dm/causal-learn)
 ![stars](https://img.shields.io/github/stars/py-why/causal-learn)
   - [search](https://causal-learn.readthedocs.io/en/latest/search_methods_index/index.html) - Search methods for causal discovery
 
 - [CausalPy](https://github.com/pymc-labs/CausalPy)
-![downloads](https://img.shields.io/pypi/dm/CausalPy)
 ![stars](https://img.shields.io/github/stars/pymc-labs/CausalPy)
   - [InterruptedTimeSeries](https://causalpy.readthedocs.io/en/latest/notebooks/its_pymc.html) - Interrupted time series
   - [SyntheticControl](https://causalpy.readthedocs.io/en/latest/notebooks/sc_pymc.html#) - Synthetic control methods
@@ -72,7 +64,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - [RegressionDiscontinuity](https://causalpy.readthedocs.io/en/latest/notebooks/rd_pymc.html#) - Regression discontinuity
 
 - [GLuM](https://github.com/Quantco/glum/)
-![downloads](https://img.shields.io/pypi/dm/glum)
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
   - Fast generalized linear models [[Docs](https://glum.readthedocs.io/en/latest/index.html)]
 
@@ -81,12 +72,10 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - Uplift modeling for geographical experiments [[Docs](https://facebookincubator.github.io/GeoLift/)]
 
 - [causal-tune](https://github.com/py-why/causaltune)
-![downloads](https://img.shields.io/pypi/dm/causaltune)
 ![stars](https://img.shields.io/github/stars/py-why/causaltune)
   - AutoML for causal inference
 
 - [pyhdfe](https://github.com/jeffgortmaker/pyhdfe)
-![downloads](https://img.shields.io/pypi/dm/pyhdfe)
 ![stars](https://img.shields.io/github/stars/jeffgortmaker/pyhdfe)
   - Fast high-dimensional fixed effect orthogonalization algorithm
 
@@ -95,7 +84,6 @@ The following is a list of causal inference libraries, ordered by (open source) 
   - Trimmed match estimator for aggregate geographical experiments [[Paper](https://arxiv.org/abs/2105.07060)]
 
 - [pyfixest](https://github.com/s3alfisc/pyfixest)
-![downloads](https://img.shields.io/pypi/dm/pyfixest)
 ![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
   - Fast high-dimensional fixed effect regression (based on [pyhdfe](https://github.com/jeffgortmaker/pyhdfe))
 
@@ -111,22 +99,18 @@ The following is a list of causal inference libraries, ordered by (open source) 
 ## <img width="24" src="img/icon/r.png"> R
 
 - [CausalImpact](https://github.com/google/CausalImpact)
-![downloads](https://cranlogs.r-pkg.org/badges/CausalImpact)
 ![stars](https://img.shields.io/github/stars/google/CausalImpact)
   - Bayesian structural time-series models [[Docs](https://google.github.io/CausalImpact/CausalImpact.html)]
 
 - [Robyn](https://github.com/facebookexperimental/Robyn/)
-![downloads](https://cranlogs.r-pkg.org/badges/Robyn)
 ![stars](https://img.shields.io/github/stars/facebookexperimental/Robyn)
   - Generalized random forests [[Docs](https://facebookexperimental.github.io/Robyn/)]
 
 - [GRF](https://github.com/grf-labs/grf/)
-![downloads](https://cranlogs.r-pkg.org/badges/grf)
 ![stars](https://img.shields.io/github/stars/grf-labs/grf)
   - Generalized random forests [[Docs](https://grf-labs.github.io/grf/index.html)]
 
 - [FixEst](https://github.com/lrberge/fixest)
-![downloads](https://cranlogs.r-pkg.org/badges/fixest)
 ![stars](https://img.shields.io/github/stars/lrberge/fixest)
   - Fast high-dimensional fixed effect regression [[Docs](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html)]
 
