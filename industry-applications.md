@@ -172,6 +172,14 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
+## Interaction Effects
+
+- [A/B Interactions: A Call to Relax](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-interactions-a-call-to-relax) - Microsoft (2023)
+
+- [Embrace Overlapping A/B Tests and Avoid the Dangers of Isolating Experiments](https://blog.statsig.com/embracing-overlapping-a-b-tests-and-the-danger-of-isolating-experiments-cb0a69e09d3) - Statsig (2021)
+
+
+
 ## Misc
 
 - 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
