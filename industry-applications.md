@@ -212,3 +212,5 @@ The following is a list of applications of causal inference in the industry, sor
 - [Significance Testing for Ratio Metrics in Experiments](https://tech.ebayinc.com/engineering/significance-testing-for-ratio-metrics-in-experiments/) - Ebay (2016)
 
 - 📝 [Automatic Detection and Diagnosis of Biased Online Experiments](https://arxiv.org/pdf/1808.00114.pdf) - Linkedin (2011)
+
+- [Better budgeting with Bayesian models: Bolt’s story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
