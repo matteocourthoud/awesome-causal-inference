@@ -128,6 +128,10 @@ The following is a list of causal inference libraries, ordered by language and p
 
 ## <img width="24" src="img/icon/julia.png"> Julia
 
+- [Tidier](https://github.com/TidierOrg/Tidier.jl)
+![stars](https://img.shields.io/github/stars/TidierOrg/Tidier.jl)
+  - Tidyverse port to Julia
+
 - [FixedEffectModels](https://github.com/FixedEffects/FixedEffectModels.jl)
 ![stars](https://img.shields.io/github/stars/FixedEffects/FixedEffectModels.jl)
   - Fast high-dimensional fixed effect regression
