@@ -22,6 +22,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481) - Netflix (2021)
 
+- [Experimentation Platform at Zalando: Part 1 - Evolution](https://engineering.zalando.com/posts/2021/01/experimentation-platform-part1.html) - Zalando (2021)
+
 - [Spotify’s New Experimentation Platform](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/) - Spotify (2020)
 
 - [A/B Testing @ MeLi](https://medium.com/mercadolibre-tech/a-b-testing-meli-3a5ad2b4594d) - Mercado Libre (2020)
