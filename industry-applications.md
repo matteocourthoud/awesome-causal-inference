@@ -76,11 +76,11 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Interference
 
-- 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
-
 - [Unbiased Experiments in Congested Networks](https://drive.google.com/file/d/15bBBsNjiCyO_IDILE5taxXcw9E1XDUgs/view) - Netflix (2021)
 
 - [Budget-split testing: A trustworthy and powerful approach to marketplace A/B testing](https://engineering.linkedin.com/blog/2021/budget-split-testing) - Linkedin (2021)
+
+- 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
   - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf) - LinkedIn (2017)
