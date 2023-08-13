@@ -6,6 +6,11 @@ The following is a list of conferences in Causal Inference.
   - **When**: December 2023
   - **Where**: Boca Raton, US
 
+- [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
+  - **Organizer**: MIT
+  - **When**: November 2023
+  - **Where**: Cambridge, US
+
 - [Pacific Causal Inference Conference (PCIC)](https://sci-info.org/annual-meeting/)
   - **When**: September 2023
   - **Where**: Beijing, CN
@@ -16,7 +21,6 @@ The following is a list of conferences in Causal Inference.
   - **Where**: Austin, US
 
 - [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/)
-  - **Organizer**: misc
   - **When**: April 2023
   - **Where**: Tubingen, Germany
 
