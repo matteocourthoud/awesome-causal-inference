@@ -10,5 +10,7 @@ The following is a list of causal inference blogs.
 
 - [StitchFix](https://multithreaded.stitchfix.com/blog/)
 
+- [Zalando](https://engineering.zalando.com/)
+
 
 ## Private
