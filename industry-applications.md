@@ -78,7 +78,9 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Unbiased Experiments in Congested Networks](https://drive.google.com/file/d/15bBBsNjiCyO_IDILE5taxXcw9E1XDUgs/view) - Netflix (2021)
 
-- [Budget-split testing: A trustworthy and powerful approach to marketplace A/B testing](https://engineering.linkedin.com/blog/2021/budget-split-testing) - Linkedin (2021)
+- [Budget-split Testing: A trustworthy and Powerful Approach to Marketplace A/B Testing](https://engineering.linkedin.com/blog/2021/budget-split-testing) - Linkedin (2021)
+
+- [Experimentation with Resource Constraints](https://multithreaded.stitchfix.com/blog/2020/11/18/virtual-warehouse/) - StitchFix (2020)
 
 - 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
