@@ -8,6 +8,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 - 🔬 [Academic Research](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/academic-research.md)
 
+- 📝 [Blogs](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/blogs.md)
+
 - 📚 [Books](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/books.md)
 
 - 🎓 [Conferences](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/conferences.md)
