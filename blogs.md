@@ -8,7 +8,7 @@ The following is a list of causal inference blogs.
 
 ## Industry
 
-- ::python:: [StitchFix](https://multithreaded.stitchfix.com/blog/)
+- [StitchFix](https://multithreaded.stitchfix.com/blog/)
 
 - [Zalando](https://engineering.zalando.com/)
 
