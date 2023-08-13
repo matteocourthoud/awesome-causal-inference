@@ -23,3 +23,5 @@ The following is a list of causal inference talks.
 
 - [An Industry Perspective on Bandit Feedback](https://www.youtube.com/watch?v=NkVWwZKdMac) - Booking, Sharechat, Amazon, Spotify, Netflix (2023)
 
+- [A/B Testing at Zalando: Concepts and Tools](https://www.youtube.com/watch?v=wmEAUfkLk50) - Zalando (2021)
+
