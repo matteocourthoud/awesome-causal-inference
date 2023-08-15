@@ -15,8 +15,9 @@ The following is a list of conferences in Causal Inference.
  
 - [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/meeting/)
   - **Organizer**: Maastricht University and Copenhagen Business School
-  - **When**: November 2023
+  - **When**:  7–8 November 2023
   - **Where**: online
+  - **Submission Deadline**: 1 October 2023
 
 - [Causal AI Conference](https://www.causalaiconference.com/)
   - **Organizer**: CausaLens
