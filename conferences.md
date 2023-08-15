@@ -44,7 +44,7 @@ The following is a list of conferences in Causal Inference.
   - **Where**: London, UK
 
 - [Causal Learning and Reasoning (CLeaR) <img align="right" height="80" src="img/conferences/clear.png">](https://www.cclear.cc/)
-  - **When**: April 2023
+  - **When**: 11-14 April 2023
   - **Where**: Tubingen, Germany
 
 - [European Causal Inference Meeting (EuroCIM)](https://www.eurocim.org/)
