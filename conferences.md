@@ -19,7 +19,7 @@ The following is a list of conferences in Causal Inference.
   - **Where**: online
   - **Submission Deadline**: 1 October 2023
 
-- [Causal AI Conference](https://www.causalaiconference.com/)
+- [Causal AI Conference <img align="right" height="80" src="img/conferences/cai.png">](https://www.causalaiconference.com/)
   - **Organizer**: CausaLens
   - **When**: September 2023
   - **Where**: New York, US
