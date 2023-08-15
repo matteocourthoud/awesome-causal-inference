@@ -40,7 +40,7 @@ The following is a list of conferences in Causal Inference.
 
 - [Causality in the Sciences](https://blogs.kent.ac.uk/jonw/conferences/cits/)
   - **Organizer**: University of Kent
-  - **When**: May 2023
+  - **When**: 18-20 May 2023
   - **Where**: London, UK
 
 - [Causal Learning and Reasoning (CLeaR) <img align="right" height="80" src="img/conferences/clear.png">](https://www.cclear.cc/)
