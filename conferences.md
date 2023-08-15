@@ -9,8 +9,9 @@ The following is a list of conferences in Causal Inference.
 
 - [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
   - **Organizer**: MIT
-  - **When**: November 2023
+  - **When**: 10-11 November 2023
   - **Where**: Cambridge, US
+  - **Submission Deadline**: 15 September 2023
  
 - [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/meeting/)
   - **Organizer**: Maastricht University and Copenhagen Business School
