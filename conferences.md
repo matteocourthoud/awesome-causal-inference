@@ -3,8 +3,9 @@
 The following is a list of conferences in Causal Inference.
 
 - [Interactive Causal Learning Conference](http://interactivecausallearning.com/2023/)
-  - **When**: December 2023
+  - **When**: 1-2 December 2023
   - **Where**: Boca Raton, US
+  - **Submission Deadline**: 31 July 2023
 
 - [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
   - **Organizer**: MIT
