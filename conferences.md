@@ -2,7 +2,7 @@
 
 The following is a list of conferences in Causal Inference.
 
-- [Interactive Causal Learning Conference](http://interactivecausallearning.com/2023/)
+- [Interactive Causal Learning Conference <img align="right" height="80" src="img/conferences/iclc.png">](http://interactivecausallearning.com/2023/)
   - **When**: 1-2 December 2023
   - **Where**: Boca Raton, US
   - **Submission Deadline**: 31 July 2023
