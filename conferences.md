@@ -7,7 +7,7 @@ The following is a list of conferences in Causal Inference.
   - **Where**: Boca Raton, US
   - **Submission Deadline**: 31 July 2023
 
-- [Conference on Digital Experimentation (CODE) <img align="right" heigth="60" src="img/conferences/code.jpeg">](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
+- [Conference on Digital Experimentation (CODE) <img align="right" heigth="20" src="img/conferences/code.jpeg">](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
   - **Organizer**: MIT
   - **When**: 10-11 November 2023
   - **Where**: Cambridge, US
