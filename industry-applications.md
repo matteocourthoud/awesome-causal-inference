@@ -130,6 +130,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55) - Netflix (2017)
 
+- 📝 [Large-Scale Validation and Analysis of Interleaved Search Evaluation](https://www.cs.cornell.edu/people/tj/publications/chapelle_etal_12a.pdf) - Microsoft, Yahoo (2012)
+
 
 
 ## Customer Lifetime Value
