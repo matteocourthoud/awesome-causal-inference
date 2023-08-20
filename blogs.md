@@ -38,9 +38,9 @@ The following is a list of causal inference blogs.
 
 - [Meta](https://research.facebook.com/teams/central-applied-science/) Central Applied Science
 
-- [Microsoft](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/) Experimentation Platform
-
 - [Microsoft](https://medium.com/data-science-at-microsoft) Data Science
+
+- [Microsoft](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/) Experimentation Platform
 
 - [Netflix](https://netflixtechblog.com) Tech
 
