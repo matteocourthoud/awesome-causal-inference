@@ -78,4 +78,6 @@ The following is a list of causal inference blogs.
 
 - [Data Colada](https://datacolada.org/), by Uri Simonsohn, Leif Nelson, and Joe Simmons.
 
+- [evanmiller.org](https://www.evanmiller.org/) by Evan Miller.
+
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/), by Andrew Gelman and others.
