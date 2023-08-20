@@ -115,6 +115,10 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/lrberge/fixest)
   - Fast high-dimensional fixed effect regression [[Docs](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html)]
 
+- [tidyhte](https://github.com/ddimmery/tidyhte)
+![stars](https://img.shields.io/github/stars/ddimmery/tidyhte)
+  - Tidy-style heterogeneous treatment effect estimation [[Docs](https://ddimmery.github.io/tidyhte/index.html)]
+
 - [alpaca](https://github.com/amrei-stammann/alpaca) - Generalized linear models with high-dimensional fixed effects
 
 - [DAGitty](https://github.com/jtextor/dagitty) - [[Video](https://www.youtube.com/watch?v=LCC4BkLZo-g)]
@@ -124,6 +128,7 @@ The following is a list of causal inference libraries, ordered by language and p
 - [ggdag](https://github.com/r-causal/ggdag) - Visualizing and analyzing causal DAGs
 
 - [pcalg](https://cran.r-project.org/web/packages/pcalg/index.html) - Causal structure learning and causal inference using DAGs
+
 
 
 ## <img width="24" src="img/icon/julia.png"> Julia
