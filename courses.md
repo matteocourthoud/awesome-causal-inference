@@ -111,6 +111,10 @@ The following is a list of free courses in Causal Inference, sorted by format an
   - **Author**: Peng Ding (University of California, Berkeley)
   - **Year**: 2023
 
+- [R Guide for TMLE in Medical Research](https://ehsanx.github.io/TMLEworkshop/)
+  - **Author**: Ehsan Karim, Hanna Frank
+  - **Year**: 2021
+
 - [Notes](https://apoorvalal.github.io/methods/tex/notes.pdf)
   - **Author**: Aaporva Lal (Stanford University)
  
