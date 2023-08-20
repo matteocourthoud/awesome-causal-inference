@@ -126,6 +126,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Beyond A/B Test : Speeding up Airbnb Search Ranking Experimentation through Interleaving](https://medium.com/airbnb-engineering/beyond-a-b-test-speeding-up-airbnb-search-ranking-experimentation-through-interleaving-7087afa09c8e) - Airbnb (2022)
 
+- [Faster ML Experimentation at Etsy with Interleaving](https://www.etsy.com/codeascraft/faster-ml-experimentation-at-etsy-with-interleaving) - Etsy (2022)
+
 - [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55) - Netflix (2017)
 
 
