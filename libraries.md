@@ -107,7 +107,7 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/facebookexperimental/Robyn)
   - Marketing mixed models [[Docs](https://facebookexperimental.github.io/Robyn/)]
 
-- [GRF](https://github.com/grf-labs/grf/)
+- [grf](https://github.com/grf-labs/grf/)
 ![stars](https://img.shields.io/github/stars/grf-labs/grf)
   - Generalized random forests [[Docs](https://grf-labs.github.io/grf/index.html)]
 
