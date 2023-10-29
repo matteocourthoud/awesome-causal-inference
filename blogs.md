@@ -80,7 +80,9 @@ The following is a list of causal inference blogs.
 
 - [Data Colada](https://datacolada.org/), by Uri Simonsohn, Leif Nelson, and Joe Simmons.
 
-- [Econometrics Beat](https://davegiles.blogspot.com/), by Dave Giles [discontinued]
+- [Econometrics Beat](https://davegiles.blogspot.com/), by Dave Giles [discontinued].
+
+- [Statistical Odds & Ends](https://statisticaloddsandends.wordpress.com/), by Kenneth Tay.
 
 - [evanmiller.org](https://www.evanmiller.org/) by Evan Miller.
 
