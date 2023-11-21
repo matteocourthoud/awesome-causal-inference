@@ -82,6 +82,10 @@ The following is a list of free courses in Causal Inference, sorted by format an
 
 ## Slides
 
+- [Causal Machine Learning](https://github.com/MisraLab/cml.github.io/tree/main)
+  - **Author**: Max Farrell, Sanjog Misra (University of Chicago)
+  - **Year**: 2023
+
 - [Causal Inference and Machine Learning](https://apoorvalal.github.io/talks/2021-GraduateSequenceTeaching/)
   - **Author**: Jens Hainmueller (Stanford University)
   - **Year**: 2023
