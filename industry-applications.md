@@ -116,6 +116,10 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf) - Optimizely (2017)
 
+- [Sequential Testing](https://docs.statsig.com/experiments-plus/sequential-testing) - Statsig
+
+- [Sequential Testing](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty#sequential) - Eppo
+
 
 
 ## Ranking
