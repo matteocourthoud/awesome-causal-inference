@@ -106,7 +106,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Continuous Testing
+## Sequential Testing
 
 - [Sequential Testing at Booking.com](https://booking.ai/sequential-testing-at-booking-com-650954a569c7) - Booking (2023)
 
