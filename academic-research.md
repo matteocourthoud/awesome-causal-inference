@@ -74,7 +74,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Sequential Testing
 
-- [Group Sequential Designs: A Tutorial](https://osf.io/preprints/psyarxiv/x4azm) - Lakens1, Pahlke, Wassmer (2021)
+- [Group Sequential Designs: A Tutorial](https://osf.io/preprints/psyarxiv/x4azm) - Lakens, Pahlke, Wassmer (2021)
 
 - [Time-uniform, Nonparametric, Nonasymptotic Confidence Sequences](https://arxiv.org/abs/1810.08240.pdf) - Howard, Ramdas, McAuliffe, Sekhon - (2020)
 
