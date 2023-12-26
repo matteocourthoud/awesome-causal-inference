@@ -7,7 +7,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
 - [Experimental Methods](#experimental-methods)
   - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
   - [Adaptive Experiments](#adaptive-experiments)
-  - [Optimal Stopping](#optimal-stopping)
+  - [Sequential Testing](#sequential-testing)
   - [Interference](#interference)
 - [Quasi-Experimental Methods](#quasi-experimental-methods)
   - [Unconfoundedness](#unconfoundedness)
@@ -72,11 +72,17 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 
 
-### Optimal Stopping
+### Sequential Testing
 
-- [Time-uniform, Nonparametric, Nonasymptotic Confidence Sequences](https://arxiv.org/abs/1810.08240.pdf) Howard, Ramdas, McAuliffe, Sekhon - (2020)
+- [Group Sequential Designs: A Tutorial](https://osf.io/preprints/psyarxiv/x4azm) - Lakens1, Pahlke, Wassmer (2021)
+
+- [Time-uniform, Nonparametric, Nonasymptotic Confidence Sequences](https://arxiv.org/abs/1810.08240.pdf) - Howard, Ramdas, McAuliffe, Sekhon - (2020)
 
 - [Discrete Sequential Boundaries for Clinical Trials](https://www.jstor.org/stable/2336502) - Lan, DeMets (1993)
+
+- [A Multiple Testing Procedure for Clinical Trials](https://www.jstor.org/stable/2530245) - O’Brien, Fleming (1979)
+
+- [Group Sequential Methods in the Design and Analysis of Clinical Trials](https://www.jstor.org/stable/2335684) - Pocock (1977)
 
 - [Optimum Character of the Sequential Probability Ratio Test](https://www.jstor.org/stable/2235638) - Wald, Wolfowitz (1948)
 
