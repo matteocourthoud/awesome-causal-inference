@@ -1,10 +1,10 @@
 # Causal Inference Tutorials and Reviews
 
-The following is a list of key academic research papers in Causal Inference, sorted by topic and date.
+The following is a list of practitioner guides and literature reviews, sorted by date.
 
 
 
-## Practitioner Tutorials
+## Practitioner Guides
 
 - [Group Sequential Designs: A Tutorial](https://osf.io/preprints/psyarxiv/x4azm) - Lakens, Pahlke, Wassmer (2021)
 
