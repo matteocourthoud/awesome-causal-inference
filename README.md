@@ -6,20 +6,20 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Table of Contents
 
-- 🔬 [Academic Research](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/academic-research.md)
+- 🔬 [Academic Research](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/academic-research.md)
 
-- 📝 [Blogs](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/blogs.md)
+- 📝 [Blogs](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/blogs.md)
 
-- 📚 [Books](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/books.md)
+- 📚 [Books](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/books.md)
 
-- 🎓 [Conferences](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/conferences.md)
+- 🎓 [Conferences](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/conferences.md)
 
-- 🧑‍🏫 [Courses](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/courses.md)
+- 🧑‍🏫 [Courses](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/courses.md)
 
-- 🏭 [Industry Applications](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/industry-applications.md)
+- 🏭 [Industry Applications](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/industry-applications.md)
 
-- 💻 [Libraries](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/libraries.md)
+- 💻 [Libraries](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/libraries.md)
 
-- 💬 [Talks](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/talks.md)
+- 💬 [Talks](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/talks.md)
 
-- 🛠️ [Tutorials and Reviews](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/tutorials-and-reviews.md)
+- 🛠️ [Tutorials and Reviews](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/tutorials-and-reviews.md)
