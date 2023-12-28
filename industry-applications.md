@@ -36,6 +36,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Variance Reduction
 
+- [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4) - Walmart (2023)
+
 - [Deep Dive Into Variance Reduction](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/deep-dive-into-variance-reduction/) - Microsoft (2022)
 
 - [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255) - Booking.com (2020)
