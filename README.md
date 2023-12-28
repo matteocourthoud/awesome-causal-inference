@@ -18,6 +18,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 - 🏭 [Industry Applications](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/industry-applications.md)
 
-- 🛠️ [Libraries](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/libraries.md)
+- 💻 [Libraries](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/libraries.md)
 
 - 💬 [Talks](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/talks.md)
+
+- 🛠️ [Tutorials and Reviews](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/tutorials-and-reviews.md)
