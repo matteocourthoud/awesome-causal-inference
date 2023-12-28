@@ -16,7 +16,7 @@ The following is a list of key academic research papers in Causal Inference, sor
   - [Regression Discontinuity](#regression-discontinuity)
 - [Inference](#inference)
 
-**Note for curators**: differently from other sections, the aim of this list is *not* to be exhaustive but rather to cover most of the *established* research. I think about this page as the collection of papers that a literature review on a certain topic should cite. For literature reviews and practitioner guides use [tutorials-and-reviews](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/tutorials-and-reviews.md) instead. Contributions are very welcome!
+**Note for curators**: differently from other sections, the aim of this list is *not* to be exhaustive but rather to cover most of the *established* research. I think about this page as the collection of papers that a literature review on a certain topic should cite. For literature reviews and practitioner guides use [tutorials-and-reviews](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/tutorials-and-reviews.md) instead. Contributions are very welcome!
 
 
 
