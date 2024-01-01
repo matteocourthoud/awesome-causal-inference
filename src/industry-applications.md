@@ -36,6 +36,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Variance Reduction
 
+- [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4) - Walmart (2023)
+
 - [Deep Dive Into Variance Reduction](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/deep-dive-into-variance-reduction/) - Microsoft (2022)
 
 - [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255) - Booking.com (2020)
@@ -106,7 +108,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Continuous Testing
+## Sequential Testing
 
 - [Sequential Testing at Booking.com](https://booking.ai/sequential-testing-at-booking-com-650954a569c7) - Booking (2023)
 
@@ -115,6 +117,10 @@ The following is a list of applications of causal inference in the industry, sor
 - [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2019)
 
 - 📝 [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf) - Optimizely (2017)
+
+- [Sequential Testing](https://docs.statsig.com/experiments-plus/sequential-testing) - Statsig
+
+- [Sequential Testing](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty#sequential) - Eppo
 
 
 
@@ -192,6 +198,10 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Misc
 
+- [Raising the Bar by Lowering the Bound](https://booking.ai/raising-the-bar-by-lowering-the-bound-3b12d3bd43a3) - Booking (2023)
+
+- [Better budgeting with Bayesian models: Bolt’s story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
+
 - 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
 
 - [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
@@ -222,5 +232,3 @@ The following is a list of applications of causal inference in the industry, sor
 - [Significance Testing for Ratio Metrics in Experiments](https://tech.ebayinc.com/engineering/significance-testing-for-ratio-metrics-in-experiments/) - Ebay (2016)
 
 - 📝 [Automatic Detection and Diagnosis of Biased Online Experiments](https://arxiv.org/pdf/1808.00114.pdf) - Linkedin (2011)
-
-- [Better budgeting with Bayesian models: Bolt’s story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)

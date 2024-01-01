@@ -1,13 +1,13 @@
 # Causal Inference Academic Research
 
-The following is a list of academic research papers in Causal Inference, sorted by topic and date.
+The following is a list of key academic research papers in Causal Inference, sorted by topic and date.
 
 - [Potential Outcomes](#potential-outcomes)
 - [Dyrected Acyclic Graphs](#dyrected-acyclic-graphs)
 - [Experimental Methods](#experimental-methods)
   - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
   - [Adaptive Experiments](#adaptive-experiments)
-  - [Optimal Stopping](#optimal-stopping)
+  - [Sequential Testing](#sequential-testing)
   - [Interference](#interference)
 - [Quasi-Experimental Methods](#quasi-experimental-methods)
   - [Unconfoundedness](#unconfoundedness)
@@ -16,7 +16,7 @@ The following is a list of academic research papers in Causal Inference, sorted 
   - [Regression Discontinuity](#regression-discontinuity)
 - [Inference](#inference)
 
-**Note for curators**: differently from other sections, the aim of this list is *not* to be exhaustive but rather to cover most of the *established* research. Occasionally, I might include working papers if particularly relevant. If some areas are underrepresented (e.g. DAGs) is not by choice, but because of my background. Contributions are very welcome!
+**Note for curators**: differently from other sections, the aim of this list is *not* to be exhaustive but rather to cover most of the *established* research. I think about this page as the collection of papers that a literature review on a certain topic should cite. For literature reviews and practitioner guides use [tutorials-and-reviews](https://github.com/matteocourthoud/awesome-causal-inference/blob/main/src/tutorials-and-reviews.md) instead. Contributions are very welcome!
 
 
 
@@ -72,11 +72,15 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 
 
-### Optimal Stopping
+### Sequential Testing
 
-- [Time-uniform, Nonparametric, Nonasymptotic Confidence Sequences](https://arxiv.org/abs/1810.08240.pdf) Howard, Ramdas, McAuliffe, Sekhon - (2020)
+- [Time-uniform, Nonparametric, Nonasymptotic Confidence Sequences](https://arxiv.org/abs/1810.08240.pdf) - Howard, Ramdas, McAuliffe, Sekhon - (2020)
 
 - [Discrete Sequential Boundaries for Clinical Trials](https://www.jstor.org/stable/2336502) - Lan, DeMets (1993)
+
+- [A Multiple Testing Procedure for Clinical Trials](https://www.jstor.org/stable/2530245) - O’Brien, Fleming (1979)
+
+- [Group Sequential Methods in the Design and Analysis of Clinical Trials](https://www.jstor.org/stable/2335684) - Pocock (1977)
 
 - [Optimum Character of the Sequential Probability Ratio Test](https://www.jstor.org/stable/2235638) - Wald, Wolfowitz (1948)
 
@@ -128,13 +132,9 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 ### Panel Methods
 
-- [What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature](https://arxiv.org/pdf/2201.01194.pdf) - Roth, Sant'Anna, Bilinski, Poe (2023)
-
 - [Synthetic Difference In Differences Estimation](https://arxiv.org/pdf/2301.11859.pdf) - Clarke, Pailañir, Athey, Imbens (2023) [[Video](https://www.youtube.com/watch?v=r2DzGAigTl4)]
 
 - [Matrix Completion Methods for Causal Panel Data Models](https://arxiv.org/pdf/1710.10251.pdf) - Athey, Bayati, Doudchenko, Imbens, Khosravi (2022)
-
-- [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://par.nsf.gov/servlets/purl/10331930) - Abadie (2021)
 
 - [Difference-in-Differences with Variation in Treatment Timing](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445) - Goodman-Bacon (2021)
 
@@ -165,10 +165,6 @@ The following is a list of academic research papers in Causal Inference, sorted 
 
 
 ### Regression Discontinuity
-
-- [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://arxiv.org/pdf/2301.08958.pdf) - Cattaneo, Idrobo, Titiunik - (2021)
-
-- [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://arxiv.org/pdf/1911.09511.pdf) - Cattaneo, Idrobo, Titiunik - (2019)
 
 - [Inference in Regression Discontinuity Designs with a Discrete Running Variable](https://arxiv.org/pdf/1606.04086.pdf) - Kolesár, Rothe (2018)
 
