@@ -16,7 +16,7 @@ The following is a list of causal inference libraries, ordered by language and p
   - [nonparametric](https://www.statsmodels.org/stable/nonparametric.html) - Nonparametric methods
   - [gmm](https://www.statsmodels.org/stable/gmm.html) - Generalized method of moments
   - [stats](https://www.statsmodels.org/stable/stats.html) - Statistical tests and tools
-  
+
 - [Linearmodels](https://github.com/bashtage/linearmodels/) (extension of Statsmodels)
 ![stars](https://img.shields.io/github/stars/bashtage/linearmodels)
   - [iv](https://bashtage.github.io/linearmodels/iv/index.html) - Instrumental variables
@@ -60,7 +60,7 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/pymc-labs/CausalPy)
   - [InterruptedTimeSeries](https://causalpy.readthedocs.io/en/latest/notebooks/its_pymc.html) - Interrupted time series
   - [SyntheticControl](https://causalpy.readthedocs.io/en/latest/notebooks/sc_pymc.html#) - Synthetic control methods
-  - [DifferenceInDifferences](https://causalpy.readthedocs.io/en/latest/notebooks/did_pymc.html) - Dfference-in-differences
+  - [DifferenceInDifferences](https://causalpy.readthedocs.io/en/latest/notebooks/did_pymc.html) - Difference-in-differences
   - [RegressionDiscontinuity](https://causalpy.readthedocs.io/en/latest/notebooks/rd_pymc.html#) - Regression discontinuity
 
 - [GLuM](https://github.com/Quantco/glum/)
@@ -85,7 +85,8 @@ The following is a list of causal inference libraries, ordered by language and p
 
 - [pyfixest](https://github.com/s3alfisc/pyfixest)
 ![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
-  - Fast high-dimensional fixed effect regression (based on [pyhdfe](https://github.com/jeffgortmaker/pyhdfe))
+  - Fast high-dimensional fixed effect regression for ols, iv and poisson regression following [fixest syntax](https://github.com/lrberge/fixest)
+  - Gardner's 2-Stage Estimator for Difference-in-Differences estimation with staggered adoption ("did2s") and Dube et al's (2023) Linear Projections Estimator [link](https://s3alfisc.github.io/pyfixest/difference-in-differences-estimation/)
 
 - [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Double/debiased machine learning [[Paper](https://arxiv.org/pdf/1608.00060)] [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
 
