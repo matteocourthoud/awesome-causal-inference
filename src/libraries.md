@@ -85,7 +85,7 @@ The following is a list of causal inference libraries, ordered by language and p
 
 - [pyfixest](https://github.com/s3alfisc/pyfixest)
 ![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
-  - Fast high-dimensional fixed effect regression for , iv and poisson regression following [fixest syntax](https://github.com/lrberge/fixest)
+  - Fast high-dimensional fixed effect regression for ols, iv and poisson regression following [fixest syntax](https://github.com/lrberge/fixest)
   - Difference-in-Differences with Staggered Adaption: Gardner's 2-stage estimator ("did2s") and Dube et al's (2023) local projections approach [link](https://s3alfisc.github.io/pyfixest/difference-in-differences-estimation/)
 
 - [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Double/debiased machine learning [[Paper](https://arxiv.org/pdf/1608.00060)] [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
