@@ -7,7 +7,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
 - [Quantile Testing](#quantile-testing)
 - [Interference](#interference)
-- [Continuous Testing](#continuous-testing)
+- [Sequential Testing](#sequential-testing)
 - [Ranking](#ranking)
 - [Customer Lifetime Value](#customer-lifetime-value)
 - [Geo Experiments](#geo-experiments)
