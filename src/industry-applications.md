@@ -110,6 +110,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Sequential Testing
 
+- [Sequential Testing on Statsig](https://www.statsig.com/blog/sequential-testing-on-statsig) - Statsig (2023)
+
 - [Sequential Testing at Booking.com](https://booking.ai/sequential-testing-at-booking-com-650954a569c7) - Booking (2023)
 
 - [Choosing Sequential Testing Framework — Comparisons and Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/) - Spotify (2023)
