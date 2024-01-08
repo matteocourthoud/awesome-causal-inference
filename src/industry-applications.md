@@ -36,7 +36,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166) - Airbnb (2017)
 
-- [Democratizing online controlled experiments at Booking.com](https://arxiv.org/pdf/1710.08217.pdf) - Booking (2017)
+- [Democratizing Online Controlled Experiments at Booking.com](https://arxiv.org/pdf/1710.08217.pdf) - Booking (2017)
 
 
 
