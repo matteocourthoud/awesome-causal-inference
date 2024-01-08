@@ -24,11 +24,17 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Experimentation Platform at Zalando: Part 1 - Evolution](https://engineering.zalando.com/posts/2021/01/experimentation-platform-part1.html) - Zalando (2021)
 
+- [How We Scaled Experimentation At Hulu](https://medium.com/disney-streaming/how-we-scaled-experimentation-at-hulu-82d62a4779be) - Hulu (2021)
+
+- [How We Reimagined A/B Testing at Squarespace](https://engineering.squarespace.com/blog/2021/how-we-reimagined-ab-testing-at-squarespace) - Squarespace (2021)
+
 - [Spotify’s New Experimentation Platform](https://engineering.atspotify.com/2020/10/spotifys-new-experimentation-platform-part-1/) - Spotify (2020)
 
 - [A/B Testing @ MeLi](https://medium.com/mercadolibre-tech/a-b-testing-meli-3a5ad2b4594d) - Mercado Libre (2020)
 
 - [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/en-JP/blog/xp/) - Uber (2018)
+
+- [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166) - Airbnb (2017)
 
 - [Democratizing online controlled experiments at Booking.com](https://arxiv.org/pdf/1710.08217.pdf) - Booking (2017)
 
