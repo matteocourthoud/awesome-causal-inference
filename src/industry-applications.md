@@ -208,6 +208,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Misc
 
+- [Addressing the Challenges of Sample Ratio Mismatch in A/B Testing](https://doordash.engineering/2023/10/17/addressing-the-challenges-of-sample-ratio-mismatch-in-a-b-testing/) - Doordash (2023)
+
 - [Raising the Bar by Lowering the Bound](https://booking.ai/raising-the-bar-by-lowering-the-bound-3b12d3bd43a3) - Booking (2023)
 
 - [Better budgeting with Bayesian models: Bolt’s story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
