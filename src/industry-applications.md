@@ -14,6 +14,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Quasi-experiments](#quasi-experiments)
 - [Mediation Analysis](#mediation-analysis)
 - [Trustworthy Experiments](#trustworthy-experiments)
+- [Interaction Effects](#interaction-effects)
 - [Multi-Armed Bandits](#multi-armed-bandits)
 - [Misc](#misc)
 
