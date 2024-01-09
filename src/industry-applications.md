@@ -14,6 +14,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Quasi-experiments](#quasi-experiments)
 - [Mediation Analysis](#mediation-analysis)
 - [Trustworthy Experiments](#trustworthy-experiments)
+- [Multi-Armed Bandits](#multi-armed-bandits)
 - [Misc](#misc)
 
 
@@ -208,6 +209,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
+## Multi-Armed Bandits
+
+- 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
+
+- [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/) - Stitchfix (2020)
+
+
 ## Misc
 
 - [Addressing the Challenges of Sample Ratio Mismatch in A/B Testing](https://doordash.engineering/2023/10/17/addressing-the-challenges-of-sample-ratio-mismatch-in-a-b-testing/) - Doordash (2023)
@@ -215,8 +223,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Raising the Bar by Lowering the Bound](https://booking.ai/raising-the-bar-by-lowering-the-bound-3b12d3bd43a3) - Booking (2023)
 
 - [Better budgeting with Bayesian models: Bolt’s story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
-
-- 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
 
 - [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
   - 📝 [Estimating categorical counterfactuals via deep twin networks](https://arxiv.org/pdf/2109.01904.pdf) - Spotify (2021) 
