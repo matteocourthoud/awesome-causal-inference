@@ -170,7 +170,9 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [There’s more to experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
 
-- [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
+- [Why Tenant-Randomized A/B Test is Challenging and Tenant-Pairing May Not Work](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/why-tenant-randomized-a-b-test-is-challenging-and-tenant-pairing-may-not-work/) - Microsoft (2020)
+
+- 📝 [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
 
 
 ## Quasi-Experiments
