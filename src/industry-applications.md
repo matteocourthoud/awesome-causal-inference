@@ -179,6 +179,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Using Back-Door Adjustment Causal Analysis to Measure Pre-Post Effects]() - Doordash (2022)
 
+- [Key Challenges with Quasi Experiments at Netflix](https://netflixtechblog.com/key-challenges-with-quasi-experiments-at-netflix-89b4f234b852) - Netflix (2020)
+
+- [How to Use Quasi-experiments and Counterfactuals to Build Great Products](https://medium.com/data-shopify/how-to-use-quasi-experiments-and-counterfactuals-to-build-great-products-487193794da) - Shopify (2020)
+
+- [Quasi Experimentation at Netflix](https://netflixtechblog.com/quasi-experimentation-at-netflix-566b57d2e362) - Netflix (2018)
+
+
 
 ## Mediation Analysis
 
