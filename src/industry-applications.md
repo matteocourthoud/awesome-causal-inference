@@ -90,6 +90,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Reducing Marketplace Interference Bias Via Shadow Prices](https://arxiv.org/abs/2205.02274) - Lyft (2023)
 
+- [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670) - Airbnb (2021)
+
 - [Unbiased Experiments in Congested Networks](https://drive.google.com/file/d/15bBBsNjiCyO_IDILE5taxXcw9E1XDUgs/view) - Netflix (2021)
 
 - [Budget-split Testing: A Trustworthy and Powerful Approach to Marketplace A/B Testing](https://engineering.linkedin.com/blog/2021/budget-split-testing) - Linkedin (2021)
