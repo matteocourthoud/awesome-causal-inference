@@ -9,7 +9,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Interference](#interference)
 - [Sequential Testing](#sequential-testing)
 - [Ranking](#ranking)
-- [Customer Lifetime Value](#customer-lifetime-value)
+- [Long Term Effects](#long-term-effects)
 - [Geo Experiments](#geo-experiments)
 - [Quasi-experiments](#quasi-experiments)
 - [Mediation Analysis](#mediation-analysis)
@@ -153,7 +153,9 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Customer Lifetime Value
+## Long Term Effects
+
+- [Evaluating the Surrogate Index as a Decision-Making Tool Using 200 A/B Tests at Netflix](https://arxiv.org/abs/2311.11922) - Netflix (2023)
 
 - [Estimating long-term effects when only short-run experiments are available](https://research.atspotify.com/2023/04/estimating-long-term-effects-when-only-short-run-experiments-are-available/) - Spotify (2023)
 
