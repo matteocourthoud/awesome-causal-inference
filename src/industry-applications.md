@@ -71,7 +71,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Quantile Testing
 
-- [Comparing quantiles at scale in online A/B-testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
+- [Comparing Quantiles at Scale in Online A/B-Testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
   - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
 
 - [How Wish A/B tests percentiles](https://towardsdatascience.com/how-wish-a-b-tests-percentiles-35ee3e4589e7) - Wish (2021)
@@ -94,7 +94,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Experimentation with Resource Constraints](https://multithreaded.stitchfix.com/blog/2020/11/18/virtual-warehouse/) - StitchFix (2020)
 
-- 📝 [Network experimentation at scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
+- 📝 [Network Experimentation at Scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
   - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf) - LinkedIn (2017)
