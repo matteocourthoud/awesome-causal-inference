@@ -158,17 +158,19 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Beyond Customer Lifetime Valuation: Measuring the Value of Acquisition and Retention for Subscription Services](http://allentran.github.io/static/bellmania.pdf) - Netflix (2022)
 
-- [Estimating the long-run value we give to our users through experiment meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
+- [Estimating the Long-run Value We Give to our Users Through Experiment Meta-analysis](https://medium.com/meta-analytics/estimating-the-long-run-value-we-give-to-our-users-through-experiment-meta-analysis-6ddb9073b29b) - Meta (2022)
 
 
 
 ## Geo-Experiments
 
-- [Harnessing the power of Geo-experimentation: How Mercado Libre measures the effectiveness of its third-party media strategies using GeoLift](https://medium.com/mercadolibre-tech/harnessing-the-power-of-geo-experimentation-how-mercado-libre-measures-the-effectiveness-of-its-f68b38857c4b) - Mercado Libre (2023)
+- [Harnessing the Power of Geo-experimentation: How Mercado Libre Measures the Effectiveness of its Third-party Media Strategies using GeoLift](https://medium.com/mercadolibre-tech/harnessing-the-power-of-geo-experimentation-how-mercado-libre-measures-the-effectiveness-of-its-f68b38857c4b) - Mercado Libre (2023)
 
 - [Market Segmentation for Geo-Testing at Scale](https://medium.com/expedia-group-tech/market-segmentation-for-geo-testing-at-scale-8d593e0aa755) - Expedia (2023)
 
-- [There’s more to experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
+- 📝 [Trimmed Match Design for Randomized Paired Geo Experiments](https://arxiv.org/abs/2105.07060) - Google (2021)
+
+- [There’s More to Experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
 
 - [Why Tenant-Randomized A/B Test is Challenging and Tenant-Pairing May Not Work](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/why-tenant-randomized-a-b-test-is-challenging-and-tenant-pairing-may-not-work/) - Microsoft (2020)
 
@@ -197,7 +199,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Trustworthy Experiments
 
-- [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
+- [Answering Counterfactual “what-if” Questions in a Trustworthy and Efficient Manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
 
 - [Patterns of Trustworthy Experimentation: During-Experiment Stage](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-during-experiment-stage/) - Microsoft (2021)
 
@@ -232,7 +234,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Raising the Bar by Lowering the Bound](https://booking.ai/raising-the-bar-by-lowering-the-bound-3b12d3bd43a3) - Booking (2023)
 
-- [Better budgeting with Bayesian models: Bolt’s story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
+- [Better Budgeting with Bayesian Models: Bolt’s Story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
 
 - [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
   - 📝 [Estimating categorical counterfactuals via deep twin networks](https://arxiv.org/pdf/2109.01904.pdf) - Spotify (2021) 
@@ -243,13 +245,13 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Increase A/B Testing Power by Combining Experiments](https://tech.ebayinc.com/engineering/increase-a-b-testing-power-by-combining-experiments/) - Ebay (2022)
 
-- [Overtracking and trigger analysis: reducing sample sizes while INCREASING the sensitivity of experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
+- [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
 
-- [Don’t be seduced by the allure: A guide for how (not) to use proxy metrics in experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
+- [Don’t Be Seduced by the Allure: A Guide for How (Not) to Use Proxy Metrics in Experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
-- [Leveraging proxy variables for causal inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb) - Booking (2021)
+- [Leveraging Proxy Variables for Causal Inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb) - Booking (2021)
 
-- [Trapped in the Present: How engagement bias in short-run experiments can blind you to long-run insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
+- [Trapped in the Present: How Engagement Bias in Short-run Experiments Can Blind You to Long-run Insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
 
 - [Measuring Success with Experimentation](https://tech.ebayinc.com/research/measuring-success-with-experimentation/) - Ebay (2019)
 
