@@ -241,6 +241,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Raising the Bar by Lowering the Bound](https://booking.ai/raising-the-bar-by-lowering-the-bound-3b12d3bd43a3) - Booking (2023)
 
+- [How Instacart Measures the True Value of Advertising: The Methodology of Ad Incrementality](https://www.instacart.com/company/how-its-made/how-instacart-measures-the-true-value-of-advertising-the-methodology-of-ad-incrementality/) - Instacart (2023)
+
 - [Better Budgeting with Bayesian Models: Bolt’s Story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
 
 - [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
