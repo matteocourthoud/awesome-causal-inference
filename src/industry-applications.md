@@ -16,6 +16,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Trustworthy Experiments](#trustworthy-experiments)
 - [Interaction Effects](#interaction-effects)
 - [Multi-Armed Bandits](#multi-armed-bandits)
+- [Data](#data)
 - [Misc](#misc)
 
 
@@ -235,6 +236,13 @@ The following is a list of applications of causal inference in the industry, sor
 - 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
 
 - [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/) - Stitchfix (2020)
+
+
+
+## Data
+
+- [Datasets for Online Controlled Experiments](https://arxiv.org/abs/2111.10198) - Asos (2021)
+
 
 
 ## Misc
