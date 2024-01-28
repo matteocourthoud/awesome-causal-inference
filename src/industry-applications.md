@@ -16,12 +16,15 @@ The following is a list of applications of causal inference in the industry, sor
 - [Trustworthy Experiments](#trustworthy-experiments)
 - [Interaction Effects](#interaction-effects)
 - [Multi-Armed Bandits](#multi-armed-bandits)
+- [Pricing](#pricing)
 - [Data](#data)
 - [Misc](#misc)
 
 
 
 ## Experimentation Platform
+
+- [On the Limits of Regression Adjustment](https://arxiv.org/abs/2311.17858) - Meta (2023)
 
 - [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481) - Netflix (2021)
 
@@ -236,6 +239,14 @@ The following is a list of applications of causal inference in the industry, sor
 - 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
 
 - [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/) - Stitchfix (2020)
+
+
+
+## Pricing
+
+- 📝 [Causal Forecasting for Pricing](Causal Forecasting for Pricing) - Zalando (2024)
+
+- 📝 [Science of price experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
 
 
 
