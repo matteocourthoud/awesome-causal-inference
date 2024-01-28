@@ -246,7 +246,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Causal Forecasting for Pricing](Causal Forecasting for Pricing) - Zalando (2024)
 
-- 📝 [Science of price experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
+- 📝 [Science of Price Experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
 
 
 
@@ -268,8 +268,6 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Answering counterfactual “what-if” questions in a trustworthy and efficient manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
   - 📝 [Estimating categorical counterfactuals via deep twin networks](https://arxiv.org/pdf/2109.01904.pdf) - Spotify (2021) 
-
-- 📝 [Science of price experimentation at Amazon](https://assets.amazon.science/ba/f5/f761c2a04652a798704b5208cc60/science-of-price-experimentation-at-amazon.pdf) - Amazon (2023)
 
 - [Quantifying Efficiency in Ridesharing Marketplaces](https://eng.lyft.com/quantifying-efficiency-in-ridesharing-marketplaces-affd53043db2) - Uber (2023)
 
