@@ -54,7 +54,7 @@ The following is a list of causal inference blogs.
 
 - [Spotify](https://medium.com/spotify-insights/tagged/data-science) Engineering Data Science
 
-- [Spotify](https://research.atspotify.com/) Reaserch
+- [Spotify](https://research.atspotify.com/) Research
 
 - [StitchFix](https://multithreaded.stitchfix.com/blog/) Engineering and Algorithms
 
