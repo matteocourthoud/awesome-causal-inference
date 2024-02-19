@@ -130,6 +130,7 @@ The following is a list of applications of causal inference in the industry, sor
 ## Sequential Testing
 
 - [Sequential A/B Testing Keeps the World Streaming Netflix Part 1: Continuous Data](https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df) - Netflix (2024)
+  - 📝 [Rapid Regression Detection in Software Deployments through Sequential Testing](https://arxiv.org/abs/2205.14762) - Netflix (2022)
 
 - [Sequential Testing on Statsig](https://www.statsig.com/blog/sequential-testing-on-statsig) - Statsig (2023)
 
