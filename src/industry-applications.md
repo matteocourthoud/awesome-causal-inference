@@ -273,6 +273,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Quantifying Efficiency in Ridesharing Marketplaces](https://eng.lyft.com/quantifying-efficiency-in-ridesharing-marketplaces-affd53043db2) - Uber (2023)
 
+- [Measuring the impact of Twitter network latency with CausalImpact](https://blog.x.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac) - X (2022)
+
 - [Increase A/B Testing Power by Combining Experiments](https://tech.ebayinc.com/engineering/increase-a-b-testing-power-by-combining-experiments/) - Ebay (2022)
 
 - [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
