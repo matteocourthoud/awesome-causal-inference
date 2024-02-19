@@ -70,6 +70,8 @@ The following is a list of causal inference blogs.
 
 - [Wayfair](https://www.aboutwayfair.com/tag/data-science) Data Science
 
+- [X](https://blog.x.com/en_us) Engineering
+
 - [Zalando](https://engineering.zalando.com/) Engineering
 
 - [Zillow](https://www.zillow.com/tech/data-analytics/) Data & Analytics
