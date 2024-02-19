@@ -286,6 +286,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Leveraging Proxy Variables for Causal Inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb) - Booking (2021)
 
+- [Improving Treatment Effect Estimators Through Experiment Splitting](https://research.facebook.com/publications/improving-treatment-effect-estimators-through-experiment-splitting/) - Meta (2019)
+
 - [Trapped in the Present: How Engagement Bias in Short-run Experiments Can Blind You to Long-run Insights](https://medium.com/pinterest-engineering/trapped-in-the-present-how-engagement-bias-in-short-run-experiments-can-blind-you-to-long-run-58b55ad3bda0) - Pinterest (2019)
 
 - [Measuring Success with Experimentation](https://tech.ebayinc.com/research/measuring-success-with-experimentation/) - Ebay (2019)
