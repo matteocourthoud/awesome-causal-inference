@@ -9,6 +9,7 @@ The following is a list of key academic research papers in Causal Inference, sor
   - [Adaptive Experiments](#adaptive-experiments)
   - [Sequential Testing](#sequential-testing)
   - [Interference](#interference)
+  - [Interleaving](#interleaving)
 - [Quasi-Experimental Methods](#quasi-experimental-methods)
   - [Unconfoundedness](#unconfoundedness)
   - [Panel Methods](#panel-methods)
