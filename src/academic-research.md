@@ -103,6 +103,12 @@ The following is a list of key academic research papers in Causal Inference, sor
 - [Identification of Endogenous Social Effects: The Reflection Problem](https://academic.oup.com/restud/article/60/3/531/1570385) - Manski (1996)
 
 
+### Interleaving
+
+- [Optimized Interleaving for Online Retrieval Evaluation](https://dl.acm.org/doi/abs/10.1145/2433396.2433429) - Radlinski, Craswell (2013)
+
+- [A Probabilistic Method for Inferring Preferences from Clicks](https://dl.acm.org/doi/abs/10.1145/2063576.2063618) - Hofmann, Whiteson, de Rijke (2011)
+
 
 
 
