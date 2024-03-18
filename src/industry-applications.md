@@ -252,7 +252,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Pricing
 
-- 📝 [Causal Forecasting for Pricing](Causal Forecasting for Pricing) - Zalando (2024)
+- 📝 [Causal Forecasting for Pricing](https://arxiv.org/abs/2312.15282) - Zalando (2024)
 
 - 📝 [Science of Price Experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
 
