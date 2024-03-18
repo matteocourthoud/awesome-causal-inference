@@ -130,7 +130,8 @@ The following is a list of applications of causal inference in the industry, sor
 ## Sequential Testing
 
 - [Sequential Testing Keeps the World Streaming Netflix Part 2: Counting Processes](https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642) - Netflix (2024)
-
+  - [Anytime-Valid Inference For Multinomial Count Data](https://arxiv.org/abs/2011.03567) - Netflix (2022)
+  
 - [Sequential A/B Testing Keeps the World Streaming Netflix Part 1: Continuous Data](https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df) - Netflix (2024)
   - 📝 [Rapid Regression Detection in Software Deployments through Sequential Testing](https://arxiv.org/abs/2205.14762) - Netflix (2022)
 
