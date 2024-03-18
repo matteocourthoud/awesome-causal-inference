@@ -92,6 +92,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Interference
 
+- [How Meta Tests Products with Strong Network Effects](https://medium.com/@AnalyticsAtMeta/how-meta-tests-products-with-strong-network-effects-96003a056c2c) - Meta (2023)
+
 - [Reducing Marketplace Interference Bias Via Shadow Prices](https://arxiv.org/abs/2205.02274) - Lyft (2023)
 
 - [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670) - Airbnb (2021)
