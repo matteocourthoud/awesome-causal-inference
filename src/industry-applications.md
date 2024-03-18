@@ -256,6 +256,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Science of Price Experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
 
+- 📝 [Analytics for an Online Retailer: Demand Forecasting and Price Optimization](https://pubsonline.informs.org/doi/10.1287/msom.2015.0561) - Rue La La (2015)
+
 
 
 ## Data
