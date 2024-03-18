@@ -258,6 +258,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - 📝 [Analytics for an Online Retailer: Demand Forecasting and Price Optimization](https://pubsonline.informs.org/doi/10.1287/msom.2015.0561) - Rue La La (2015)
 
+- [Clearance Pricing Optimization for a Fast-Fashion Retailer](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1102) - Zara (2012)
+
 
 
 ## Data
