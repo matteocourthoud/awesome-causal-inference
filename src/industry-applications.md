@@ -8,7 +8,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Quantile Testing](#quantile-testing)
 - [Interference](#interference)
 - [Sequential Testing](#sequential-testing)
-- [Ranking](#ranking)
+- [Interleaving](#interleaving)
 - [Long Term Effects](#long-term-effects)
 - [Geo Experiments](#geo-experiments)
 - [Quasi-experiments](#quasi-experiments)
@@ -151,7 +151,7 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Ranking
+## Interleaving
 
 - [Accelerating Ranking Experimentation at Thumbtack with Interleaving](https://medium.com/thumbtack-engineering/accelerating-ranking-experimentation-at-thumbtack-with-interleaving-20cbe7837edf) - Thumbtack (2023)
 
