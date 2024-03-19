@@ -52,7 +52,7 @@ The following is a list of books in Causal Inference, sorted by publication year
   - **Year**: 2019
  
 - [The Book of Why <img align="right" width="60" src="img/books/book_of_why.jpeg">](http://bayes.cs.ucla.edu/WHY/)
-  - **Author**: D. Mackenzie, J. Pearl
+  - **Author**: J. Pearl, D. Mackenzie
   - **Year**: 2018
 
 - [Targeted Learning in Data Science - Causal Inference for Complex Longitudinal Studies <img align="right" width="60" src="img/books/targeted_learning_data_science.png">](https://link.springer.com/book/10.1007/978-3-319-65304-4)
