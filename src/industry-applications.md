@@ -93,6 +93,7 @@ The following is a list of applications of causal inference in the industry, sor
 ## Interference
 
 - [How Meta Tests Products with Strong Network Effects](https://medium.com/@AnalyticsAtMeta/how-meta-tests-products-with-strong-network-effects-96003a056c2c) - Meta (2023)
+  - 📝 [Network Experimentation at Scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
 - [Reducing Marketplace Interference Bias Via Shadow Prices](https://arxiv.org/abs/2205.02274) - Lyft (2023)
 
@@ -104,8 +105,6 @@ The following is a list of applications of causal inference in the industry, sor
   - 📝 [Trustworthy Online Marketplace Experimentation with Budget-split Design](https://arxiv.org/abs/2012.08724) - Linkedin (2021)
 
 - [Experimentation with Resource Constraints](https://multithreaded.stitchfix.com/blog/2020/11/18/virtual-warehouse/) - StitchFix (2020)
-
-- 📝 [Network Experimentation at Scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
   - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf) - LinkedIn (2017)
