@@ -14,7 +14,7 @@ The following is a list of practitioner guides and literature reviews, sorted by
 
 - [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://arxiv.org/pdf/1911.09511.pdf) - Cattaneo, Idrobo, Titiunik (2019)
 
-- [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038) Russo, Van Roy, Kazerouni, Osband, Wen- (2017)
+- [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038) - Russo, Van Roy, Kazerouni, Osband, Wen (2017)
 
 
 
