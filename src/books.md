@@ -5,10 +5,18 @@ The following is a list of books in Causal Inference, sorted by publication year
 - [Free](#free)
 - [Paid](#paid)
 
-**Note for curators**: so far I have included only books whose main focus is causal inference. I might add in the future books that cover causal inference only partially, or books that cover tools required for causal inference (statistics, econometrics, ...).
+**Note for curators**: so far I have included only books whose main focus is causal inference. I might add in the future books that cover causal inference only partially or books that cover tools required for causal inference (statistics, econometrics, ...).
 
 ## Free
 
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
+  - **Author**: V. Chernozhukov, C. Hansen, N. Kallus, M. Spindler, V. Syrgkanis
+  - **Year**: 2023
+
+- [Advanced Data Analysis from an Elementary Point of View <img align="right" width="60" src="img/books/advanced_data_analysis.png">](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+  - **Author**: Cosma Shalizi (CMU)
+  - **Year**: 2021
+ 
 - [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
   - **Author**: Matheus Facure (Nubank)
   - **Year**: regularly updated
