@@ -17,6 +17,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Interaction Effects](#interaction-effects)
 - [Multi-Armed Bandits](#multi-armed-bandits)
 - [Pricing](#pricing)
+- [Triggering and Dilution](#triggering-and-dilution)
 - [Data](#data)
 - [Misc](#misc)
 
