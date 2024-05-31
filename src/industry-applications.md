@@ -264,6 +264,13 @@ The following is a list of applications of causal inference in the industry, sor
 - [Clearance Pricing Optimization for a Fast-Fashion Retailer](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1102) - Zara (2012)
 
 
+## Triggering and Dilution
+
+- [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
+
+- [Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments](https://alexdeng.github.io/public/files/wsdm2015-dilution.pdf) - Microsoft (2015)
+
+
 
 ## Data
 
@@ -289,8 +296,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Measuring the impact of Twitter network latency with CausalImpact](https://blog.x.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac) - X (2022)
 
 - [Increase A/B Testing Power by Combining Experiments](https://tech.ebayinc.com/engineering/increase-a-b-testing-power-by-combining-experiments/) - Ebay (2022)
-
-- [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
 
 - [Don’t Be Seduced by the Allure: A Guide for How (Not) to Use Proxy Metrics in Experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
