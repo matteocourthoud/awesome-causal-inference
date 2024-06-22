@@ -208,13 +208,17 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Gaining Confidence in Synthetic Control Causal Inference with Sensitivity Analysis](https://research.atspotify.com/2023/04/gaining-confidence-in-synthetic-control-causal-inference-with-sensitivity-analysis/) - Spotify (2023)
 
-- [Using Back-Door Adjustment Causal Analysis to Measure Pre-Post Effects]() - Doordash (2022)
+- [Close Enough? A Large-Scale Exploration of Non-Experimental Approaches to Advertising Measurement](https://arxiv.org/abs/2201.07055) - Meta (2022)
+
+- [Using Back-Door Adjustment Causal Analysis to Measure Pre-Post Effects](https://doordash.engineering/2022/06/02/using-back-door-adjustment-causal-analysis-to-measure-pre-post-effects/) - Doordash (2022)
 
 - [Key Challenges with Quasi Experiments at Netflix](https://netflixtechblog.com/key-challenges-with-quasi-experiments-at-netflix-89b4f234b852) - Netflix (2020)
 
 - [How to Use Quasi-experiments and Counterfactuals to Build Great Products](https://medium.com/data-shopify/how-to-use-quasi-experiments-and-counterfactuals-to-build-great-products-487193794da) - Shopify (2020)
 
 - [Quasi Experimentation at Netflix](https://netflixtechblog.com/quasi-experimentation-at-netflix-566b57d2e362) - Netflix (2018)
+
+- [A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://www.kellogg.northwestern.edu/faculty/gordon_b/files/fb_comparison.pdf) - Facebook (2018)
 
 
 
