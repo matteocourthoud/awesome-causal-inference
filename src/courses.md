@@ -131,6 +131,6 @@ The following is a list of free courses in Causal Inference, sorted by format an
 - [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
   - **Author**: Matthew Blackwell (Harvard University)
 
-  - [Machine Learning for Econometrics](https://drive.google.com/open?id=1L_iervUBKj3RsXHLEGOtAFlyHEHpmyT4)
+- [Machine Learning for Econometrics](https://drive.google.com/open?id=1L_iervUBKj3RsXHLEGOtAFlyHEHpmyT4)
   - **Author**: Christophe Gaillac (Oxford University), Jérémy L'Hour (Capital Fund Management, CREST)
   
