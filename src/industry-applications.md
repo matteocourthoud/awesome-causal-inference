@@ -51,6 +51,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Variance Reduction
 
+- [Unlocking 66% Faster Experiments with Covariate Adjustment: Power Analysis for Clustered Data, Ratio Metrics, and OLS Regression](https://tech.instacart.com/unlocking-66-faster-experiments-with-covariate-adjustment-power-analysis-for-clustered-data-3a0c11c7baa6) - Instacart (2024)
+
 - [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4) - Walmart (2023)
 
 - [Deep Dive Into Variance Reduction](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/deep-dive-into-variance-reduction/) - Microsoft (2022)
