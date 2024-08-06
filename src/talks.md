@@ -24,7 +24,7 @@ The following is a list of causal inference talks.
   - **Year**: 2022
   - **Event**: NBER Summer Institute
  
-- [Empirical Bayes Theory <img align="right" width="200" src="img/talks/empirical_bayes_applications.png">](https://www.youtube.com/watch?v=z0cdgtcWs0c)
+- [Empirical Bayes Theory <img align="right" width="200" src="img/talks/empirical_bayes_theory.png">](https://www.youtube.com/watch?v=z0cdgtcWs0c)
   - **Author**: Jiaying Gu (University of Toronto)
   - **Year**: 2022
   - **Event**: NBER Summer Institute
