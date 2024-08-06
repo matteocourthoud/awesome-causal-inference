@@ -39,8 +39,10 @@ The following is a list of causal inference talks.
   - **Year**: 2021
   - **Event**: Online Causal Inference Seminar
 
-- [Regression Discontinuity Designs: Practice and Topics](https://www.youtube.com/watch?v=bFNUeTXOnQ4) - Matias Cattaneo (2021)
-
+- [Regression Discontinuity Designs: Practice and Topics <img align="right" width="200" src="img/talks/regression_discontinuitydesigns.png">](https://www.youtube.com/watch?v=bFNUeTXOnQ4) - (2021)
+  - **Author**: Matias Cattaneo (Princeton University)
+  - **Year**: 2021
+  - **Event**: Online Causal Inference Seminar
 
 
 ## Industry
