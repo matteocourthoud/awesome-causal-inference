@@ -9,7 +9,7 @@ The following is a list of causal inference talks.
 
 ## Academic
 
-- [Interference and Spillovers in Randomized Experiments <img align="right" width="150" src="img/courses/causal_inference_imai.png">](https://www.youtube.com/watch?v=i5kyzT_CpwQ) - Guido Imbens (2022)
+- [Interference and Spillovers in Randomized Experiments <img align="right" width="100" src="img/courses/causal_inference_imai.png">](https://www.youtube.com/watch?v=i5kyzT_CpwQ) - Guido Imbens (2022)
 
 - [Empirical Bayes Applications](https://www.youtube.com/watch?v=SdWt8xAAF_4) - Christopher Walters (2022)
 
