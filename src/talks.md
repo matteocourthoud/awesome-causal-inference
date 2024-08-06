@@ -72,7 +72,7 @@ The following is a list of causal inference talks.
   - **Year**: 2023
   - **Event**: Online Causal Inference Seminar
 
- - [Causal Inference Libraries: What They Do, What I'd Like Them To Do <img align="right" width="200" src="img/talks/causal_inference_libraries.png">](https://www.youtube.com/watch?v=cRS4yZt6OU4) - Optimizely (2016)
+ - [Causal Inference Libraries: What They Do, What I'd Like Them To Do <img align="right" width="200" src="img/talks/causal_inference_libraries.png">](https://www.youtube.com/watch?v=cRS4yZt6OU4)
   - **Author**: Kevin Klein (QuantCo)
   - **Year**: 2023
   - **Event**: PyData Amsterdam
