@@ -37,12 +37,17 @@ The following is a list of causal inference talks.
 - [Synthetic Controls: Methods and Practice <img align="right" width="200" src="img/talks/synthetic_controls.png">](https://www.youtube.com/watch?v=oDNaOpNK6G4)
   - **Author**: Alberto Abadie (MIT)
   - **Year**: 2021
-  - **Event**: Online Causal Inference Seminar
+  - **Event**: NBER Summer Institute
 
 - [Regression Discontinuity Designs: Practice and Topics <img align="right" width="200" src="img/talks/regression_discontinuity_designs.png">](https://www.youtube.com/watch?v=bFNUeTXOnQ4) - (2021)
   - **Author**: Matias Cattaneo (Princeton University)
   - **Year**: 2021
-  - **Event**: Online Causal Inference Seminar
+  - **Event**: NBER Summer Institute
+ 
+- [Regression Discontinuity Designs: Foundations <img align="right" width="200" src="img/talks/regression_discontinuity_foundations.png">](https://www.youtube.com/watch?v=ckZx0j1tYoY) - (2021)
+  - **Author**: Rocio Titiunik (Princeton University)
+  - **Year**: 2021
+  - **Event**: NBER Summer Institute
 
 
 ## Industry
