@@ -39,5 +39,5 @@ The following is a list of causal inference talks.
 
 - [A/B Testing at Zalando: Concepts and Tools](https://www.youtube.com/watch?v=wmEAUfkLk50) - Zalando (2021)
 
-- [Always Valid Inference: Continuous Monitoring of A/B Test](https://www.youtube.com/watch?v=CO9VnGy3esI) - Optimizely (2016)
+- [Always Valid Inference: Continuous Monitoring of A/B Test](https://www.youtube.com/watch?v=BanBrr3Hzm8) - Optimizely (2016)
 
