@@ -9,7 +9,7 @@ The following is a list of causal inference talks.
 
 ## Academic
 
-- [Interference and Spillovers in Randomized Experiments <img align="right" width="100" src="img/courses/causal_inference_imai.png">](https://www.youtube.com/watch?v=i5kyzT_CpwQ)
+- [Interference and Spillovers in Randomized Experiments <img align="right" width="200" src="img/talks/interference_and_spillovers.png">](https://www.youtube.com/watch?v=i5kyzT_CpwQ)
   - **Author**: Guido Imbens (Stanford University)
   - **Year**: 2024
   - **Event**: NBER Summer Institute
