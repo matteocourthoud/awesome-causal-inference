@@ -29,12 +29,15 @@ The following is a list of causal inference talks.
   - **Year**: 2022
   - **Event**: NBER Summer Institute
 
-- [A Tutorial on Bayesian Causal Inference <img align="right" width="200" src="img/talks/bayesian_causal_inference.png">](https://www.youtube.com/watch?v=9pZtsVA6o4o) - Fan Li (2022)
+- [A Tutorial on Bayesian Causal Inference <img align="right" width="200" src="img/talks/bayesian_causal_inference.png">](https://www.youtube.com/watch?v=9pZtsVA6o4o)
   - **Author**: Fan Li (Duke University)
   - **Year**: 2022
   - **Event**: Online Causal Inference Seminar
 
-- [Synthetic Controls: Methods and Practice](https://www.youtube.com/watch?v=oDNaOpNK6G4) - Alberto Abadie (2021)
+- [Synthetic Controls: Methods and Practice <img align="right" width="200" src="img/talks/synthetic_controls.png">](https://www.youtube.com/watch?v=oDNaOpNK6G4)
+  - **Author**: Alberto Abadie (MIT)
+  - **Year**: 2021
+  - **Event**: Online Causal Inference Seminar
 
 - [Regression Discontinuity Designs: Practice and Topics](https://www.youtube.com/watch?v=bFNUeTXOnQ4) - Matias Cattaneo (2021)
 
