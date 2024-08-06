@@ -13,6 +13,11 @@ The following is a list of causal inference talks.
   - **Author**: Guido Imbens (Stanford University)
   - **Year**: 2024
   - **Event**: NBER Summer Institute
+ 
+- [Analysis and Design of Multi-Armed Bandit Experiments and Policy Learning <img align="right" width="200" src="img/talks/interference_and_spillovers.png">](https://www.youtube.com/watch?v=i5kyzT_CpwQ)
+  - **Author**: Susan Athey (Stanford University)
+  - **Year**: 2024
+  - **Event**: NBER Summer Institute
 
 - [Empirical Bayes Applications](https://www.youtube.com/watch?v=SdWt8xAAF_4) - Christopher Walters (2022)
 
