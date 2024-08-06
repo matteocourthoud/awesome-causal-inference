@@ -9,6 +9,8 @@ The following is a list of causal inference talks.
 
 ## Academic
 
+- [Interference and Spillovers in Randomized Experiments](https://www.youtube.com/watch?v=i5kyzT_CpwQ) - Guido Imbens (2022)
+
 - [Empirical Bayes Applications](https://www.youtube.com/watch?v=SdWt8xAAF_4) - Christopher Walters (2022)
 
 - [A Tutorial on Bayesian Causal Inference](https://www.youtube.com/watch?v=9pZtsVA6o4o) - Fan Li (2022)
