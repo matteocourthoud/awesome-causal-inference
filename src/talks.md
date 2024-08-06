@@ -20,7 +20,12 @@ The following is a list of causal inference talks.
   - **Event**: NBER Summer Institute
 
 - [Empirical Bayes Applications <img align="right" width="200" src="img/talks/empirical_bayes_applications.png">](https://www.youtube.com/watch?v=SdWt8xAAF_4)
-  - **Author**: Christopher Walters (UC Berkeley)
+  - **Author**: Christopher Walters (University of California, Berkeley)
+  - **Year**: 2022
+  - **Event**: NBER Summer Institute
+ 
+- [Empirical Bayes Theory <img align="right" width="200" src="img/talks/empirical_bayes_applications.png">](https://www.youtube.com/watch?v=z0cdgtcWs0c)
+  - **Author**: Jiaying Gu (University of Toronto)
   - **Year**: 2022
   - **Event**: NBER Summer Institute
 
