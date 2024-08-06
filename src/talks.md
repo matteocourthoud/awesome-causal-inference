@@ -56,23 +56,23 @@ The following is a list of causal inference talks.
   - **Author**: Booking, Sharechat, Amazon, Spotify, Netflix
   - **Year**: 2023
   - **Event**: Online Causal Inference Seminar
-
-- [Causal Models in Practice at Lyft](https://twimlai.com/podcast/twimlai/causal-models-practice-lyft-sean-taylor/) - Lyft (2021)
-  - **Author**: Booking, Sharechat, Amazon, Spotify, Netflix
-  - **Year**: 2023
-  - **Event**: Online Causal Inference Seminar
  
-- [A/B Testing at Zalando: Concepts and Tools](https://www.youtube.com/watch?v=wmEAUfkLk50) - Zalando (2021)
-  - **Author**: Booking, Sharechat, Amazon, Spotify, Netflix
-  - **Year**: 2023
-  - **Event**: Online Causal Inference Seminar
-
-- [Always Valid Inference: Continuous Monitoring of A/B Test](https://www.youtube.com/watch?v=BanBrr3Hzm8) - Optimizely (2016)
-  - **Author**: Booking, Sharechat, Amazon, Spotify, Netflix
-  - **Year**: 2023
-  - **Event**: Online Causal Inference Seminar
-
 - [Causal Inference Libraries: What They Do, What I'd Like Them To Do <img align="right" width="200" src="img/talks/causal_inference_libraries.png">](https://www.youtube.com/watch?v=cRS4yZt6OU4)
   - **Author**: Kevin Klein (QuantCo)
   - **Year**: 2023
   - **Event**: PyData Amsterdam
+
+- [Causal Models in Practice at Lyft <img align="right" width="200" src="img/talks/causal_models_lyft.png">](https://twimlai.com/podcast/twimlai/causal-models-practice-lyft-sean-taylor/)
+  - **Author**: Sean Taylor (Lyft)
+  - **Year**: 2021
+  - **Event**: TwimlAI Podcast
+ 
+- [A/B Testing at Zalando: Concepts and Tools <img align="right" width="200" src="img/talks/ab_testing_zalando.png">](https://www.youtube.com/watch?v=wmEAUfkLk50)
+  - **Author**: Grigory Bordyugov (Zalando)
+  - **Year**: 2018
+  - **Event**: PyData Berlin
+
+- [Always Valid Inference: Continuous Monitoring of A/B Test <img align="right" width="200" src="img/talks/always_valid_inference.png">](https://www.youtube.com/watch?v=BanBrr3Hzm8)
+  - **Author**: Ramesh Johari (Optimizely)
+  - **Year**: 2016
+  - **Event**: Online Causal Inference Seminar
