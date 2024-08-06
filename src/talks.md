@@ -47,7 +47,10 @@ The following is a list of causal inference talks.
 
 ## Industry
 
-- [Modern Balancing Methods for Causal Inference](https://www.youtube.com/watch?v=CO9VnGy3esI) - Netflix (2023)
+- [Modern Balancing Methods for Causal Inference <img align="right" width="200" src="img/talks/modern_balancing_methods.png">](https://www.youtube.com/watch?v=CO9VnGy3esI)
+  - **Author**: Apoorva Lal (Netflix)
+  - **Year**: 2023
+  - **Event**: Online Causal Inference Seminar
 
 - [An Industry Perspective on Bandit Feedback](https://www.youtube.com/watch?v=NkVWwZKdMac) - Booking, Sharechat, Amazon, Spotify, Netflix (2023)
 
