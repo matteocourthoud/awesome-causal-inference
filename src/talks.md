@@ -14,7 +14,7 @@ The following is a list of causal inference talks.
   - **Year**: 2024
   - **Event**: NBER Summer Institute
  
-- [Analysis and Design of Multi-Armed Bandit Experiments and Policy Learning <img align="right" width="200" src="img/talks/interference_and_spillovers.png">](https://www.youtube.com/watch?v=i5kyzT_CpwQ)
+- [Analysis and Design of Multi-Armed Bandit Experiments and Policy Learning <img align="right" width="200" src="img/talks/multi_armed_experiments.png">](https://www.youtube.com/watch?v=I6GyDWh8kfw)
   - **Author**: Susan Athey (Stanford University)
   - **Year**: 2024
   - **Event**: NBER Summer Institute
