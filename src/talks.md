@@ -52,10 +52,10 @@ The following is a list of causal inference talks.
   - **Year**: 2023
   - **Event**: Online Causal Inference Seminar
 
-- [An Industry Perspective on Bandit Feedback](https://www.youtube.com/watch?v=NkVWwZKdMac)
+- [Practical Bandits: An Industry Perspective <img align="right" width="200" src="img/talks/bandit_feedback.png">](https://www.youtube.com/watch?v=NkVWwZKdMac)
   - **Author**: Booking, Sharechat, Amazon, Spotify, Netflix
   - **Year**: 2023
-  - **Event**: Online Causal Inference Seminar
+  - **Event**: ACM
  
 - [Causal Inference Libraries: What They Do, What I'd Like Them To Do <img align="right" width="200" src="img/talks/causal_inference_libraries.png">](https://www.youtube.com/watch?v=cRS4yZt6OU4)
   - **Author**: Kevin Klein (QuantCo)
@@ -67,7 +67,7 @@ The following is a list of causal inference talks.
   - **Year**: 2021
   - **Event**: TwimlAI Podcast
  
-- [A/B Testing at Zalando: Concepts and Tools <img align="right" width="200" src="img/talks/ab_testing_zalando.png">](https://www.youtube.com/watch?v=wmEAUfkLk50)
+- [A/B Testing at Zalando: Concepts and Tools <img align="right" width="200" src="img/talks/ab_test_zalando.png">](https://www.youtube.com/watch?v=wmEAUfkLk50)
   - **Author**: Grigory Bordyugov (Zalando)
   - **Year**: 2018
   - **Event**: PyData Berlin
