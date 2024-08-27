@@ -175,6 +175,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments](https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac) - Netflix (2024)
 
+- 📝 [Pareto Optimal Proxy Metrics](https://arxiv.org/abs/2307.01000) - Google (2023)
+
 - 📝 [Choosing a Proxy Metric from Past Experiments](https://arxiv.org/abs/2309.07893) - Google (2023)
 
 - 📝 [Surrogate Metrics as Filteers](https://kenhung.me/files/surrogates-as-filters.pdf) - Meta (2023)
