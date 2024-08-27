@@ -174,6 +174,7 @@ The following is a list of applications of causal inference in the industry, sor
 ## Long Term Effects
 
 - [Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments](https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac) - Netflix (2024)
+  - 📝 [Learning the Covariance of Treatment Effects Across Many Weak Experiments](https://arxiv.org/abs/2402.17637) - Netflix (2024)
 
 - 📝 [Pareto Optimal Proxy Metrics](https://arxiv.org/abs/2307.01000) - Google (2023)
 
