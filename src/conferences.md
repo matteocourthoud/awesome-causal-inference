@@ -4,16 +4,16 @@ The following is a list of conferences in Causal Inference, by year.
 
 ## 2025
 
-| Must-go | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
-| ------- | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
+|   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
+| - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | 13-16 May | Detroit, US | | | |
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2025) | 7-9 May | Lausanne, CH | 2 Nov 2024 | | |
 
 
 ## 2024
 
-| Must-go | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
-| ------- | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
+|   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
+| - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
 | ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/code24/) | 18-19 Oct | Cambridge, US | | |
 | ⭐ | [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/)| 5-6 Nov | online | 29 Sep 2024 | | | |
 | | [NABE TEC](https://www.nabe.com/NABE/Events/TEC24/TEC24_Main_Page.aspx) | 27-29 Oct | Seattle, US | | | |
@@ -30,8 +30,8 @@ The following is a list of conferences in Causal Inference, by year.
 
 ## 2023
 
-| Must-go | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
-| ------- | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
+|   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
+| - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
 | | [Interactive Causal Learning Conference](http://interactivecausallearning.com/2023/) | 1-2 Dec | Boca Raton, US | 31 July 2023 | | |
 | ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) | Nov | Cambridge, US | | | [yes](https://www.youtube.com/playlist?list=PLNmZUX7tW6t9WKh0gnWZq6tUplQRbEciv) |
 | ⭐ | [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/meeting/)| 7–8 Nov | online | 1 October 2023 | | |
@@ -48,8 +48,8 @@ The following is a list of conferences in Causal Inference, by year.
 
 ## 2022
 
-| Must-go | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
-| ------- | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
+|   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
+| - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
 | | [Interactive Causal Learning Conference](https://interactivecausallearning.com/2022/) | 9-11 Jun | Washington, US | | | [yes](https://interactivecausallearning.com/2022/Presentations.html) |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://ctml.berkeley.edu/american-causal-inference-conference-2022) | 13 May | Berkeley, US | | |
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2022) | 11-13 Apr | Eureka, US | 25 Oct 2021 | | |
