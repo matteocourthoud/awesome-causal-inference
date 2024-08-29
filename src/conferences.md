@@ -37,8 +37,8 @@ The following is a list of conferences in Causal Inference, by year.
 | ⭐ | [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/meeting/)| 7–8 Nov | online | 1 October 2023 | | |
 | | [Causal AI Conference](https://www.causalaiconference.com/) | Sep | New York, US | | |
 | | [Pacific Causal Inference Conference (PCIC)](https://sci-info.org/annual-meeting/) | Sep | Beijing, CN | | |
-| ⭐ | [KDD - Workshop on Causal Inference and Machine Learning in Practice](https://causal-machine-learning.github.io/kdd2023-workshop/) | 7 Aug | Long Beach, CA | 26 Aug 2024 | no |
-| | [Workshop on Research Design for Causal Inference](https://www.law.northwestern.edu/research-faculty/events/conferences/causalinference/) | Aug | Evanston, US | | no |
+| ⭐ | [KDD - Workshop on Causal Inference and Machine Learning in Practice](https://causal-machine-learning.github.io/kdd2023-workshop/) | 7 Aug | Long Beach, CA | 26 Aug 2024 | |
+| | [Workshop on Research Design for Causal Inference](https://www.law.northwestern.edu/research-faculty/events/conferences/causalinference/) | Aug | Evanston, US | | |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | May | Austin, US | | |
 | | [Causality in the Sciences](https://blogs.kent.ac.uk/jonw/conferences/cits/)| 18-20 May | London, UK | | |
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/) | 11-14 Apr | Tubingen, DE | | |
