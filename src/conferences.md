@@ -13,8 +13,8 @@ The following is a list of conferences in Causal Inference, by year.
 
 | Must-go | Conference | Dates | Location | Submission Deadline | Recordings| 
 | ------- | ---------- | ----- | -------- | ------------------- | --------- | 
-| ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/code24/) | 18-19 Oct | Cambridge, US | |
 | ⭐ | [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/)| 4-6 Nov | online | 29 Sep 2024 | | |
+| ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/code24/) | 18-19 Oct | Cambridge, US | |
 | | [Causal AI Conference](https://www.causalaiconference.com/) | 24 Sep | London, UK | | |
 | | [Pacific Causal Inference Conference (PCIC)](https://sci-info.org/annual-meeting/) | Sep | Beijing, CN | | no |
 | | [Workshop on Research Design for Causal Inference](https://www.law.northwestern.edu/research-faculty/events/conferences/causalinference/) | Aug | Evanston, US | | no |
