@@ -24,8 +24,8 @@ The following is a list of conferences in Causal Inference, by year.
 | | [Pacific Causal Inference Conference (PCIC)](https://www.spco.cc/pcic/) | 5-6 Jul | Shanghai, CN | 3 Jun 2024 | | |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | May | Austin, US | | | |
 | | [Causality in the Sciences](https://blogs.kent.ac.uk/jonw/conferences/cits/)| 18-20 May | London, UK | | | |
+| | [European Causal Inference Meeting (EuroCIM)](https://www.eurocim.org/) | 17-19 Apr | Copenhagen, DK | | | | 
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/) | 11-14 Apr | Tubingen, DE | | | |
-| | [European Causal Inference Meeting (EuroCIM)](https://www.eurocim.org/) | Apr | Oslo, NO | | | | 
 
 
 
