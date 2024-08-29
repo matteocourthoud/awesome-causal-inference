@@ -25,7 +25,7 @@ The following is a list of conferences in Causal Inference, by year.
 | ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | May | Austin, US | | | |
 | | [Causality in the Sciences](https://blogs.kent.ac.uk/jonw/conferences/cits/)| 18-20 May | London, UK | | | |
 | | [European Causal Inference Meeting (EuroCIM)](https://www.eurocim.org/) | 17-19 Apr | Copenhagen, DK | | | | 
-| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/) | 11-14 Apr | Tubingen, DE | | | |
+| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2024) | 1-3 Apr | Los Angeles, US | | | |
 
 
 
@@ -42,8 +42,8 @@ The following is a list of conferences in Causal Inference, by year.
 | | [Workshop on Research Design for Causal Inference](https://www.law.northwestern.edu/research-faculty/events/conferences/causalinference/) | Aug | Evanston, US | | |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | May | Austin, US | | |
 | | [Causality in the Sciences](https://blogs.kent.ac.uk/jonw/conferences/cits/)| 18-20 May | London, UK | | |
-| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/) | 11-14 Apr | Tubingen, DE | | |
-| | [European Causal Inference Meeting (EuroCIM)](https://www.eurocim.org/) | Apr | Oslo, NO | | |
+| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2023) | 11-14 Apr | Tubingen, DE | | |
+| | [European Causal Inference Meeting (EuroCIM)](https://www.eurocim.org/) | Apr | Oslo, NO | | | |
 
 
 
@@ -52,4 +52,5 @@ The following is a list of conferences in Causal Inference, by year.
 | Must-go | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
 | ------- | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://ctml.berkeley.edu/american-causal-inference-conference-2022) | 13 May | Berkeley, US | | |
+| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2022) | 11-13 Apr | Eureka, US | | |
 
