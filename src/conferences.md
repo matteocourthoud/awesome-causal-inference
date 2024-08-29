@@ -4,16 +4,16 @@ The following is a list of conferences in Causal Inference, by year.
 
 ## 2025
 
-| Must-go | Conference | Dates | Location | Submission Deadline | Recordings| 
-| ------- | ---------- | ----- | -------- | ------------------- | --------- |
-| ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | 13-16 May | Detroit, US | | no |
-| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2025) | 7-9 May | Lausanne, CH | 2 Nov 2024 | no |
+| Must-go | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
+| ------- | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
+| ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | 13-16 May | Detroit, US | | | |
+| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2025) | 7-9 May | Lausanne, CH | 2 Nov 2024 | | |
 
 
 ## 2024
 
-| Must-go | Conference | Dates | Location | Submission Deadline | Recordings| 
-| ------- | ---------- | ----- | -------- | ------------------- | --------- | 
+| Must-go | Conference | Dates | Location | Submission Deadline | Recordings | 
+| ------- | ---------- | ----- | -------- | ------------------- | ---------- | 
 | ⭐ | [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/)| 4-6 Nov | online | 29 Sep 2024 | | |
 | ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/code24/) | 18-19 Oct | Cambridge, US | |
 | | [Symposium on Causality](https://datascience.unifi.it/eccellenzadisia/events/symposium-on-causality-26-27-september-2024/) | 26-27 Sep | Florence, IT | | |
