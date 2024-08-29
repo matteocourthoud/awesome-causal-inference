@@ -51,7 +51,7 @@ The following is a list of conferences in Causal Inference, by year.
 
 |   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
 | - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
-| ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/code22/) | 20-21 Oct | Cambridge, US | | |
+| ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/) | 20-21 Oct | Cambridge, US | | |
 | | [Interactive Causal Learning Conference](https://interactivecausallearning.com/2022/) | 9-11 Jun | Washington, US | | | [yes](https://interactivecausallearning.com/2022/Presentations.html) |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://ctml.berkeley.edu/american-causal-inference-conference-2022) | 13 May | Berkeley, US | | |
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2022) | 11-13 Apr | Eureka, US | 25 Oct 2021 | | |
