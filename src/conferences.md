@@ -62,4 +62,13 @@ The following is a list of conferences in Causal Inference, by year.
 
 |   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
 | - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
-| ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2021-conference-on-digital-experimentation-mit-codemit/) | 4-5Nov Oct | Cambridge, US | 15 Sep 2021 | | [yes](https://www.youtube.com/@mitide/videos) |
+| ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2021-conference-on-digital-experimentation-mit-codemit/) | 4-5 Nov | Cambridge, US | 15 Sep 2021 | | [yes](https://www.youtube.com/@mitide/videos) |
+
+
+
+## 2021
+
+|   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
+| - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
+| ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2020-conference-on-digital-experimentation-mit-codemit/) | 19-20 Dec | Cambridge, US | | | [yes](https://www.youtube.com/@mitide/videos) |
+
