@@ -51,6 +51,7 @@ The following is a list of conferences in Causal Inference, by year.
 
 | Must-go | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
 | ------- | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
+| | [Interactive Causal Learning Conference](https://interactivecausallearning.com/2022/) | 9-11 Jun | Washington, US | | | |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://ctml.berkeley.edu/american-causal-inference-conference-2022) | 13 May | Berkeley, US | | |
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2022) | 11-13 Apr | Eureka, US | 25 Oct 2021 | | |
 
