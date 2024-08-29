@@ -4,9 +4,9 @@ The following is a list of conferences in Causal Inference, by year.
 
 ## 2025
 
-| Must-go | Conference | Dates | Location | Recordings| Submission Deadline | 
-| ------- | ---------- | ----- | -------- | --------- | ------------------- |
-| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2025) | 7-9 May | Lausanne, CH | | no |
+| Must-go | Conference | Dates | Location | Submission Deadline | Recordings| 
+| ------- | ---------- | ----- | -------- | ------------------- | --------- | 
+| ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2025) | 7-9 May | Lausanne, CH | 2 Nov 2024 | no |
 
 
 ## 2024
