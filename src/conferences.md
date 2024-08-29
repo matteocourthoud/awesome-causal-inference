@@ -5,7 +5,8 @@ The following is a list of conferences in Causal Inference, by year.
 ## 2025
 
 | Must-go | Conference | Dates | Location | Submission Deadline | Recordings| 
-| ------- | ---------- | ----- | -------- | ------------------- | --------- | 
+| ------- | ---------- | ----- | -------- | ------------------- | --------- |
+| ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | 13-16 May | Detroit, US | | no |
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2025) | 7-9 May | Lausanne, CH | 2 Nov 2024 | no |
 
 
