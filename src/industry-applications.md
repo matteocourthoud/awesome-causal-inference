@@ -313,6 +313,10 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Don’t Be Seduced by the Allure: A Guide for How (Not) to Use Proxy Metrics in Experiments](https://medium.com/@AnalyticsAtMeta/dont-be-seduced-by-the-allure-a-guide-for-how-not-to-use-proxy-metrics-in-experiments-9530caa0eb7c) - Meta (2022)
 
+- [Mitigating the Winner’s Curse in Online Experiments](https://www.etsy.com/codeascraft/mitigating-the-winners-curse-in-online-experiments) - Etsy (2022)
+
+- [Understanding the Collective Impact of Experiments](https://www.etsy.com/codeascraft/understanding-the-collective-impact-of-experiments) - Etsy (2022)
+
 - [Leveraging Proxy Variables for Causal Inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb) - Booking (2021)
 
 - [Improving Treatment Effect Estimators Through Experiment Splitting](https://research.facebook.com/publications/improving-treatment-effect-estimators-through-experiment-splitting/) - Meta (2019)
