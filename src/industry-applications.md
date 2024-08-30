@@ -237,6 +237,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Answering Counterfactual “what-if” Questions in a Trustworthy and Efficient Manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
 
+- [Imbalance Detection for Healthier Experimentation](https://www.etsy.com/codeascraft/imbalance-detection-for-healthier-experimentation) - Etsy (2022)
+
 - [Patterns of Trustworthy Experimentation: During-Experiment Stage](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-during-experiment-stage/) - Microsoft (2021)
 
 - [More Trustworthy A/B Analysis: Less Data Sampling and More Data Reducing](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/more-trustworthy-a-b-analysis-less-data-sampling-and-more-data-reducing/) - Microsoft (2021)
