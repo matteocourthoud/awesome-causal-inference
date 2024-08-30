@@ -18,7 +18,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Multi-Armed Bandits](#multi-armed-bandits)
 - [Pricing](#pricing)
 - [Triggering and Dilution](#triggering-and-dilution)
-- [Data](#data)
 - [Misc](#misc)
 
 
@@ -286,10 +285,6 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Data
-
-- 📝 [Datasets for Online Controlled Experiments](https://arxiv.org/abs/2111.10198) - Asos (2021)
-
 
 
 ## Misc
@@ -316,6 +311,8 @@ The following is a list of applications of causal inference in the industry, sor
 - [Mitigating the Winner’s Curse in Online Experiments](https://www.etsy.com/codeascraft/mitigating-the-winners-curse-in-online-experiments) - Etsy (2022)
 
 - [Understanding the Collective Impact of Experiments](https://www.etsy.com/codeascraft/understanding-the-collective-impact-of-experiments) - Etsy (2022)
+
+- 📝 [Datasets for Online Controlled Experiments](https://arxiv.org/abs/2111.10198) - Asos (2021)
 
 - [Leveraging Proxy Variables for Causal Inference](https://booking.ai/leveraging-proxy-variables-for-causal-inference-9e42781a2bcb) - Booking (2021)
 
