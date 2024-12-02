@@ -15,7 +15,7 @@ The following is a list of conferences in Causal Inference, by year.
 |   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
 | - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
 | ⭐ | [Causal Data Science Meeting (CDSM)](https://www.causalscience.org/)| 5-6 Nov | online | 29 Sep 2024 | | | |
-| | [NABE TEC](https://www.nabe.com/NABE/Events/TEC24/TEC24_Main_Page.aspx) | 27-29 Oct | Seattle, US | | | |
+| | [NABE TEC](https://www.nabe.com/NABE/Events/TEC24/TEC24_Main_Page.aspx) | 27-29 Oct | Seattle, US | | | [yes](https://www.nabe.com/NABE/Events/TEC24/TEC24_Main_Page.aspx?WebsiteKey=91b9e16d-e6fe-4f31-a4af-02c194225c32&eb56ef1cf1e3=7#eb56ef1cf1e3) |
 | ⭐ | [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/code24/) | 18-19 Oct | Cambridge, US | | |
 | | [Symposium on Causality](https://datascience.unifi.it/eccellenzadisia/events/symposium-on-causality-26-27-september-2024/) | 26-27 Sep | Florence, IT | | yes | |
 | | [Causal AI Conference](https://www.causalaiconference.com/) | 24 Sep | London, UK | | yes | |
