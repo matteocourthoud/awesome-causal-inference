@@ -21,8 +21,8 @@ The following is a list of conferences in Causal Inference, by year.
 | | [Causal AI Conference](https://www.causalaiconference.com/) | 24 Sep | London, UK | | yes | |
 | ⭐ | [KDD - Workshop on Causal Inference and Machine Learning in Practice](https://causal-machine-learning.github.io/kdd2023-workshop/) | 26 Aug | Barcelona, ES | 26 Aug 2024 | | |
 | | [Workshop on Research Design for Causal Inference](https://www.law.northwestern.edu/research-faculty/events/conferences/causalinference/) | 29 - 7 Aug | Evanston, US | | | |
-| | [Causal AI Conference](https://www.causalaiconference.com/) | 4 Jun | San Francisco, US | | yes | [yes](https://www.youtube.com/playlist?list=PLa7k5Za9XeQzKdb838QPGSttcZ6xTam7V) |
 | | [Pacific Causal Inference Conference (PCIC)](https://www.spco.cc/pcic/) | 5-6 Jul | Shanghai, CN | 3 Jun 2024 | | |
+| | [Causal AI Conference](https://www.causalaiconference.com/) | 4 Jun | San Francisco, US | | yes | [yes](https://www.youtube.com/playlist?list=PLa7k5Za9XeQzKdb838QPGSttcZ6xTam7V) |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | May | Austin, US | | | |
 | | [European Causal Inference Meeting (EuroCIM)](https://www.eurocim.org/) | 17-19 Apr | Copenhagen, DK | | | | 
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2024) | 1-3 Apr | Los Angeles, US | 27 Oct 2023 | | |
