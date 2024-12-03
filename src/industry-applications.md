@@ -208,6 +208,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Quasi-Experiments
 
+- [Measuring Product Impact without AB Testing: How Discord Used the Synthetic Control Method for Voice Messages](https://discord.com/blog/measuring-product-impact-without-a-b-testing-how-discord-used-the-synthetic-control-method-for-voice-messages) - Discord (2024)
+
 - [Optimizing at the Edge: Using Regression Discontinuity Designs to Power Decision-Making](https://tech.instacart.com/optimizing-at-the-edge-using-regression-discontinuity-designs-to-power-decision-making-51e296615046) - Instacart (2024)
 
 - [Gaining Confidence in Synthetic Control Causal Inference with Sensitivity Analysis](https://research.atspotify.com/2023/04/gaining-confidence-in-synthetic-control-causal-inference-with-sensitivity-analysis/) - Spotify (2023)
