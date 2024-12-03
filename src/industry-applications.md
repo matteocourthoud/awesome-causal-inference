@@ -260,6 +260,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Multi-Armed Bandits
 
+- [Bandits for Marketing Optimization](https://tech.instacart.com/bandits-for-marketing-optimization-f5a63b9bfaa7) - Instacart (2024)
+
 - 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
 
 - [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/) - Stitchfix (2020)
