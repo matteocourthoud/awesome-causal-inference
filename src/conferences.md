@@ -6,10 +6,9 @@ The following is a list of conferences in Causal Inference, by year.
 
 |   | Conference | Dates | Location | Submission Deadline | Streaming | Recordings | 
 | - | ---------- | ----- | -------- | ------------------- | --------- | ---------- |
-| | [European Causal Inference Conference (EuroCIM)](https://www.eurocim.org/) | 9-11 Apr | Ghent, BE | 15 Jan | | |
 | ⭐ | [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/) | 13-16 May | Detroit, US | | | |
 | ⭐ | [Causal Learning and Reasoning (CLeaR)](https://www.cclear.cc/2025) | 7-9 May | Lausanne, CH | 2 Nov 2024 | | |
-
+| | [European Causal Inference Conference (EuroCIM)](https://www.eurocim.org/) | 9-11 Apr | Ghent, BE | 15 Jan | | |
 
 ## 2024
 
