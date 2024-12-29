@@ -98,10 +98,14 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Interference
 
+- [CUPED for Switchback Tests](https://medium.com/@garret.oconnell/cuped-for-switchback-tests-9e5b924ce1b0) - Bolt (2024)
+
 - [How Meta Tests Products with Strong Network Effects](https://medium.com/@AnalyticsAtMeta/how-meta-tests-products-with-strong-network-effects-96003a056c2c) - Meta (2023)
   - 📝 [Network Experimentation at Scale](https://arxiv.org/pdf/2012.08591.pdf) - Facebook (2020)
 
 - [Reducing Marketplace Interference Bias Via Shadow Prices](https://arxiv.org/abs/2205.02274) - Lyft (2023)
+
+- [Tips and Considerations for Switchback Test Designs](https://medium.com/bolt-labs/tips-and-considerations-for-switchback-test-designs-d1bd7c493024) - Bolt (2022)
 
 - [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670) - Airbnb (2021)
 
@@ -208,6 +212,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Why Tenant-Randomized A/B Test is Challenging and Tenant-Pairing May Not Work](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/why-tenant-randomized-a-b-test-is-challenging-and-tenant-pairing-may-not-work/) - Microsoft (2020)
 
 - 📝 [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
+
 
 
 ## Quasi-Experiments
