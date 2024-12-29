@@ -116,6 +116,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Experimentation with Resource Constraints](https://multithreaded.stitchfix.com/blog/2020/11/18/virtual-warehouse/) - StitchFix (2020)
 
+- [Experiment Rigor for Switchback Experiment Analysis](https://doordash.engineering/2019/02/20/experiment-rigor-for-switchback-experiment-analysis/) - Doordash (2019)
+
 - [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) - LinkedIn (2019)
   - 📝 [Detecting Network Effects: Randomizing Over Randomized Experiments](https://web.stanford.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf) - LinkedIn (2017)
 
@@ -336,8 +338,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Measuring Success with Experimentation](https://tech.ebayinc.com/research/measuring-success-with-experimentation/) - Ebay (2019)
 
 - [Analyzing Switchback Experiments by Cluster Robust Standard Error to Prevent False Positive Results](https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/) - Doordash (2019)
-
-- [Experiment Rigor for Switchback Experiment Analysis](https://doordash.engineering/2019/02/20/experiment-rigor-for-switchback-experiment-analysis/) - Doordash (2019)
 
 - [Using Causal Inference to Improve the Uber User Experience](https://www.uber.com/en-CH/blog/causal-inference-at-uber/) - Uber (2019)
 
