@@ -96,6 +96,8 @@ The following is a list of causal inference libraries, ordered by language and p
 
 - [scikit-uplift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
 
+- [metalearners](https://github.com/Quantco/metalearners)![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
+  - User-friendly MetaLearners for the estimation of Conditional Average Treatment Effects [[Docs](https://metalearners.readthedocs.io/en/latest/?badge=latest)] [[Blog](https://tech.quantco.com/blog/metalearners)] [[Video](https://www.youtube.com/watch?v=3EXCLYI5_pU)]
 
 
 ## <img width="24" src="img/icon/r.png"> R
