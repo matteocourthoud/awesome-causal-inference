@@ -294,6 +294,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Triggering and Dilution
 
+- [How Instacart Measures the True Value of Advertising: The Methodology of Ad Incrementality](https://www.instacart.com/company/how-its-made/how-instacart-measures-the-true-value-of-advertising-the-methodology-of-ad-incrementality/) - Instacart (2023)
+
 - [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
 
 - [Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments](https://alexdeng.github.io/public/files/wsdm2015-dilution.pdf) - Microsoft (2015)
@@ -307,8 +309,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Addressing the Challenges of Sample Ratio Mismatch in A/B Testing](https://doordash.engineering/2023/10/17/addressing-the-challenges-of-sample-ratio-mismatch-in-a-b-testing/) - Doordash (2023)
 
 - [Raising the Bar by Lowering the Bound](https://booking.ai/raising-the-bar-by-lowering-the-bound-3b12d3bd43a3) - Booking (2023)
-
-- [How Instacart Measures the True Value of Advertising: The Methodology of Ad Incrementality](https://www.instacart.com/company/how-its-made/how-instacart-measures-the-true-value-of-advertising-the-methodology-of-ad-incrementality/) - Instacart (2023)
 
 - [Better Budgeting with Bayesian Models: Bolt’s Story with PyMC-Marketing](https://bolt.eu/en/blog/budgeting-with-bayesian-models-pymc-marketing/) - Bolt (2023)
 
