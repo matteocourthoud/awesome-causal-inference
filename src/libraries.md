@@ -88,7 +88,7 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/jeffgortmaker/pyhdfe)
   - Fast high-dimensional fixed effect orthogonalization algorithm
 
-- [metalearners](https://github.com/Quantco/metalearners)![stars](https://img.shields.io/github/stars/Quantco/metalearners)
+- [metalearners](https://github.com/Quantco/metalearners) ![stars](https://img.shields.io/github/stars/Quantco/metalearners)
   - User-friendly MetaLearners for the estimation of Conditional Average Treatment Effects [[Docs](https://metalearners.readthedocs.io/en/latest/?badge=latest)] [[Blog](https://tech.quantco.com/blog/metalearners)] [[Video](https://www.youtube.com/watch?v=3EXCLYI5_pU)]
 
 - [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Double/debiased machine learning [[Paper](https://arxiv.org/pdf/1608.00060)] [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
