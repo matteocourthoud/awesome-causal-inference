@@ -71,6 +71,11 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/py-why/causaltune)
   - AutoML for causal inference
 
+- [pyfixest](https://github.com/s3alfisc/pyfixest)
+![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
+  - Fast high-dimensional fixed effect regression for ols, iv and poisson regression following [fixest syntax](https://github.com/lrberge/fixest)
+  - Difference-in-differences with staggered adaption: Gardner's 2-stage estimator ("did2s") and Dube et al's (2023) local projections approach ([vignette link](https://s3alfisc.github.io/pyfixest/difference-in-differences-estimation/))
+
 - [GeoLift](https://github.com/facebookincubator/GeoLift/)
 ![stars](https://img.shields.io/github/stars/facebookincubator/GeoLift)
   - Uplift modeling for geographical experiments [[Docs](https://facebookincubator.github.io/GeoLift/)]
@@ -83,10 +88,8 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/google/trimmed_match)
   - Trimmed match estimator for aggregate geographical experiments [[Paper](https://arxiv.org/abs/2105.07060)]
 
-- [pyfixest](https://github.com/s3alfisc/pyfixest)
-![stars](https://img.shields.io/github/stars/s3alfisc/pyfixest)
-  - Fast high-dimensional fixed effect regression for ols, iv and poisson regression following [fixest syntax](https://github.com/lrberge/fixest)
-  - Difference-in-differences with staggered adaption: Gardner's 2-stage estimator ("did2s") and Dube et al's (2023) local projections approach ([vignette link](https://s3alfisc.github.io/pyfixest/difference-in-differences-estimation/))
+- [metalearners](https://github.com/Quantco/metalearners)![stars](https://img.shields.io/github/stars/Quantco/metalearners)
+  - User-friendly MetaLearners for the estimation of Conditional Average Treatment Effects [[Docs](https://metalearners.readthedocs.io/en/latest/?badge=latest)] [[Blog](https://tech.quantco.com/blog/metalearners)] [[Video](https://www.youtube.com/watch?v=3EXCLYI5_pU)]
 
 - [DoubleML](https://github.com/DoubleML/doubleml-for-py) - Double/debiased machine learning [[Paper](https://arxiv.org/pdf/1608.00060)] [[Video](https://www.youtube.com/watch?v=ErecsyKEq74)]
 
@@ -96,8 +99,6 @@ The following is a list of causal inference libraries, ordered by language and p
 
 - [scikit-uplift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
 
-- [metalearners](https://github.com/Quantco/metalearners)![stars](https://img.shields.io/github/stars/Quantco/metalearners)
-  - User-friendly MetaLearners for the estimation of Conditional Average Treatment Effects [[Docs](https://metalearners.readthedocs.io/en/latest/?badge=latest)] [[Blog](https://tech.quantco.com/blog/metalearners)] [[Video](https://www.youtube.com/watch?v=3EXCLYI5_pU)]
 
 
 ## <img width="24" src="img/icon/r.png"> R
