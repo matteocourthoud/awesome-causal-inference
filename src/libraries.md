@@ -80,13 +80,13 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/facebookincubator/GeoLift)
   - Uplift modeling for geographical experiments [[Docs](https://facebookincubator.github.io/GeoLift/)]
 
-- [pyhdfe](https://github.com/jeffgortmaker/pyhdfe)
-![stars](https://img.shields.io/github/stars/jeffgortmaker/pyhdfe)
-  - Fast high-dimensional fixed effect orthogonalization algorithm
-
 - [trimmed_match](https://github.com/google/trimmed_match)
 ![stars](https://img.shields.io/github/stars/google/trimmed_match)
   - Trimmed match estimator for aggregate geographical experiments [[Paper](https://arxiv.org/abs/2105.07060)]
+
+- [pyhdfe](https://github.com/jeffgortmaker/pyhdfe)
+![stars](https://img.shields.io/github/stars/jeffgortmaker/pyhdfe)
+  - Fast high-dimensional fixed effect orthogonalization algorithm
 
 - [metalearners](https://github.com/Quantco/metalearners)![stars](https://img.shields.io/github/stars/Quantco/metalearners)
   - User-friendly MetaLearners for the estimation of Conditional Average Treatment Effects [[Docs](https://metalearners.readthedocs.io/en/latest/?badge=latest)] [[Blog](https://tech.quantco.com/blog/metalearners)] [[Video](https://www.youtube.com/watch?v=3EXCLYI5_pU)]
