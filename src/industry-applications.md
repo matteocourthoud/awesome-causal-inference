@@ -166,7 +166,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Sequential Testing](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty#sequential) - Eppo
 
 - 📝 [Safely and Quickly Deploying New Features with a Staged Rollout Framework Using
-Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.10493)
+Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.10493) - Uber (2019)
 
 
 
