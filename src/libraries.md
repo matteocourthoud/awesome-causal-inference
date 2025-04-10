@@ -149,9 +149,9 @@ The following is a list of causal inference libraries, ordered by language and p
 ![stars](https://img.shields.io/github/stars/mschauer/CausalInference.jl)
   - Causal inference with directed acyclic graphs
  
-- [cauealELM](https://github.com/dscolby/CausalELM.jl))
+- [cauealELM](https://github.com/dscolby/CausalELM.jl)
 ![stars](https://img.shields.io/github/stars/dscolby/CausalELM.jl)
-  - [its](https://dscolby.github.io/CausalELM.jl/stable/guide/its/)) - Interrupted time series analysis via machine learning
-  - [gc](https://dscolby.github.io/CausalELM.jl/stable/guide/gcomputation/)) - G-computation via machine learning
+  - [its](https://dscolby.github.io/CausalELM.jl/stable/guide/its/) - Interrupted time series analysis via machine learning
+  - [gc](https://dscolby.github.io/CausalELM.jl/stable/guide/gcomputation/) - G-computation via machine learning
   - [dml](https://dscolby.github.io/CausalELM.jl/stable/guide/doublemachinelearning/) - Double machine learning
   - [metalearners](https://dscolby.github.io/CausalELM.jl/stable/guide/metalearners/) - S-, T-, X, R-learners
