@@ -26,8 +26,6 @@ The following is a list of applications of causal inference in the industry, sor
 
 - [Extensible Experimentation Platform: Effective A/B Test Analysis at Scale](https://www.researchgate.net/profile/Vaibhav-Bajpai-12/publication/388630852_Extensible_Experimentation_Platform_Effective_AB_Test_Analysis_at_Scale/links/679fbbf152b58d39f266952e/Extensible-Experimentation-Platform-Effective-A-B-Test-Analysis-at-Scale.pdf) - Microsoft (2025)
 
-- [On the Limits of Regression Adjustment](https://arxiv.org/abs/2311.17858) - Meta (2023)
-
 - [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481) - Netflix (2021)
 
 - [Experimentation Platform at Zalando: Part 1 - Evolution](https://engineering.zalando.com/posts/2021/01/experimentation-platform-part1.html) - Zalando (2021)
@@ -57,6 +55,8 @@ The following is a list of applications of causal inference in the industry, sor
 - [How Meta scaled regression adjustment to improve power across hundreds of thousands of experiments on our AB testing platform](https://medium.com/@AnalyticsAtMeta/how-meta-scaled-regression-adjustment-to-improve-power-across-hundreds-of-thousands-of-experiments-624e08aaf560) - Meta (2024)
 
 - [Unlocking 66% Faster Experiments with Covariate Adjustment: Power Analysis for Clustered Data, Ratio Metrics, and OLS Regression](https://tech.instacart.com/unlocking-66-faster-experiments-with-covariate-adjustment-power-analysis-for-clustered-data-3a0c11c7baa6) - Instacart (2024)
+
+- 📝 [On the Limits of Regression Adjustment](https://arxiv.org/abs/2311.17858) - Meta (2023)
 
 - [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4) - Walmart (2023)
 
