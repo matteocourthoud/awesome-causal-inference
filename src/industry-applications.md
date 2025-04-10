@@ -2,23 +2,24 @@
 
 The following is a list of applications of causal inference in the industry, sorted by topic and date.
 
-- [Experimentation Platform](#experimentation-platform)
-- [Variance Reduction](#variance-reduction)
-- [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
-- [Quantile Testing](#quantile-testing)
-- [Interference](#interference)
-- [Sequential Testing](#sequential-testing)
-- [Interleaving](#interleaving)
-- [Long Term Effects](#long-term-effects)
-- [Geo Experiments](#geo-experiments)
-- [Quasi-experiments](#quasi-experiments)
-- [Mediation Analysis](#mediation-analysis)
-- [Trustworthy Experiments](#trustworthy-experiments)
-- [Interaction Effects](#interaction-effects)
-- [Multi-Armed Bandits](#multi-armed-bandits)
-- [Pricing](#pricing)
-- [Triggering and Dilution](#triggering-and-dilution)
-- [Misc](#misc)
+- [Causal Inference Applications in the Industry](#causal-inference-applications-in-the-industry)
+  - [Experimentation Platform](#experimentation-platform)
+  - [Variance Reduction](#variance-reduction)
+  - [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
+  - [Quantile Testing](#quantile-testing)
+  - [Interference](#interference)
+  - [Sequential Testing](#sequential-testing)
+  - [Interleaving](#interleaving)
+  - [Long Term Effects](#long-term-effects)
+  - [Geo-Experiments](#geo-experiments)
+  - [Quasi-Experiments](#quasi-experiments)
+  - [Mediation Analysis](#mediation-analysis)
+  - [Trustworthy Experiments](#trustworthy-experiments)
+  - [Interaction Effects](#interaction-effects)
+  - [Multi-Armed Bandits](#multi-armed-bandits)
+  - [Pricing](#pricing)
+  - [Triggering and Dilution](#triggering-and-dilution)
+  - [Misc](#misc)
 
 
 
@@ -163,6 +164,9 @@ The following is a list of applications of causal inference in the industry, sor
 - [Sequential Testing](https://docs.statsig.com/experiments-plus/sequential-testing) - Statsig
 
 - [Sequential Testing](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty#sequential) - Eppo
+
+- 📝 [Safely and Quickly Deploying New Features with a Staged Rollout Framework Using
+Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.10493) - Uber (2019)
 
 
 
