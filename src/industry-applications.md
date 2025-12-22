@@ -228,6 +228,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 - [Spillover Detection for Donor Selection in Synthetic Control Models](https://research.atspotify.com/2025/11/spillover-detection-for-donor-selection-in-synthetic-control-models) Spotify (2025)
 
+- [The Hardness of Validating Observational Studies with Experimental Data](https://research.atspotify.com/publications/The-hardness-of-validating-observational-studies-with-experimental-data) Spotify (2025)
+
 - [Measuring Product Impact without AB Testing: How Discord Used the Synthetic Control Method for Voice Messages](https://discord.com/blog/measuring-product-impact-without-a-b-testing-how-discord-used-the-synthetic-control-method-for-voice-messages) - Discord (2024)
 
 - [Optimizing at the Edge: Using Regression Discontinuity Designs to Power Decision-Making](https://tech.instacart.com/optimizing-at-the-edge-using-regression-discontinuity-designs-to-power-decision-making-51e296615046) - Instacart (2024)
