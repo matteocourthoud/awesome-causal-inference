@@ -182,6 +182,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 ## Interleaving
 
+- [How DoorDash is Pushing Experimentation Boundaries with Interleaving Designs](https://careersatdoordash.com/blog/doordash-experimentation-with-interleaving-designs/) - Doordash (2024)
+
 - [Accelerating Ranking Experimentation at Thumbtack with Interleaving](https://medium.com/thumbtack-engineering/accelerating-ranking-experimentation-at-thumbtack-with-interleaving-20cbe7837edf) - Thumbtack (2023)
 
 - [Partial Blockout Experiments for a Two Sided Marketplace](https://booking.ai/partial-blockout-experiments-for-a-two-sided-marketplace-a573dfe32696) - Booking (2022)
