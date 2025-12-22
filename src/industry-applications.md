@@ -24,6 +24,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Experimentation Platform
 
+- [Accelerating Experimentation at DoorDash with a Multi-armed Bandit Platform](https://careersatdoordash.com/blog/experimentation-at-doordash-with-a-multi-armed-bandit-platform/) Doordash (2025)
+
 - [Extensible Experimentation Platform: Effective A/B Test Analysis at Scale](https://www.researchgate.net/profile/Vaibhav-Bajpai-12/publication/388630852_Extensible_Experimentation_Platform_Effective_AB_Test_Analysis_at_Scale/links/679fbbf152b58d39f266952e/Extensible-Experimentation-Platform-Effective-A-B-Test-Analysis-at-Scale.pdf) - Microsoft (2025)
 
 - [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481) - Netflix (2021)
