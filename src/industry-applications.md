@@ -102,6 +102,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Interference
 
+- [Local Interference: Removing Interference Bias in Semi-Parametric Causal Models](https://research.atspotify.com/2025/7/local-interference-removing-interference-bias-in-semi-parametric-causal) - Spotify (2025)
+
 - [CUPED for Switchback Tests](https://medium.com/@garret.oconnell/cuped-for-switchback-tests-9e5b924ce1b0) - Bolt (2024)
 
 - [How Meta Tests Products with Strong Network Effects](https://medium.com/@AnalyticsAtMeta/how-meta-tests-products-with-strong-network-effects-96003a056c2c) - Meta (2023)
