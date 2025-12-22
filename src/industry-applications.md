@@ -346,6 +346,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 - [Why We Shouldn’t Condition on Posttreatment Variables in Experiments](https://medium.com/@AnalyticsAtMeta/why-we-shouldnt-condition-on-posttreatment-variables-in-experiments-5746220133ca) - Meta (2025)
 
+- [External Validity of Online Experiments: Can We Predict the Future?](https://www.microsoft.com/en-us/research/articles/external-validity-of-online-experiments-can-we-predict-the-future/) - Microsoft (2024)
+
 - [Experiment Faster and with Less Effort](https://careersatdoordash.com/blog/experiment-faster-and-with-less-effort/) - Doordash (2024)
 
 - [Addressing the Challenges of Sample Ratio Mismatch in A/B Testing](https://doordash.engineering/2023/10/17/addressing-the-challenges-of-sample-ratio-mismatch-in-a-b-testing/) - Doordash (2023)
