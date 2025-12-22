@@ -282,6 +282,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 ## Multi-Armed Bandits
 
+- [Calibrated Recommendations with Contextual Bandits](https://research.atspotify.com/publications/calibrated-recommendations-with-contextual-bandits) Spotify (2025)
+
 - [Bandits for Marketing Optimization](https://tech.instacart.com/bandits-for-marketing-optimization-f5a63b9bfaa7) - Instacart (2024)
 
 - 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
