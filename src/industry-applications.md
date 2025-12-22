@@ -226,6 +226,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 ## Quasi-Experiments
 
+- [Spillover Detection for Donor Selection in Synthetic Control Models](https://research.atspotify.com/2025/11/spillover-detection-for-donor-selection-in-synthetic-control-models) Spotify (2025)
+
 - [Measuring Product Impact without AB Testing: How Discord Used the Synthetic Control Method for Voice Messages](https://discord.com/blog/measuring-product-impact-without-a-b-testing-how-discord-used-the-synthetic-control-method-for-voice-messages) - Discord (2024)
 
 - [Optimizing at the Edge: Using Regression Discontinuity Designs to Power Decision-Making](https://tech.instacart.com/optimizing-at-the-edge-using-regression-discontinuity-designs-to-power-decision-making-51e296615046) - Instacart (2024)
@@ -299,6 +301,7 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 - [Clearance Pricing Optimization for a Fast-Fashion Retailer](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1102) - Zara (2012)
 
 
+
 ## Triggering and Dilution
 
 - [How Instacart Measures the True Value of Advertising: The Methodology of Ad Incrementality](https://www.instacart.com/company/how-its-made/how-instacart-measures-the-true-value-of-advertising-the-methodology-of-ad-incrementality/) - Instacart (2023)
@@ -306,8 +309,6 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 - [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
 
 - [Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments](https://alexdeng.github.io/public/files/wsdm2015-dilution.pdf) - Microsoft (2015)
-
-
 
 
 
