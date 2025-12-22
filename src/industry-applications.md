@@ -197,6 +197,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 - [Long-term Off-policy Evaluation and Learning](https://research.atspotify.com/publications/long-term-off-policy-evaluation-and-learning) - Spotify (2025)
   -  📝 [Long-term Off-Policy Evaluation and Learning](https://dl.acm.org/doi/10.1145/3589334.3645446) - Spotify (2025)
 
+- [How to Estimate Correlation Between Metrics from Past A/B Tests](https://booking.ai/how-to-estimate-correlation-between-metrics-from-past-a-b-tests-0a5d99e5a11d) - Booking (2025)
+
 - [Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments](https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac) - Netflix (2024)
   - 📝 [Learning the Covariance of Treatment Effects Across Many Weak Experiments](https://arxiv.org/abs/2402.17637) - Netflix (2024)
 
