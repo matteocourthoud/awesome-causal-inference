@@ -83,6 +83,7 @@ The following is a list of applications of causal inference in the industry, sor
 - [Free Lunch! Retrospective Uplift Modeling for Dynamic Promotions Recommendation within ROI Constraints](https://arxiv.org/pdf/2008.06293.pdf) - Booking (2020)
 
 
+
 ## Quantile Testing
 
 - [Comparing Quantiles at Scale in Online A/B-Testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
@@ -193,6 +194,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 - [Long-term Off-policy Evaluation and Learning](https://research.atspotify.com/publications/long-term-off-policy-evaluation-and-learning) - Spotify (2025)
   -  📝 [Long-term Off-Policy Evaluation and Learning](https://dl.acm.org/doi/10.1145/3589334.3645446) - Spotify (2025)
+
+- [Estimating Long-term Outcome of Algorithms](https://research.atspotify.com/2024/5/estimating-long-term-outcome-of-algorithms) - Spotify (2025)
 
 - [Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments](https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac) - Netflix (2024)
   - 📝 [Learning the Covariance of Treatment Effects Across Many Weak Experiments](https://arxiv.org/abs/2402.17637) - Netflix (2024)
