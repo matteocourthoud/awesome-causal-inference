@@ -107,6 +107,8 @@ The following is a list of applications of causal inference in the industry, sor
 
 ## Interference
 
+- [How DoorDash Ads keep Consumers First with Budget A/B Experimentation](https://careersatdoordash.com/blog/doordash-ads-uses-budget-a-b-experimentation/) - Doordash (2025)
+
 - [Local Interference: Removing Interference Bias in Semi-Parametric Causal Models](https://research.atspotify.com/2025/7/local-interference-removing-interference-bias-in-semi-parametric-causal) - Spotify (2025)
 
 - [CUPED for Switchback Tests](https://medium.com/@garret.oconnell/cuped-for-switchback-tests-9e5b924ce1b0) - Bolt (2024)
