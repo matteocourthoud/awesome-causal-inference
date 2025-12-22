@@ -238,7 +238,9 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 ## Quasi-Experiments
 
-- [Spillover Detection for Donor Selection in Synthetic Control Models](https://research.atspotify.com/2025/11/spillover-detection-for-donor-selection-in-synthetic-control-models) Spotify (2025)
+- [Spillover Detection for Donor Selection in Synthetic Control Models](https://research.atspotify.com/2025/11/spillover-detection-for-donor-selection-in-synthetic-control-models) - Spotify (2025)
+
+- [Covariate Selection in Causal Inference: Good and Bad Controls](https://booking.ai/covariate-selection-in-causal-inference-good-and-bad-controls-5f56126a984a) - Booking (2025)
 
 - [Quasi-experiments in Ads Measurement](https://medium.com/bolt-labs/quasi-experiments-in-ads-mea-96b4532811ed) - Bolt (2025)
 
