@@ -299,6 +299,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 ## Pricing
 
+- [Learning Personalised Prices in Ad Auctions with Game Theory and Deep Learning](https://research.atspotify.com/2025/11/learning-personalised-prices-in-ad-auctions-with-game-theory-and-deep) - Spotify (2025)
+
 - 📝 [Causal Forecasting for Pricing](https://arxiv.org/abs/2312.15282) - Zalando (2024)
 
 - 📝 [Science of Price Experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
