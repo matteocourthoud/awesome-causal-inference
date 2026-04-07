@@ -216,7 +216,7 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 - 📝 [Choosing a Proxy Metric from Past Experiments](https://arxiv.org/abs/2309.07893) - Google (2023)
 
-- 📝 [Surrogate Metrics as Filteers](https://kenhung.me/files/surrogates-as-filters.pdf) - Meta (2023)
+- 📝 [Surrogate Metrics as Filters](https://kenhung.me/files/surrogates-as-filters.pdf) - Meta (2023)
 
 - 📝 [Evaluating the Surrogate Index as a Decision-Making Tool Using 200 A/B Tests at Netflix](https://arxiv.org/abs/2311.11922) - Netflix (2023)
 
