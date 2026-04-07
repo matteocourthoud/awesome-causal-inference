@@ -387,6 +387,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 - [Using Causal Inference to Improve the Uber User Experience](https://www.uber.com/en-CH/blog/causal-inference-at-uber/) - Uber (2019)
 
+- [Selection Bias in Online Experimentation](https://medium.com/airbnb-engineering/selection-bias-in-online-experimentation-c3d67795cceb) - Airbnb (2017)
+
 - [Significance Testing for Ratio Metrics in Experiments](https://tech.ebayinc.com/engineering/significance-testing-for-ratio-metrics-in-experiments/) - Ebay (2016)
 
 - 📝 [Automatic Detection and Diagnosis of Biased Online Experiments](https://arxiv.org/pdf/1808.00114.pdf) - Linkedin (2011)
