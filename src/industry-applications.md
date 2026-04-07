@@ -12,7 +12,6 @@ The following is a list of applications of causal inference in the industry, sor
 - [Long Term Effects](#long-term-effects)
 - [Geo-Experiments](#geo-experiments)
 - [Quasi-Experiments](#quasi-experiments)
-- [Mediation Analysis](#mediation-analysis)
 - [Trustworthy Experiments](#trustworthy-experiments)
 - [Interaction Effects](#interaction-effects)
 - [Multi-Armed Bandits](#multi-armed-bandits)
