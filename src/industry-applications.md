@@ -274,11 +274,6 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 
 
-## Mediation Analysis
-
-- 📝 [Mediation Analysis in Online Experiments at Booking.com: Disentangling Direct and Indirect Effects](https://arxiv.org/abs/1810.12718) - Booking (2018)
-
-
 
 ## Trustworthy Experiments
 
@@ -386,6 +381,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 - [Analyzing Switchback Experiments by Cluster Robust Standard Error to Prevent False Positive Results](https://doordash.engineering/2019/09/11/cluster-robust-standard-error-in-switchback-experiments/) - Doordash (2019)
 
 - [Using Causal Inference to Improve the Uber User Experience](https://www.uber.com/en-CH/blog/causal-inference-at-uber/) - Uber (2019)
+
+- 📝 [Mediation Analysis in Online Experiments at Booking.com: Disentangling Direct and Indirect Effects](https://arxiv.org/abs/1810.12718) - Booking (2018)
 
 - [Selection Bias in Online Experimentation](https://medium.com/airbnb-engineering/selection-bias-in-online-experimentation-c3d67795cceb) - Airbnb (2017)
 
