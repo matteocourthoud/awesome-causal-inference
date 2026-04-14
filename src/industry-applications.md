@@ -349,6 +349,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 - [Why We Shouldn’t Condition on Posttreatment Variables in Experiments](https://medium.com/@AnalyticsAtMeta/why-we-shouldnt-condition-on-posttreatment-variables-in-experiments-5746220133ca) - Meta (2025)
 
+- [Risk-Aware Product Decisions in A/B Tests with Multiple Metrics](https://engineering.atspotify.com/2024/03/risk-aware-product-decisions-in-a-b-tests-with-multiple-metrics) - Spotify (2024)
+
 - [External Validity of Online Experiments: Can We Predict the Future?](https://www.microsoft.com/en-us/research/articles/external-validity-of-online-experiments-can-we-predict-the-future/) - Microsoft (2024)
 
 - [Experiment Faster and with Less Effort](https://careersatdoordash.com/blog/experiment-faster-and-with-less-effort/) - Doordash (2024)
