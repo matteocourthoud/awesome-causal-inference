@@ -3,21 +3,22 @@
 The following is a list of applications of causal inference in the industry, sorted by topic and date.
 
 - [Experimentation Platform](#experimentation-platform)
-- [Variance Reduction](#variance-reduction)
-- [Conditional Average Treatment Effects](#conditional-average-treatment-effects)
-- [Quantile Testing](#quantile-testing)
+- [Geo-Experiments](#geo-experiments)
+- [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
+- [Interaction Effects](#interaction-effects)
 - [Interference](#interference)
-- [Sequential Testing](#sequential-testing)
 - [Interleaving](#interleaving)
 - [Long Term Effects](#long-term-effects)
-- [Geo-Experiments](#geo-experiments)
-- [Quasi-Experiments](#quasi-experiments)
-- [Trustworthy Experiments](#trustworthy-experiments)
-- [Interaction Effects](#interaction-effects)
 - [Multi-Armed Bandits](#multi-armed-bandits)
 - [Pricing](#pricing)
+- [Quantile Testing](#quantile-testing)
+- [Quasi-Experiments](#quasi-experiments)
+- [Sequential Testing](#sequential-testing)
 - [Triggering and Dilution](#triggering-and-dilution)
-- [Misc](#misc)
+- [Trustworthy Experiments](#trustworthy-experiments)
+- [Variance Reduction](#variance-reduction)
+
+Uncategorized articles are grouped in [misc](#misc).
 
 
 
@@ -51,29 +52,19 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Variance Reduction
+## Geo-Experiments
 
-- [CUPED for Switchback Tests](https://medium.com/@garret.oconnell/cuped-for-switchback-tests-9e5b924ce1b0) - Bolt (2024)
+- [Harnessing the Power of Geo-experimentation: How Mercado Libre Measures the Effectiveness of its Third-party Media Strategies using GeoLift](https://medium.com/mercadolibre-tech/harnessing-the-power-of-geo-experimentation-how-mercado-libre-measures-the-effectiveness-of-its-f68b38857c4b) - Mercado Libre (2023)
 
-- [How Meta scaled regression adjustment to improve power across hundreds of thousands of experiments on our AB testing platform](https://medium.com/@AnalyticsAtMeta/how-meta-scaled-regression-adjustment-to-improve-power-across-hundreds-of-thousands-of-experiments-624e08aaf560) - Meta (2024)
+- [Market Segmentation for Geo-Testing at Scale](https://medium.com/expedia-group-tech/market-segmentation-for-geo-testing-at-scale-8d593e0aa755) - Expedia (2023)
 
-- [Unlocking 66% Faster Experiments with Covariate Adjustment: Power Analysis for Clustered Data, Ratio Metrics, and OLS Regression](https://tech.instacart.com/unlocking-66-faster-experiments-with-covariate-adjustment-power-analysis-for-clustered-data-3a0c11c7baa6) - Instacart (2024)
+- 📝 [Trimmed Match Design for Randomized Paired Geo Experiments](https://arxiv.org/abs/2105.07060) - Google (2021)
 
-- 📝 [On the Limits of Regression Adjustment](https://arxiv.org/abs/2311.17858) - Meta (2023)
+- [There’s More to Experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
 
-- [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4) - Walmart (2023)
+- [Why Tenant-Randomized A/B Test is Challenging and Tenant-Pairing May Not Work](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/why-tenant-randomized-a-b-test-is-challenging-and-tenant-pairing-may-not-work/) - Microsoft (2020)
 
-- [Deep Dive Into Variance Reduction](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/deep-dive-into-variance-reduction/) - Microsoft (2022)
-
-- [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255) - Booking.com (2020)
-
-- [Improving Experimental Power through Control Using Predictions as Covariate (CUPAC)](https://doordash.engineering/2020/06/08/improving-experimental-power-through-control-using-predictions-as-covariate-cupac/) - Doordash (2020)
-
-- [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d) - Booking.com (2018)
-
-- 📝 [Improving the Sensitivity of Online Controlled Experiments: Case Studies at Netflix](https://www.kdd.org/kdd2016/papers/files/adp0945-xieA.pdf) - Neflix (2016)
-
-- 📝 [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data](https://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf) - Microsoft (2013)
+- 📝 [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
 
 
 
@@ -89,20 +80,12 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Quantile Testing
+## Interaction Effects
 
-- [Comparing Quantiles at Scale in Online A/B-Testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
-  - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
+- [A/B Interactions: A Call to Relax](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-interactions-a-call-to-relax) - Microsoft (2023)
 
-- [How Wish A/B tests percentiles](https://towardsdatascience.com/how-wish-a-b-tests-percentiles-35ee3e4589e7) - Wish (2021)
+- [Embrace Overlapping A/B Tests and Avoid the Dangers of Isolating Experiments](https://blog.statsig.com/embracing-overlapping-a-b-tests-and-the-danger-of-isolating-experiments-cb0a69e09d3) - Statsig (2021)
 
-- 📝 [Large-Scale Online Experimentation with Quantile Metrics](https://arxiv.org/pdf/1903.08762.pdf) - LinkedIn (2019)
-
-- 📝 [Applying the Delta Method in Metric Analytics: A Practical Guide with Novel Ideas](https://arxiv.org/pdf/1803.06336.pdf) - Microsoft (2018)
-
-- [Analyzing Experiment Outcomes: Beyond Average Treatment Effects](https://www.uber.com/en-CH/blog/analyzing-experiment-outcomes/) - Uber (2018)
-
-- [Streaming Video Experimentation at Netflix: Visualizing Practical and Statistical Significance](https://netflixtechblog.com/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a) - Netflix (2018)
 
 
 
@@ -154,32 +137,6 @@ The following is a list of applications of causal inference in the industry, sor
 
 
 
-## Sequential Testing
-
-- [Sequential Testing Keeps the World Streaming Netflix Part 2: Counting Processes](https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642) - Netflix (2024)
-  - [Anytime-Valid Inference For Multinomial Count Data](https://arxiv.org/abs/2011.03567) - Netflix (2022)
-  
-- [Sequential A/B Testing Keeps the World Streaming Netflix Part 1: Continuous Data](https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df) - Netflix (2024)
-  - 📝 [Rapid Regression Detection in Software Deployments through Sequential Testing](https://arxiv.org/abs/2205.14762) - Netflix (2022)
-
-- [Sequential Testing on Statsig](https://www.statsig.com/blog/sequential-testing-on-statsig) - Statsig (2023)
-
-- [Sequential Testing at Booking.com](https://booking.ai/sequential-testing-at-booking-com-650954a569c7) - Booking (2023)
-
-- [Choosing Sequential Testing Framework — Comparisons and Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/) - Spotify (2023)
-
-- [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2019)
-
-- 📝 [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf) - Optimizely (2017)
-
-- [Sequential Testing](https://docs.statsig.com/experiments-plus/sequential-testing) - Statsig
-
-- [Sequential Testing](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty#sequential) - Eppo
-
-- 📝 [Safely and Quickly Deploying New Features with a Staged Rollout Framework Using
-Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.10493) - Uber (2019)
-
-
 
 ## Interleaving
 
@@ -227,19 +184,46 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 
 
-## Geo-Experiments
+## Multi-Armed Bandits
 
-- [Harnessing the Power of Geo-experimentation: How Mercado Libre Measures the Effectiveness of its Third-party Media Strategies using GeoLift](https://medium.com/mercadolibre-tech/harnessing-the-power-of-geo-experimentation-how-mercado-libre-measures-the-effectiveness-of-its-f68b38857c4b) - Mercado Libre (2023)
+- [Calibrated Recommendations with Contextual Bandits](https://research.atspotify.com/publications/calibrated-recommendations-with-contextual-bandits) Spotify (2025)
 
-- [Market Segmentation for Geo-Testing at Scale](https://medium.com/expedia-group-tech/market-segmentation-for-geo-testing-at-scale-8d593e0aa755) - Expedia (2023)
+- [Bandits for Marketing Optimization](https://tech.instacart.com/bandits-for-marketing-optimization-f5a63b9bfaa7) - Instacart (2024)
 
-- 📝 [Trimmed Match Design for Randomized Paired Geo Experiments](https://arxiv.org/abs/2105.07060) - Google (2021)
+- 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
 
-- [There’s More to Experimentation than A/B](https://booking.ai/theres-more-to-experimentation-than-a-b-223fba846876) - Booking (2020)
+- [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/) - Stitchfix (2020)
 
-- [Why Tenant-Randomized A/B Test is Challenging and Tenant-Pairing May Not Work](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/why-tenant-randomized-a-b-test-is-challenging-and-tenant-pairing-may-not-work/) - Microsoft (2020)
 
-- 📝 [Measuring Ad Effectiveness Using Geo Experiments](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/38355.pdf) - Google (2011)
+
+## Pricing
+
+- [Learning Personalised Prices in Ad Auctions with Game Theory and Deep Learning](https://research.atspotify.com/2025/11/learning-personalised-prices-in-ad-auctions-with-game-theory-and-deep) - Spotify (2025)
+
+- 📝 [Causal Forecasting for Pricing](https://arxiv.org/abs/2312.15282) - Zalando (2024)
+
+- 📝 [Science of Price Experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
+
+- 📝 [Analytics for an Online Retailer: Demand Forecasting and Price Optimization](https://pubsonline.informs.org/doi/10.1287/msom.2015.0561) - Rue La La (2015)
+
+- [Clearance Pricing Optimization for a Fast-Fashion Retailer](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1102) - Zara (2012)
+
+
+
+## Quantile Testing
+
+- [Comparing Quantiles at Scale in Online A/B-Testing](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - Spotify (2022)
+  - 📝 [Resampling-free bootstrap inference for quantiles](https://arxiv.org/pdf/2202.10992.pdf) - Spotify (2022) 
+
+- [How Wish A/B tests percentiles](https://towardsdatascience.com/how-wish-a-b-tests-percentiles-35ee3e4589e7) - Wish (2021)
+
+- 📝 [Large-Scale Online Experimentation with Quantile Metrics](https://arxiv.org/pdf/1903.08762.pdf) - LinkedIn (2019)
+
+- 📝 [Applying the Delta Method in Metric Analytics: A Practical Guide with Novel Ideas](https://arxiv.org/pdf/1803.06336.pdf) - Microsoft (2018)
+
+- [Analyzing Experiment Outcomes: Beyond Average Treatment Effects](https://www.uber.com/en-CH/blog/analyzing-experiment-outcomes/) - Uber (2018)
+
+- [Streaming Video Experimentation at Netflix: Visualizing Practical and Statistical Significance](https://netflixtechblog.com/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a) - Netflix (2018)
 
 
 
@@ -273,6 +257,44 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 
 
+## Sequential Testing
+
+- [Are Optimal Multiple Testing Corrections Optimal for You?](https://confidence.spotify.com/blog/multiple-testing-corrections) - Spotify (2026)
+
+- [Sequential Testing Keeps the World Streaming Netflix Part 2: Counting Processes](https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642) - Netflix (2024)
+  - [Anytime-Valid Inference For Multinomial Count Data](https://arxiv.org/abs/2011.03567) - Netflix (2022)
+  
+- [Sequential A/B Testing Keeps the World Streaming Netflix Part 1: Continuous Data](https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df) - Netflix (2024)
+  - 📝 [Rapid Regression Detection in Software Deployments through Sequential Testing](https://arxiv.org/abs/2205.14762) - Netflix (2022)
+
+- [Sequential Testing on Statsig](https://www.statsig.com/blog/sequential-testing-on-statsig) - Statsig (2023)
+
+- [Sequential Testing at Booking.com](https://booking.ai/sequential-testing-at-booking-com-650954a569c7) - Booking (2023)
+
+- [Choosing Sequential Testing Framework — Comparisons and Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/) - Spotify (2023)
+
+- [Improving Experimentation Efficiency at Netflix with Meta Analysis and Optimal Stopping](https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be) - Netflix (2019)
+
+- 📝 [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf) - Optimizely (2017)
+
+- [Sequential Testing](https://docs.statsig.com/experiments-plus/sequential-testing) - Statsig
+
+- [Sequential Testing](https://docs.geteppo.com/statistics/confidence-intervals/statistical-nitty-gritty#sequential) - Eppo
+
+- 📝 [Safely and Quickly Deploying New Features with a Staged Rollout Framework Using
+Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.10493) - Uber (2019)
+
+
+
+## Triggering and Dilution
+
+- [How Instacart Measures the True Value of Advertising: The Methodology of Ad Incrementality](https://www.instacart.com/company/how-its-made/how-instacart-measures-the-true-value-of-advertising-the-methodology-of-ad-incrementality/) - Instacart (2023)
+
+- [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
+
+- [Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments](https://alexdeng.github.io/public/files/wsdm2015-dilution.pdf) - Microsoft (2015)
+
+
 
 ## Trustworthy Experiments
 
@@ -292,47 +314,32 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 
 
-## Interaction Effects
+## Variance Reduction
 
-- [A/B Interactions: A Call to Relax](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-interactions-a-call-to-relax) - Microsoft (2023)
+- [CUPED for Switchback Tests](https://medium.com/@garret.oconnell/cuped-for-switchback-tests-9e5b924ce1b0) - Bolt (2024)
 
-- [Embrace Overlapping A/B Tests and Avoid the Dangers of Isolating Experiments](https://blog.statsig.com/embracing-overlapping-a-b-tests-and-the-danger-of-isolating-experiments-cb0a69e09d3) - Statsig (2021)
+- [How Meta scaled regression adjustment to improve power across hundreds of thousands of experiments on our AB testing platform](https://medium.com/@AnalyticsAtMeta/how-meta-scaled-regression-adjustment-to-improve-power-across-hundreds-of-thousands-of-experiments-624e08aaf560) - Meta (2024)
 
+- [Unlocking 66% Faster Experiments with Covariate Adjustment: Power Analysis for Clustered Data, Ratio Metrics, and OLS Regression](https://tech.instacart.com/unlocking-66-faster-experiments-with-covariate-adjustment-power-analysis-for-clustered-data-3a0c11c7baa6) - Instacart (2024)
 
+- 📝 [On the Limits of Regression Adjustment](https://arxiv.org/abs/2311.17858) - Meta (2023)
 
-## Multi-Armed Bandits
+- [How Walmart Leverages CUPED and Reduces Experimentation Lifecycle](https://medium.com/walmartglobaltech/how-walmart-leverages-cuped-and-reduces-experimentation-lifecycle-eae2446c2ee4) - Walmart (2023)
 
-- [Calibrated Recommendations with Contextual Bandits](https://research.atspotify.com/publications/calibrated-recommendations-with-contextual-bandits) Spotify (2025)
+- [Deep Dive Into Variance Reduction](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/deep-dive-into-variance-reduction/) - Microsoft (2022)
 
-- [Bandits for Marketing Optimization](https://tech.instacart.com/bandits-for-marketing-optimization-f5a63b9bfaa7) - Instacart (2024)
+- [Increasing the sensitivity of experiments with rank transformation](https://booking.ai/increasing-sensitivity-of-experiments-with-the-rank-transformation-draft-c01aff70b255) - Booking.com (2020)
 
-- 📝 [Design-Based Inference for Multi-arm Bandits](https://arxiv.org/pdf/2302.14136.pdf) - Netflx (2023)
+- [Improving Experimental Power through Control Using Predictions as Covariate (CUPAC)](https://doordash.engineering/2020/06/08/improving-experimental-power-through-control-using-predictions-as-covariate-cupac/) - Doordash (2020)
 
-- [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/) - Stitchfix (2020)
+- [How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d) - Booking.com (2018)
 
+- 📝 [Improving the Sensitivity of Online Controlled Experiments: Case Studies at Netflix](https://www.kdd.org/kdd2016/papers/files/adp0945-xieA.pdf) - Neflix (2016)
 
-
-## Pricing
-
-- [Learning Personalised Prices in Ad Auctions with Game Theory and Deep Learning](https://research.atspotify.com/2025/11/learning-personalised-prices-in-ad-auctions-with-game-theory-and-deep) - Spotify (2025)
-
-- 📝 [Causal Forecasting for Pricing](https://arxiv.org/abs/2312.15282) - Zalando (2024)
-
-- 📝 [Science of Price Experimentation at Amazon](https://www.amazon.science/publications/science-of-price-experimentation-at-amazon) - Amazon (2024)
-
-- 📝 [Analytics for an Online Retailer: Demand Forecasting and Price Optimization](https://pubsonline.informs.org/doi/10.1287/msom.2015.0561) - Rue La La (2015)
-
-- [Clearance Pricing Optimization for a Fast-Fashion Retailer](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1102) - Zara (2012)
+- 📝 [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data](https://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf) - Microsoft (2013)
 
 
 
-## Triggering and Dilution
-
-- [How Instacart Measures the True Value of Advertising: The Methodology of Ad Incrementality](https://www.instacart.com/company/how-its-made/how-instacart-measures-the-true-value-of-advertising-the-methodology-of-ad-incrementality/) - Instacart (2023)
-
-- [Overtracking and Trigger Analysis: Reducing Sample Sizes while INCREASING the Sensitivity of Experiments](https://medium.com/booking-com-data-science/overtracking-and-trigger-analysis-how-to-reduce-sample-sizes-and-increase-the-sensitivity-of-71755bad0e5f) - Booking (2022)
-
-- [Diluted Treatment Effect Estimation for Trigger Analysis in Online Controlled Experiments](https://alexdeng.github.io/public/files/wsdm2015-dilution.pdf) - Microsoft (2015)
 
 
 
