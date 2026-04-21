@@ -304,6 +304,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 - [Imbalance Detection for Healthier Experimentation](https://www.etsy.com/codeascraft/imbalance-detection-for-healthier-experimentation) - Etsy (2022)
 
+- [Why We Use Experimentation Quality as the Main KPI for Our Experimentation Platform](https://medium.com/booking-product/why-we-use-experimentation-quality-as-the-main-kpi-for-our-experimentation-platform-f4c1ce381b81) - Booking (2021)
+
 - [Patterns of Trustworthy Experimentation: During-Experiment Stage](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-during-experiment-stage/) - Microsoft (2021)
 
 - [More Trustworthy A/B Analysis: Less Data Sampling and More Data Reducing](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/more-trustworthy-a-b-analysis-less-data-sampling-and-more-data-reducing/) - Microsoft (2021)
