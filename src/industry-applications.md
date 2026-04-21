@@ -298,6 +298,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 ## Trustworthy Experiments
 
+- [Scaling Experimentation Quality at Booking.com](https://booking.ai/scaling-experimentation-quality-at-booking-com-726152ee4ef0) - Booking (2026)
+
 - [Answering Counterfactual “what-if” Questions in a Trustworthy and Efficient Manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
 
 - [Imbalance Detection for Healthier Experimentation](https://www.etsy.com/codeascraft/imbalance-detection-for-healthier-experimentation) - Etsy (2022)
