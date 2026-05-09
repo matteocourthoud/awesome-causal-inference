@@ -99,6 +99,8 @@ The following is a list of causal inference libraries, ordered by language and p
 
 - [scikit-uplift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
 
+- [StatsPAI](https://github.com/brycewang-stanford/StatsPAI) - Agent-native causal inference and applied econometrics toolkit with 280+ functions, unifying R/Stata econometrics ecosystems (fixest, did, rdrobust, gsynth, DoubleML) into one Python API
+
 
 
 ## <img width="24" src="img/icon/r.png"> R
