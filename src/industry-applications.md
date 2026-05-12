@@ -298,6 +298,8 @@ Sequential Test and Adaptive Experimental Design](https://arxiv.org/pdf/1905.104
 
 ## Trustworthy Experiments
 
+- [WhyLab: Gemini 2.5 Docker Validation for Causal Inference on AI-Generated Code](https://huggingface.co/datasets/neogenesislab/whylab-gemini-2-5-docker-validation) - Neo Genesis (2026). CC-BY-4.0 dataset with 67-problem prefilter, 3 seeds × 2 conditions = 402 episodes Docker-grounded validation against SWE-bench. Published **honest null result**: selective adaptive C2 does not exceed fixed C2 on the baseline-fail slice. DOI: [10.5281/zenodo.20018468](https://doi.org/10.5281/zenodo.20018468).
+
 - [Scaling Experimentation Quality at Booking.com](https://booking.ai/scaling-experimentation-quality-at-booking-com-726152ee4ef0) - Booking (2026)
 
 - [Answering Counterfactual “what-if” Questions in a Trustworthy and Efficient Manner](https://research.atspotify.com/2023/04/answering-counterfactual-what-if-questions-in-a-trustworthy-and-efficient-manner/) - Spotify (2023)
