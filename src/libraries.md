@@ -45,8 +45,8 @@ The following is a list of causal inference libraries, ordered by language and p
   - [iv.nnet](https://econml.azurewebsites.net/spec/estimation/deepiv.html) - Deep instrumental variables
   - [dynamic_dml](https://econml.azurewebsites.net/spec/estimation/dynamic_dml.html) - Dynamic double machine learning
 
-- [CausalNex](https://github.com/quantumblacklabs/causalnex/)
-![stars](https://img.shields.io/github/stars/quantumblacklabs/causalnex)
+- [CausalNex](https://github.com/mckinsey/causalnex/)
+![stars](https://img.shields.io/github/stars/mckinsey/causalnex)
   - [structure](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html) - Directed acyclic graph structure learning
   - [network](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Fitting-the-Conditional-Distribution-of-the-Bayesian-Network) - Bayesian network modeling
   - [evaluation](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html#Model-Probability) - Model evaluation
