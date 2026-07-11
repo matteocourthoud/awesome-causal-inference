@@ -155,3 +155,16 @@ The following is a list of causal inference libraries, ordered by language and p
   - [gc](https://dscolby.github.io/CausalELM.jl/stable/guide/gcomputation/) - G-computation via machine learning
   - [dml](https://dscolby.github.io/CausalELM.jl/stable/guide/doublemachinelearning/) - Double machine learning
   - [metalearners](https://dscolby.github.io/CausalELM.jl/stable/guide/metalearners/) - S-, T-, X, R-learners
+
+- [FinAI Research Workflow](https://github.com/csmar432/finai-research)
+  ![stars](https://img.shields.io/github/stars/csmar432/finai-research)
+  - [didi](https://github.com/csmar432/finai-research) - Modern staggered DID (Callaway-Sant'Anna, Sun-Abraham, Borusyak)
+  - [synth](https://github.com/csmar432/finai-research) - Synthetic control and synthetic DiD
+  - [iv](https://github.com/csmar432/finai-research) - IV / 2SLS for panel and cross-section
+  - [gmm](https://github.com/csmar432/finai-research) - Panel GMM (Arellano-Bond, Blundell-Bond)
+  - [rdd](https://github.com/csmar432/finai-research) - Sharp / fuzzy regression discontinuity
+  - [triple](https://github.com/csmar432/finai-research) - Triple-difference (DDD)
+  - [panelquantile](https://github.com/csmar432/finai-research) - Panel fixed-effects quantile regression
+  - [spatial](https://github.com/csmar432/finai-research) - Spatial regression (SAR/SEM/SDM)
+  - [robustness](https://github.com/csmar432/finai-research) - 19-class automated robustness testing
+
