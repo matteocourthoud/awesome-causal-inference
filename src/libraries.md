@@ -99,6 +99,8 @@ The following is a list of causal inference libraries, ordered by language and p
 
 - [scikit-uplift](https://github.com/maks-sh/scikit-uplift) - Basic meta-learner and uplift tools
 
+- [CausalEstimate](https://github.com/kirilklein/CausalEstimate) - IPW, AIPW and TMLE from precomputed propensity scores and outcome predictions (bring-your-own model), with bootstrap CIs and matching
+
 
 
 ## <img width="24" src="img/icon/r.png"> R
