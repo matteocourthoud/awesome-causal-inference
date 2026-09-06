@@ -63,6 +63,10 @@ The following is a list of causal inference libraries, ordered by language and p
   - [DifferenceInDifferences](https://causalpy.readthedocs.io/en/latest/notebooks/did_pymc.html) - Difference-in-differences
   - [RegressionDiscontinuity](https://causalpy.readthedocs.io/en/latest/notebooks/rd_pymc.html#) - Regression discontinuity
 
+- [Riak](https://github.com/irwanformal-cmd/riak)
+![stars](https://img.shields.io/github/stars/irwanformal-cmd/riak)
+  - Self-contained causal prediction engine: turns text into a cause-effect web with outcome chains, Monte-Carlo confidence intervals, and mathematical derivations. Zero dependencies (Python stdlib only), runs offline, optional LLM. Ships with a no-build web UI and REST API.
+
 - [GLuM](https://github.com/Quantco/glum/)
 ![stars](https://img.shields.io/github/stars/Quantco/glum)
   - Fast generalized linear models [[Docs](https://glum.readthedocs.io/en/latest/index.html)]
